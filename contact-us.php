@@ -36,9 +36,8 @@
 					<p>Newport Lighthouse</p>
 				</div>
 				<h2>Arnold Beach Haven</h2>
-				<p>For inquiries call</p>
+				<p>For inquiries call or email:</p>
 				<p><span class="bold">Sharon Arnold</span> 541-867-7116</p>
-				<p>or</p>
 				<p><span class="bold">E-mail:</span> sharon@arnoldbeachhaven.com</p>
 				
 				<div class="inner-wrapper">
