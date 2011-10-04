@@ -76,7 +76,6 @@
 					</ul>
 					<p>There are NO pets or smoking allowed</p>
 					<p>The house has blankets and pillows.  You will need to bring your own sheets, towels, dish towels, firewood (if you want to build a fire), paper products (including toilet paper) , and cleaning rags.  All cleaning supplies are supplied by us, except cleaning rags.  You will be expected to clean the house like you found it as it will be inspected after you leave.  If you prefer to have a cleaning service clean the house it will be an additional charge of $120.00.</p>
-					<h2 class="pad">Information About Barefoot Sands Booking</h2>
 					<a title="Availability Calendar" href="availability-rates.php">Availability &amp; Rates</a>
 				</div>
 				<h1>More Photos</h1>

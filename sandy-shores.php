@@ -47,20 +47,20 @@
 				</div>
 				<h2>Things to do at Sandy Shores</h2>
 					<ul>
-						<li><span></span>Seal Lion Caves  20 miles south</li>
-						<li><span></span>Cape Perpetua :  6 miles south</li>
+						<li><span></span>Sea Lion Caves: 20 miles south</li>
+						<li><span></span>Cape Perpetua: 6 miles south</li>
 						<li><span></span>Local Lighthouses</li>
 						<li><span></span>Oregon Coast Aquarium: 16 miles north</li>
 						<li><span></span>Hatfield Science Center:  16 miles north</li>
 						<li><span></span>Crabbing and Clamming in Alsea Bay:  4 miles north</li>
 						<li><span></span>Deep Sea Fishing on Charter Boats:  16 miles north</li>
 						<li><span></span>Oregon Sand Dunes:  33  miles south</li>
-						<li><span></span>Strawberry Hill-great tide pools&sea lions:  9 miles south</li>
+						<li><span></span>Strawberry Hill, great tide pools &amp; sea lions:  9 miles south</li>
 						<li><span></span>Golfing:  5 miles north</li>
 						<li><span></span>Kite flying</li>
 						<li><span></span>Beach:  right out the back door</li>
+						<li><span></span>Many quaint shops and  fine restaurants are located in Waldport, Yachats, and Newport.</li>
 					</ul>
-					<p>Many quaint shops and  fine restaurants are located in Waldport, Yachats, and Newport.</p>
 				<div class="inner-wrapper">
 					<h2>Information About Sandy Shores</h2>
 					<ul>
@@ -81,7 +81,6 @@
 					</ul>
 					<p>There are NO pets or smoking allowed</p>
 					<p>The house has blankets and pillows.  You will need to bring your own sheets, towels, firewood (if you want to build a fire), paper products- including toilet paper and paper towels, and cleaning rags.  All cleaning supplies are supplied by us, except cleaning rags.  You will be expected to clean the house like you found it as it will be inspected after you leave.  If you prefer to have a cleaning service clean the house it will be an additional charge of $120.00.</p>
-					<h2 class="pad">Information About Sandy Shores Booking</h2>
 					<a title="Availability Calendar" href="availability-rates.php">Availability &amp; Rates</a>
 				</div>
 				<h1>More Photos</h1>
