@@ -44,7 +44,7 @@
 						<h2>Barefoot Sands</h2>
 						<a title="Availability Calendar" href="http://www.Booking-Tracker.com?7014&amp;P" target="_cal" onclick="return !window.open('http://www.Booking-Tracker.com?7014&amp;P&amp;'+location.href,'_cal','resizable=1')">Calendar</a>
 					</div>
-					<p>For questions or to Book a home, <a href="contact-us.php" class="link">Contact Us</a></p>
+					<p>For questions or to Book a home, <a href="contact-us.php" class="link">Contact Us</a>.</p>
 				</div>
 				<div class="inner-wrapper">
 					<h1>Our Rates <span>(both homes have the same rate)*</span></h1>

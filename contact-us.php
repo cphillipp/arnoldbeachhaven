@@ -41,7 +41,7 @@
 				<p><span class="bold">E-mail:</span> sharon@arnoldbeachhaven.com</p>
 				
 				<div class="inner-wrapper">
-					<h2>Other Information</h2>
+					<h2>About Us</h2>
 					<p>We have a big family of our own with 6 married children, plus grandchildren, which is what got us into the big beach house business. We needed a big house on the beach to run to with our kids when they all came home for a visit. We have watched our own grandchildren run barefoot and play with their toys in the sand on this wonderful beach. There have been many bonfires built, sand castles made, hot dog and marsh mellow roasts, long walks with loved ones or alone, and many memories made at the Sandy Shores &amp; Barefoot Sands homes. We are happy and excited to share this with you.</p>
 					<p>Sharon &amp; Steve Arnold</p>
 				</div>
