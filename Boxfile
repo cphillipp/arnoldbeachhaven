@@ -1,0 +1,20 @@
+web1: #component type & number
+  name: drupal #component settings
+  document_root: /drupal
+  shared_writable_dirs:
+    - drupal/sites/default/files
+    - tmp
+  php_extensions:
+    - mysqli
+    - gd
+    - hash
+    - json
+    - xml
+    - pdo
+    - pdo_mysql
+    - mcrypt
+    - mbstring
+    - eaccelerator #recommended, but optional
+  db1: #component type & number
+    name: drupal-db #component settings
+    type: mysql
