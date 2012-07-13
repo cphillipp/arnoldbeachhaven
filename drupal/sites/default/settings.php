@@ -200,40 +200,56 @@
  *   );
  * @endcode
  */
+// $databases = array (
+//   'default' => 
+//   array (
+//     'default' => 
+//     array (
+//       'database' => 'arnoldbeachhaven',
+//       'username' => 'root',
+//       'password' => 'root',
+//       'host' => 'localhost',
+//       'port' => '',
+//       'driver' => 'mysql',
+//       'prefix' => '',
+//     ),
+//   ),
+// );
+
 if (isset($_SERVER['PLATFORM']) && $_SERVER['PLATFORM'] == 'PAGODABOX') {
-    $databases = array (
+  $databases = array (
+    'default' => 
+    array (
       'default' => 
       array (
-        'default' => 
-        array (
-          'database' => $_SERVER['DB1_NAME'],
-          'username' => $_SERVER['DB1_USER'],
-          'password' => $_SERVER['DB1_PASS'],
-          'host' => $_SERVER['DB1_HOST'],
-          'port' => $_SERVER['DB1_PORT'],
-          'driver' => 'mysql',
-          'prefix' => '',
-        ),
+        'database' => $_SERVER['DB1_NAME'],
+        'username' => $_SERVER['DB1_USER'],
+        'password' => $_SERVER['DB1_PASS'],
+        'host' => $_SERVER['DB1_HOST'],
+        'port' => $_SERVER['DB1_PORT'],
+        'driver' => 'mysql',
+        'prefix' => '',
       ),
-    );
+    ),
+  );
 }
  
 else {
-    $databases = array (
+  $databases = array (
+    'default' => 
+    array (
       'default' => 
       array (
-        'default' => 
-        array (
-          'database' => 'arnoldbeachhaven',
-          'username' => 'root',
-          'password' => 'root',
-          'host' => 'localhost',
-          'port' => '',
-          f'driver' => 'mysql',
-          'prefix' => '',
-        ),
+        'database' => 'arnoldbeachhaven',
+        'username' => 'root',
+        'password' => 'root',
+        'host' => 'localhost',
+        'port' => '',
+        'driver' => 'mysql',
+        'prefix' => '',
       ),
-    );
+    ),
+  );
 }
 
 /**
