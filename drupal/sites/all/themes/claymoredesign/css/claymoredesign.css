@@ -31,6 +31,7 @@
 .banner	#slides .pagination .current a         			{background-position:0 -12px;}
 
 .USER 													{clear:both; padding:20px; background:url('../images/box-tail.gif') repeat; -moz-border-radius:0 0 15px 15px; border-radius:0 0 15px 15px;}
+.USER.one 												{-moz-border-radius:15px; border-radius:15px;}
 .USER h1												{margin:0; padding:0 20px 20px; color:#A62500; font-size:25px; font-weight:normal; font-family:Georgia, serif;}
 .USER p 												{padding:0 20px; color:#292929;}
 
