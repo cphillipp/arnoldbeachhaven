@@ -15,6 +15,9 @@ stylesheets[all][] = css/lightbox.css
 scripts[] = js/prototype.js
 scripts[] = js/scriptaculous.js
 scripts[] = js/lightbox.js
+scripts[] = js/jquery1.7.2.min.js
+scripts[] = js/slides.min.jquery.js
+scripts[] = js/banner.js
 
 regions[header] = Header
 regions[help] = Help

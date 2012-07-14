@@ -106,7 +106,7 @@ body,
 #site-slogan,
 .ui-widget,
 .comment-form label {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: 'Abel', arial, sans;
 }
 #header,
 #footer-wrapper,
@@ -121,13 +121,14 @@ div.meta,
 p.comment-time,
 table,
 .breadcrumb {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:  'Abel', arial, sans;
+  letter-spacing: 1px;
 }
 input,
 textarea,
 select,
 a.button {
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+  font-family:  'Abel', arial, sans;;
 }
 
 /* ------------------ Reset Styles ------------------ */
@@ -468,7 +469,7 @@ h1#site-name {
   float: left; /* LTR */
   list-style: none;
   padding: 0 1px;
-  margin: 0 0 0 12px;
+  margin: 0 0 0 15px;
 }
 #main-menu-links a {
   color: #FFFFFF;
@@ -481,7 +482,7 @@ h1#site-name {
   float: left; /* LTR */
   height: 2.4em;
   line-height: 2.4em;
-  padding: 0 5em;
+  padding: 0 5.1em;
   text-decoration: none;
   /*text-shadow: 0 1px #000000;*/
   -khtml-border-radius-topleft: 15px;
@@ -538,6 +539,7 @@ h1#site-name {
   margin-bottom: 0px;
   background:#0d1f2b;
   width:930px;
+   -moz-border-radius:0 0 15px 15px; border-radius:0 0 15px 15px
 }
 
 /* ----------------- Featured ----------------- */

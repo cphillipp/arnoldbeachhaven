@@ -85,6 +85,7 @@
  * @see html.tpl.php
  */
 ?>
+<link href='http://fonts.googleapis.com/css?family=Forum|Abel' rel='stylesheet' type='text/css'>
 <div id="page-wrapper"><div id="page">
 
   <div id="header" class="<?php print $secondary_menu ? 'with-secondary-menu': 'without-secondary-menu'; ?>"><div class="section clearfix">
