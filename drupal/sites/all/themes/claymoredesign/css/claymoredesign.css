@@ -1,7 +1,7 @@
 /* GENERAL */
-::selection             								{background-color:#F9459E; color:#FFFFFF;}
-::moz-selection         								{background-color:#F9459E; color:#FFFFFF;}
-::webkit-selection      								{background-color:#F9459E; color:#FFFFFF;}
+::selection             								{background-color:#050c11; color:#FFFFFF;}
+::moz-selection         								{background-color:#050c11; color:#FFFFFF;}
+::webkit-selection      								{background-color:#050c11; color:#FFFFFF;}
 .bold 													{font-weight: bold}
 		
 /* CONTENT */		
@@ -35,5 +35,13 @@
 .USER h1												{margin:0; padding:0 20px 20px; color:#A62500; font-size:25px; font-weight:normal; font-family:Georgia, serif;}
 .USER p 												{padding:0 20px; color:#292929;}
 
-
+.footer .left-side										{margin:0; padding:0 0 0 40px; float:left;}
+.footer .left-side a									{margin:0; padding:0; color:#fff; font-size:11px; text-decoration:none;}
+.footer .left-side a:hover								{color:#c2edee;}
+.footer .left-side span									{margin:0; padding:0 5px 0 8px; color:#60859F; font-size:11px;}
+.footer .right-side										{margin:0; padding:0 40px 0 0; float:right;}
+.footer .right-side p									{margin:0; padding:0; color:#fff; font-size:11px;}
+.footer .right-side a									{color:#fff; font-size:11px;}
+.footer .right-side a:hover								{text-decoration:none;}
+.footer .right-side span								{margin:0; padding:0; color:#292929; font-size:11px;}
 

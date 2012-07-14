@@ -583,7 +583,7 @@ h1#site-name {
 /* ----------------- Content ------------------ */
 
 .content {
-  margin-top: 10px;
+  margin-top: 0px;
 }
 h1#page-title {
   font-size: 2em;
@@ -861,9 +861,9 @@ ul.links {
 }
 #footer-wrapper a:hover,
 #footer-wrapper a:focus {
-  color: #fefefe;
-  color: rgba(255, 255, 255, 0.95);
-  text-decoration: underline;
+  color: #c2edee;
+  color: #c2edee;
+  text-decoration: none;
 }
 #footer-wrapper .block {
   margin: 20px 0;
@@ -883,6 +883,7 @@ ul.links {
 #footer .block .content {
   padding: 0.5em 0;
   margin-top: 0;
+  overflow: hidden;
 }
 #footer .block h2 {
   margin: 0;
@@ -927,12 +928,12 @@ ul.links {
 }
 #footer {
   letter-spacing: 0.2px;
-  margin-top: 30px;
-  border-top: 1px solid #555;
-  border-color: rgba(255, 255, 255, 0.15);
+  margin-top: 10px;
+  /*border-top: 1px solid #60859F;
+  border-color: #60859F;*/
 }
 #footer .region {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 #footer .block {
   clear: both;
@@ -969,7 +970,7 @@ ul.links {
 
 .tabs {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 .tabs ul.primary {
   padding: 0 3px;

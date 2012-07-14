@@ -69,7 +69,7 @@ body,
   width: 240px;
 }
 #main-wrapper {
-  min-height: 300px;
+  /*min-height: 300px;*/
 }
 #content .section,
 .sidebar .section {
@@ -86,7 +86,7 @@ body,
   width: 280px;
 }
 #footer-wrapper {
-  padding: 35px 5px 30px;
+  padding: 0px 5px 30px;
 }
 .region-footer-firstcolumn,
 .region-footer-secondcolumn,
