@@ -1,27 +1,7 @@
-<div class="banner">
-	<div id="slides">
-		<div class="slides_container">
-			<div class="slide">
-				<img src="sites/all/themes/claymoredesign/images/banner01.jpg" alt="Sites to see on the Oregon Coast while staying at our Beach house rentals.">
-				<div class="caption" style="bottom: 0;"><p>Enjoy Beatuful Landmarks - Oregon Light house</p></div>
-			</div>
-			<div class="slide">
-				<img src="sites/all/themes/claymoredesign/images/banner02.jpg" alt="Large spaciouse interior room of our Oregon beach house rental.">
-				<div class="caption"><p>Property Interior - Comfortable and Spaciouse</p></div>
-			</div>
-			<div class="slide">
-				<img src="sites/all/themes/claymoredesign/images/banner03.jpg" alt="Oregon coast beach front of our rental house.">
-				<div class="caption"><p>Beach Front Properties - Oregon Coast</p></div>
-			</div>
-			<div class="slide">
-				<img src="sites/all/themes/claymoredesign/images/banner04.jpg" alt="Oregon Coast Marina and fishing boats.">
-				<div class="caption"><p>One of a kind Marine experience - Oregon Bay Front</p></div>
-			</div>
-		</div>
-	</div>
-</div>
+ <!-- Claymore Design Up Here -->
 
-<div class="USER">
+
+<div class="USER four">
 	<div id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>
 
 	  <?php print render($title_prefix); ?>

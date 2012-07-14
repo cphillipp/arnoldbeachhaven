@@ -1,7 +1,32 @@
- <!-- Claymore Design Up Here -->
- 
+<div class="left-box">
+	<h2>Sandy Shores</h2>
+	<a class="house1" title="Sandy Shores Frontal View" href="sites/all/themes/claymoredesign/images/house1-front.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Sandy Shores Frontal View"></a> 
+	<a class="hide" title="Sandy Shores Master Bedroom" href="sites/all/themes/claymoredesign/images/house1-masterbed.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-masterbed.jpg" alt="Sandy Shores Master Bedroom"></a> 
+	<a class="hide" title="Sandy Shores Master Bedroom" href="sites/all/themes/claymoredesign/images/house1-masterbed2.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-masterbed2.jpg" alt="Sandy Shores Master Bedroom"></a> 
+	<a class="hide" title="Sandy Shores Kitchen" href="sites/all/themes/claymoredesign/images/house1-kitchen.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-kitchen.jpg" alt="Sandy Shores kitchen"></a> 
+	<a class="hide" title="Sandy Shores Downstairs Bedroom" href="sites/all/themes/claymoredesign/images/house1-downstairsbed.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-downstairsbed.jpg" alt="Sandy Shores Downstairs Bedroom"></a> 
+	<a class="hide" title="Sandy Shores Living Room" href="sites/all/themes/claymoredesign/images/house1-livingroom.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-livingroom.jpg" alt="Sandy Shores Living Room"></a> 
+	<a class="hide" title="Sandy Shores Back View" href="sites/all/themes/claymoredesign/images/house1-back.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-back.jpg" alt="Sandy Shores Back View"></a> 
+	<a class="hide" title="Sandy Shores Back View" href="sites/all/themes/claymoredesign/images/house1-back2.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-back2.jpg" alt="Sandy Shores Back View"></a> 
+	<a class="hide" title="Sandy Shores Deck View" href="sites/all/themes/claymoredesign/images/house1-deck.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-deck.jpg" alt="Sandy Shores Deck View"></a> 
+	<a class="hide" title="Sandy Shores Beach View" href="sites/all/themes/claymoredesign/images/house1-beach.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-beach.jpg" alt="Sandy Shores Beach View"></a> 
+	<a class="hide" title="Sandy Shores Sunset View" href="sites/all/themes/claymoredesign/images/house1-sunset.jpg" rel="lightbox[house1]"><img src="sites/all/themes/claymoredesign/images/house1-sunset.jpg" alt="Sandy Shores Sunset View"></a>
+	<p>Click the image above to begin the slideshow</p>
+</div>
+<div class="right-box">
+	<h2>Barefoot Sands</h2>
+	<a class="house2" title="Barefoot Sands Frontal View" href="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" rel="lightbox[house2]"><img src="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt=""></a> 
+	<a class="hide" title="Barefoot Sands Back View" href="sites/all/themes/claymoredesign/images/house2/house2-back.jpg" rel="lightbox[house2]"><img src="sites/all/themes/claymoredesign/images/house2/house2-back.jpg" alt=""></a> 
+	<a class="hide" title="Barefoot Sands Fireplace View" href="sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" rel="lightbox[house2]"><img src="sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" alt=""></a> 
+	<a class="hide" title="Barefoot Sands Kitchen View" href="sites/all/themes/claymoredesign/images/house2/house2-kitchen.jpg" rel="lightbox[house2]"><img src="sites/all/themes/claymoredesign/images/house2/house2-kitchen.jpg" alt=""></a> 
+	<a class="hide" title="Barefoot Sands Master Bed View" href="sites/all/themes/claymoredesign/images/house2/house2-master-bed.jpg" rel="lightbox[house2]"><img src="sites/all/themes/claymoredesign/images/house2/house2-master-bed.jpg" alt=""></a> 
+	<a class="hide" title="Barefoot Sands View of the Beach" href="sites/all/themes/claymoredesign/images/house2/house2-view.jpg" rel="lightbox[house2]"><img src="sites/all/themes/claymoredesign/images/house2/house2-view.jpg" alt=""></a> 
+	<a class="hide" title="Barefoot Sands View of the Beach" href="sites/all/themes/claymoredesign/images/house2/house2-beach.jpg" rel="lightbox[house2]"><img src="sites/all/themes/claymoredesign/images/house2/house2-beach.jpg" alt=""></a> 
+	<a class="hide" title="Barefoot Sands Sunset View" href="sites/all/themes/claymoredesign/images/house2/house2-sunset.jpg" rel="lightbox[house2]"><img src="sites/all/themes/claymoredesign/images/house2/house2-sunset.jpg" alt=""></a>
+	<p>Click the image above to begin the slideshow</p>
+</div>
 
-<div class="USER two">
+<div class="USER one">
 	<div id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>
 
 	  <?php print render($title_prefix); ?>
