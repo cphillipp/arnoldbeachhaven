@@ -1,0 +1,51 @@
+/* CONTENT */
+.left-box										{margin:0 0 20px; padding:0; width:400px; float:left;}
+.left-box p										{padding:10px 0 0; color:#8e9ca4; font-family:Verdana, Geneva, sans-serif; font-size:10px;}
+.left-box h2									{color:#8e9ca4; font-family:Georgia; text-transform:uppercase;}
+.left-box a 									{border: 3px solid #ffffff}
+.house1											{margin:0; padding:0; width:400px; height:270px; display:block;}
+/*.left											{margin:0 0 20px 0; padding:0; width:370px; float:left;}
+.left .left-side								{margin:0; padding:0 0 20px; width:50%; float:left;}
+.left .right-side								{margin:0; padding:0 0 20px; width:50%; float:right;}
+.left h2										{margin:0; padding:0 0 10px;}
+.left a											{margin:0 0 0 20px; padding:2px 10px 3px; color:#fff; background:#BF4B30; text-decoration:none; -moz-border-radius:5px; border-radius:5px;}
+.left a:hover									{background:#A62000;}
+.left a.link									{margin:0; padding:0; color:#BF4B30; text-decoration:underline; background:transparent; -moz-border-radius:0px; border-radius:0px;}
+.left a.link:hover								{text-decoration:none;}*/
+.right-box										{margin:0 0 20px 0; padding:0; width:400px; float:right;}
+.right-box p									{padding:10px 0 0; color:#8e9ca4; font-family:Verdana, Geneva, sans-serif; font-size:10px;}
+.right-box h2									{color:#8e9ca4; font-family:Georgia; font-size:17px; text-transform:uppercase;}
+.right-box a 									{border: 3px solid #ffffff}
+.house2											{margin:0; padding:0; width:400px; height:270px; display:block;}
+.house2 img										{width:400px; height:270px;}
+/*.lighthouse										{margin:0; padding:0; width:400px; height:267px; display:block;}
+.lighthouse2									{margin:0; padding:0; width:400px; height:259px; display:block;}
+.sub-content									{margin:0 auto; padding:20px 20px; width:800px; background-color:#f0f8ff; clear:both; overflow:hidden; -moz-border-radius: 10px; border-radius:  10px;}
+.sub-content h1									{clear:both; text-align:center;}
+.sub-content h1 span							{margin:0; padding:0; color:#581f0f; font-size:12px; display:block; font-family:tahoma;}
+.sub-content p									{margin:0; padding:0 0 5px;}
+.sub-content span.highlight						{color:#FF591F;}
+.sub-content ul									{margin:0; padding:0; list-style-type:none;}
+.sub-content ul li								{margin:0; padding:0 0 10px; color:#000;}
+.sub-content ul li span							{margin:0 5px 0 0; padding:0; width:20px; height:20px; display:block; float:left; background:url('../images/fish-bullet2.png') no-repeat 0 0;}
+.sub-content .small-box							{margin:0 33px 40px; padding:0; width:200px; height:133px; float:left;}
+.sub-content .small-box img						{width:200px; height:133px; border:5px solid #dfdfdf;}
+.sub-content.narrow .right-box					{margin:0 0 20px 20px;}
+.sub-content.narrow .right-box p				{color:#071C71; padding:0;}
+.sub-content.narrow h2							{padding-left:20px; font-size:14px; text-transform:uppercase;}
+.sub-content.narrow p							{padding-left:20px;}
+.sub-content.narrow ul							{padding-left:20px;}
+.sub-content .inner-wrapper						{margin:20px auto; padding:10px 20px; width:auto; background:#FFF1CF; clear:both; overflow:hidden; -moz-border-radius: 10px; border-radius:  10px;}
+.sub-content .inner-wrapper h2					{padding-left:0;}
+.sub-content .inner-wrapper h2.pad				{padding-top:20px;}
+.sub-content .inner-wrapper ul					{padding-left:0;}
+.sub-content .inner-wrapper p					{padding-left:0;}
+.sub-content .inner-wrapper .left-side			{margin:0; padding:0; width:50%; float:left;}
+.sub-content .inner-wrapper .left-side h3		{margin:0; padding:0; text-decoration:underline;}
+.sub-content .inner-wrapper .right-side			{margin:0; padding:0; width:50%; float:right;}
+.sub-content .inner-wrapper .right-side h3		{margin:0; padding:0; text-decoration:underline;}
+.sub-content .inner-wrapper a					{margin:0; padding:2px 10px 3px; color:#fff; background:#BF4B30; text-decoration:none; -moz-border-radius: 5px; border-radius:  5px;}
+.sub-content .inner-wrapper a:hover				{background:#A62000;}*/
+.hide											{display:none;}
+
+
