@@ -1,12 +1,12 @@
-<div id="house2" class="right-box">
+<div id="house" class="right-box">
 	<a href="sites/all/themes/claymoredesign/images/surland.png" title="Surland View" class="surland"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Surland View" /></a>
 	<p>Surland View</p>
 </div>
 <div class="top">
-	<h1>Contact Arnold Beach Haven</h1>
-	<p>For inquiries call or email:</p>
-	<p><span class="bold">Sharon Arnold</span> 541-867-7116</p>
-	<p><span class="bold">E-mail:</span> <a href="mailto:sharon@arnoldbeachhaven.com">sharon@arnoldbeachhaven.com</a></p>
+	<h1>Arnold Beach Haven</h1>
+	<p>Ready to book your vacation, or have questions?</p>
+	<h2><span>Phone:</span> Sharon Arnold - 541-867-7116</h2>
+	<h2><span>Email:</span> <a href="mailto:sharon@arnoldbeachhaven.com">sharon@arnoldbeachhaven.com</a></h2>
 </div>
 
 <div class="USER four">

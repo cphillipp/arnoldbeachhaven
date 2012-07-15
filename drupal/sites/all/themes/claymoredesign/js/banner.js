@@ -32,7 +32,7 @@ $(document).ready(function() {
     });
   });
   $(function() {
-      $('#house1 a').lightBox();
+      $('#house a').lightBox();
   });
   $(function() {
       $('#house2 a').lightBox();

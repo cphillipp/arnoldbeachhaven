@@ -1,18 +1,11 @@
-<div id="house2" class="right-box">
+<div id="house" class="right-box">
 	<a href="sites/all/themes/claymoredesign/images/surland.png" title="Surland View" class="surland"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Surland View" /></a>
 	<p>Surland View</p>
 </div>
 <div class="top">
-	<h1>Availability</h1>
-	<div class="left-side">
-		<h2>Sandy Shores</h2>
-		<a class="button" title="Availability Calendar" href="http://www.Booking-Tracker.com?7013&P" target=_cal onclick="return !window.open('http://www.Booking-Tracker.com?7013&P&'+location.href,'_cal','resizable=1')">Calendar</a>
-	</div>
-	<div class="right-side">
-		<h2>Barefoot Sands</h2>
-		<a class="button" title="Availability Calendar" href="http://www.Booking-Tracker.com?7014&amp;P" target="_cal" onclick="return !window.open('http://www.Booking-Tracker.com?7014&amp;P&amp;'+location.href,'_cal','resizable=1')">Calendar</a>
-	</div>
-	<p><a href="contact-us.php" class="link">Contact Us Here</a> to book your vacation now!</p>
+	<h1>Planning A Vacation?</h1>
+	<p class="extra">See our booking info here:</p>
+	<a class="button" href="?q=node/4" class="link">booking info!</a>
 </div>
 
 <div class="USER three">
