@@ -1,7 +1,7 @@
 <div id="house" class="right-box">
 	<a href="sites/all/themes/claymoredesign/images/surland.png" title="Surland View" class="surland"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Surland View" /><span>Surland View - click to enlarge</span></a>
 </div>
-<div class="top">
+<div class="top push">
 	<h1>Arnold Beach Haven</h1>
 	<p>Ready to book your vacation, or have questions?</p>
 	<h2><span>Phone:</span> Sharon Arnold - 541-867-7116</h2>
