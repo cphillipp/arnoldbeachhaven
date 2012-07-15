@@ -502,6 +502,14 @@ h1#site-name {
   border-top-right-radius: 15px;
    -moz-transition-property:background; -moz-transition-duration:400ms; -webkit-transition-property:background; -webkit-transition-duration:400ms; -o-transition-property:background; -o-transition-duration:400ms; transition-property:background; transition-duration:400ms;
 }
+<!--[if gte IE 9]>
+  <style type="text/css">
+    #main-menu-links a {
+      background-color: #0D1F2B; 
+      background: rgb(13,31,43); /* Old browsers */
+    }
+  </style>
+<![endif]-->
 
 #main-menu-links a:hover,
 #main-menu-links a:focus {
