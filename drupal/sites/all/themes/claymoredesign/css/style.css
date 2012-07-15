@@ -525,10 +525,10 @@ h1#site-name {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d3849', endColorstr='#0d1f2b',GradientType=0 ) !important; /* IE6-8 */
   color:#0d1f2b;
 }
-<!--[if gte IE 9]>
+<!--[if lte IE 9]>
   <style type="text/css">
     #main-menu-links li a.active {
-       filter: none;
+       background:#fff;
     }
   </style>
 <![endif]-->
