@@ -469,20 +469,23 @@ h1#site-name {
   float: left; /* LTR */
   list-style: none;
   padding: 0 1px;
-  margin: 0 0 0 15px;
+  margin: 0 0 0 18px;
 }
 #main-menu-links a {
   color: #FFFFFF;
   /*background-image: linear-gradient(top, rgb(29,56,73) 0%, rgb(13,31,43) 100%);*/
-  background-color: #0d1f2b;
-    background-image: -webkit-gradient(linear, left bottom, left top,
-    color-stop(0%, rgba(13,31,43, 0.9)),
-    color-stop(100%, rgba(29,56,73, 0.6))
-    );
+  background-color: #0d1f2b; 
+  background-image: linear-gradient(linear, left bottom, left top,color-stop(0%, rgba(13,31,43, 0.9)),color-stop(100%, rgba(29,56,73, 0.6))    );
+  background-image: -o-linear-gradient(linear, left bottom, left top,color-stop(0%, rgba(13,31,43, 0.9)),color-stop(100%, rgba(29,56,73, 0.6))    );
+  background-image: -moz-linear-gradient(linear, left bottom, left top,color-stop(0%, rgba(13,31,43, 0.9)),color-stop(100%, rgba(29,56,73, 0.6))    );
+  background-image: -webkit-gradient(linear, left bottom, left top,color-stop(0%, rgba(13,31,43, 0.9)),color-stop(100%, rgba(29,56,73, 0.6))    );
+  background-image: -ms-linear-gradient(linear, left bottom, left top,color-stop(0%, rgba(13,31,43, 0.9)),color-stop(100%, rgba(29,56,73, 0.6))    );
   float: left; /* LTR */
+  width:217px;
   height: 2.4em;
+  text-align: center;
   line-height: 2.4em;
-  padding: 0 5.1em;
+  padding: 0;
   text-decoration: none;
   /*text-shadow: 0 1px #000000;*/
   -khtml-border-radius-topleft: 15px;
