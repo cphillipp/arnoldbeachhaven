@@ -3,6 +3,8 @@
 ::moz-selection         								{background-color:#050c11; color:#FFFFFF;}
 ::webkit-selection      								{background-color:#050c11; color:#FFFFFF;}
 .bold 													{font-weight: bold}
+.underline												{text-decoration:underline;}
+.italic													{font-style:italic;}
 		
 /* CONTENT */		
 .left-box												{margin:0 0 20px; padding:0; width:410px; float:left;}
@@ -33,11 +35,11 @@
 
 .top 													{float:left; width: 460px;}
 .top h1													{margin:0; padding:0 0 20px 40px; color:#A62500; font-size:25px; font-weight:normal; font-family:Georgia, serif;}
-.top p 													{padding:0 0 0 40px; color:#ededed;}
+.top p 													{padding:0 0 0 40px; color:#ededed; font-size: 12px; font-family:Tahoma, Geneva, sans-serif;}
 .top a 													{color:#c2edee;}
 .top a:hover 											{color: #c2edee;}
-.top .left-side											{margin:0; padding:0 0 20px; width:50%; float:left;}
-.top .right-side										{margin:0; padding:0 0 20px; width:50%; float:right;}
+.top .left-side											{margin:0; padding:0 0 40px; width:50%; float:left;}
+.top .right-side										{margin:0; padding:0 0 40px; width:50%; float:right;}
 .top h2													{margin:0 0 0 40px; padding:0 0 10px; color:#8e9ca4; font-size: 14px !important; text-transform: uppercase; font-family:Georgia, serif;}
 .top .button											{margin:0 0 0 40px; padding:8px 30px 9px; color:#ffffff !important; background:#224a64; text-decoration:none; border:none; -moz-border-radius:5px; border-radius:5px;}
 .top .button:hover										{background:#1d3849;}
@@ -47,7 +49,12 @@
 .USER 													{clear:both; padding:20px; background:url('../images/box-tail.gif') repeat; -moz-border-radius:15px; border-radius:15px;}
 .USER.home 												{-moz-border-radius:0 0 15px 15px; border-radius:0 0 15px 15px;}
 .USER h1												{margin:0; padding:0 20px 20px; color:#A62500; font-size:25px; font-weight:normal; font-family:Georgia, serif;}
-.USER p 												{padding:0 20px; color:#292929;}
+.USER h1 span											{margin:0; padding:0; color:#581f0f; font-size:12px; font-family:tahoma;}
+.USER h2												{margin:0; padding:20px 20px 0px; color:#0e202e; font-size:18px; font-weight:normal; font-family:Georgia, serif;}
+.USER p 												{margin:0; padding:0 20px 5px; color:#292929;}
+.USER ul												{margin:0; padding:0; list-style-type:none;}
+.USER ul li												{margin:0; padding:0 0 5px 18px; color:#000;}
+.USER ul li span										{margin:0 5px 0 0; padding:0; width:20px; height:20px; display:block; float:left; background:url('../images/fish-bullet.png') no-repeat 0 0;}
 
 .footer .left-side										{margin:0; padding:0 0 0 40px; float:left;}
 .footer .left-side a									{margin:0; padding:0; color:#fff; font-size:11px; text-decoration:none;}
