@@ -1,6 +1,5 @@
 <div id="house" class="right-box">
-	<a href="sites/all/themes/claymoredesign/images/surland.png" title="Surland View" class="surland"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Surland View" /></a>
-	<p>Surland View</p>
+	<a href="sites/all/themes/claymoredesign/images/surland.png" title="Surland View" class="surland"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Surland View" /><span>Surland View - click to enlarge</span></a>
 </div>
 <div class="top">
 	<h1>Arnold Beach Haven</h1>

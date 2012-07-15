@@ -13,20 +13,28 @@
 .left-box h1											{margin:0; padding:0 0 10px 0px; color:#fff; font-size: 1.429em; line-height: 1.4; font-weight:normal; font-family:Georgia, serif; text-transform: uppercase;}
 .left-box h2 											{margin-top:10px;}
 .left-box p												{padding:10px 0 0; color:#8e9ca4; font-family:Verdana, Geneva, sans-serif; font-size:10px;}
-.left-box a 											{border: 5px solid #ffffff}
+.left-box a 											{border: 5px solid #ffffff; position:relative; -moz-transition-property:border-color; -moz-transition-duration:400ms; -webkit-transition-property:border-color; -webkit-transition-duration:400ms; -o-transition-property:border-color; -o-transition-duration:400ms; transition-property:border-color; transition-duration:400ms;}
+.left-box a span 										{position:absolute; bottom:0px; left:0; height:30px; padding:5px 20px 0 20px; background:#000; background:rgba(0,0,0,.5); width:90%; font-size:1em; line-height:1.33; color:#fff; border-top:1px solid #000; text-shadow:none;}
 .left-box a.button 										{margin:0 0 0px; display:inline-block; border:none;}
+.left-box a:hover 										{border-color:#838B8B;}
 .left-box ul											{margin:0; padding:0; list-style-type:none;}
 .left-box ul li											{margin:0; padding:0 0 5px 0; color:#ededed;}
 .left-box ul li span									{margin:0 5px 0 0; padding:0; width:20px; height:20px; display:block; float:left; background:url('../images/fish-bullet2.png') no-repeat 0 0;}
+.left-box .plus 										{margin:-64px 0 0 -64px; padding:0; width:128px; height:128px; background:url('../images/plus.png') no-repeat; position:absolute; top:50%; left:50%; opacity:0.7; filter:alpha(opacity=70); -moz-opacity:0.7; -moz-transition-property:opacity; -moz-transition-duration:400ms; -webkit-transition-property:opacity; -webkit-transition-duration:400ms; -o-transition-property:opacity; -o-transition-duration:400ms; transition-property:opacity; transition-duration:400ms;}
+.left-box a:hover .plus 								{opacity:0.9; filter:alpha(opacity=90); -moz-opacity:0.9;}
 .right-box												{margin:0 0 20px 0; padding:0; width:410px; float:right;}
 .right-box h1											{margin:0; padding:0 0 10px 0px; color:#fff; font-size: 1.429em; line-height: 1.4; font-weight:normal; font-family:Georgia, serif; text-transform: uppercase;}
 .right-box h2											{margin:0; padding:0 0 10px; color:#8EE5EE; font-size:16px !important; text-transform: uppercase; font-family:Georgia, serif;}
 .right-box p											{padding:10px 0 0; color:#8e9ca4; font-family:Verdana, Geneva, sans-serif; font-size:10px;}
-.right-box a 											{border: 5px solid #ffffff}
-.right-box a.button 									{margin:0 0 20px; display:inline-block; border:none;}
+.right-box a 											{border: 5px solid #ffffff; position:relative; -moz-transition-property:border-color; -moz-transition-duration:400ms; -webkit-transition-property:border-color; -webkit-transition-duration:400ms; -o-transition-property:border-color; -o-transition-duration:400ms; transition-property:border-color; transition-duration:400ms;}
+.right-box a span 										{position:absolute; bottom:0px; left:0; height:30px; padding:5px 20px 0 20px; background:#000; background:rgba(0,0,0,.5); width:90%; font-size:1em; line-height:1.33; color:#fff; border-top:1px solid #000; text-shadow:none;}
+.right-box a.button 									{margin:0 0 0px; display:inline-block; border:none;}
+.right-box a:hover	 									{border-color:#838B8B;}
 .right-box ul											{margin:0; padding:0; list-style-type:none;}
 .right-box ul li										{margin:0; padding:0 0 5px 0; color:#ededed;}
 .right-box ul li span									{margin:0 8px 0 0; padding:0; width:20px; height:20px; display:block; float:left; background:url('../images/fish-bullet2.png') no-repeat 0 0; position:relative; top:2px;}
+.right-box .plus 										{margin:-64px 0 0 -64px; padding:0; width:128px; height:128px; background:url('../images/plus.png') no-repeat; position:absolute; top:50%; left:50%; opacity:0.7; filter:alpha(opacity=70); -moz-opacity:0.7; -moz-transition-property:opacity; -moz-transition-duration:400ms; -webkit-transition-property:opacity; -webkit-transition-duration:400ms; -o-transition-property:opacity; -o-transition-duration:400ms; transition-property:opacity; transition-duration:400ms;}
+.right-box a:hover .plus 								{opacity:0.9; filter:alpha(opacity=90); -moz-opacity:0.9;}
 .house1													{margin:0; padding:0; width:400px; height:270px; display:block;}
 .house1 img												{width:400px; height:270px;}
 .house2													{margin:0; padding:0; width:400px; height:270px; display:block;}
@@ -79,6 +87,8 @@
 .calendar .back 										{z-index:1; width:100%; height:100px; position:absolute; top: 0; left: 0; background:#000; opacity:0.6; filter:alpha(opacity=60); -moz-opacity:0.6;}
 .calendar h2 											{z-index:2; position:relative;}
 .calendar a 											{z-index:2; position:relative;}
+
+.plus 													{margin:-64px 0 0 -64px; padding:0; width:128px; height:128px; background:url('../images/plus.png') no-repeat; position:absolute; top:50%; left:50%; opacity:0.7; filter:alpha(opacity=70); -moz-opacity:0.7;}
 
 .footer .left-side										{margin:0; padding:0 0 0 40px; float:left;}
 .footer .left-side a									{margin:0; padding:0; color:#fff; font-size:11px; text-decoration:none;}

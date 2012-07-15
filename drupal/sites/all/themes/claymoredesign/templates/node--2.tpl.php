@@ -1,12 +1,10 @@
 <div class="left-box">
 	<h1>Sandy Shores</h1>
-	<a class="house1" title="Sandy Shores Frontal View" href="?q=node/5" ><img src="sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Sandy Shores Frontal View"></a> 
-	<p>Click the image above for more info!</p>
+	<a class="house1" title="Sandy Shores Frontal View" href="?q=node/5" ><img src="sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div><span>click for more info</span></a> 
 </div>
 <div class="right-box">
 	<h1>Barefoot Sands</h1>
-	<a class="house2" title="Barefoot Sands Frontal View" href="?q=node/6" ><img src="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt="Barefoot Sands Frontal View"></a> 
-	<p>Click the image above for more info!</p>
+	<a class="house2" title="Barefoot Sands Frontal View" href="?q=node/6" ><img src="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt="Barefoot Sands Frontal View"><div class="plus"></div><span>click for more info</span></a> 
 </div>
 
 <div class="USER one">
