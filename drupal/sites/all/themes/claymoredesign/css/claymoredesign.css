@@ -34,13 +34,13 @@
 .surland												{margin:0; padding:0; width:400px; height:267px; display:block;}
 
 .top 													{float:left; width: 460px;}
-.top h1													{margin:0; padding:0 0 20px 40px; color:#A62500; font-size:25px; font-weight:normal; font-family:Georgia, serif;}
+.top h1													{margin:0; padding:0 0 20px 40px; color:#8e9ca4; font-size:25px; font-weight:normal; font-family:Georgia, serif;}
 .top p 													{padding:0 0 0 40px; color:#ededed; font-size: 12px; font-family:Tahoma, Geneva, sans-serif;}
 .top a 													{color:#c2edee;}
 .top a:hover 											{color: #c2edee;}
 .top .left-side											{margin:0; padding:0 0 40px; width:50%; float:left;}
 .top .right-side										{margin:0; padding:0 0 40px; width:50%; float:right;}
-.top h2													{margin:0 0 0 40px; padding:0 0 10px; color:#8e9ca4; font-size: 14px !important; text-transform: uppercase; font-family:Georgia, serif;}
+.top h2													{margin:0 0 0 40px; padding:0 0 10px; color:#224a64; font-size: 14px !important; text-transform: uppercase; font-family:Georgia, serif;}
 .top .button											{margin:0 0 0 40px; padding:8px 30px 9px; color:#ffffff !important; background:#224a64; text-decoration:none; border:none; -moz-border-radius:5px; border-radius:5px;}
 .top .button:hover										{background:#1d3849;}
 .top .button.link										{margin:0; padding:0; color:#BF4B30; text-decoration:underline; background:transparent; -moz-border-radius:0px; border-radius:0px;}
