@@ -525,6 +525,13 @@ h1#site-name {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d3849', endColorstr='#0d1f2b',GradientType=0 ) !important; /* IE6-8 */
   color:#0d1f2b;
 }
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
 .featured #main-menu-links li a:active,
 .featured #main-menu-links li a.active {
   background: #f0f0f0;
