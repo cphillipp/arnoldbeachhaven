@@ -539,9 +539,11 @@ h1#site-name {
   <style type="text/css">
     #main-menu-links li a.active {
        filter: none;
+       color:#ffffff;
     }
   </style>
 <![endif]-->
+
 .featured #main-menu-links li a:active,
 .featured #main-menu-links li a.active {
   background: #f0f0f0;
