@@ -1,5 +1,13 @@
- <!-- Claymore Design Up Here -->
-
+<div id="house2" class="right-box">
+	<a href="sites/all/themes/claymoredesign/images/surland.png" title="Surland View" class="surland"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Surland View" /></a>
+	<p>Surland View</p>
+</div>
+<div class="top">
+	<h1>Contact Arnold Beach Haven</h1>
+	<p>For inquiries call or email:</p>
+	<p><span class="bold">Sharon Arnold</span> 541-867-7116</p>
+	<p><span class="bold">E-mail:</span> <a href="mailto:sharon@arnoldbeachhaven.com">sharon@arnoldbeachhaven.com</a></p>
+</div>
 
 <div class="USER four">
 	<div id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>

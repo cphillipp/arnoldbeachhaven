@@ -10,13 +10,11 @@ stylesheets[all][] = css/style.css
 stylesheets[all][] = css/colors.css
 stylesheets[print][] = css/print.css
 stylesheets[all][] = css/claymoredesign.css
-stylesheets[all][] = css/lightbox.css
+stylesheets[all][] = css/jquery.lightbox-0.5.css
 
-scripts[] = js/prototype.js
-scripts[] = js/scriptaculous.js
-scripts[] = js/lightbox.js
 scripts[] = js/jquery1.7.2.min.js
 scripts[] = js/slides.min.jquery.js
+scripts[] = js/jquery.lightbox-0.5.js
 scripts[] = js/banner.js
 
 regions[header] = Header

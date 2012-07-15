@@ -31,4 +31,10 @@ $(document).ready(function() {
       }
     });
   });
+  $(function() {
+      $('#house1 a').lightBox();
+  });
+  $(function() {
+      $('#house2 a').lightBox();
+  });
 });

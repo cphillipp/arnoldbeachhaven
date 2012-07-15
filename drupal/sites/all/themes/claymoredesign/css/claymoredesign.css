@@ -5,15 +5,15 @@
 .bold 													{font-weight: bold}
 		
 /* CONTENT */		
-.left-box												{margin:0 0 20px; padding:0; width:400px; float:left;}
+.left-box												{margin:0 0 20px; padding:0; width:410px; float:left;}
 .left-box p												{padding:10px 0 0; color:#8e9ca4; font-family:Verdana, Geneva, sans-serif; font-size:10px;}
 .left-box h2											{color:#8e9ca4; font-family:Georgia; text-transform:uppercase;}
-.left-box a 											{border: 3px solid #ffffff}
+.left-box a 											{border: 5px solid #ffffff}
 .house1													{margin:0; padding:0; width:400px; height:270px; display:block;}
-.right-box												{margin:0 0 20px 0; padding:0; width:400px; float:right;}
+.right-box												{margin:0 0 20px 0; padding:0; width:410px; float:right;}
 .right-box p											{padding:10px 0 0; color:#8e9ca4; font-family:Verdana, Geneva, sans-serif; font-size:10px;}
 .right-box h2											{color:#8e9ca4; font-family:Georgia; font-size:17px; text-transform:uppercase;}
-.right-box a 											{border: 3px solid #ffffff}
+.right-box a 											{border: 5px solid #ffffff}
 .house2													{margin:0; padding:0; width:400px; height:270px; display:block;}
 .house2 img												{width:400px; height:270px;}
 .hide													{display:none;}
@@ -29,6 +29,20 @@
 .banner	#slides .pagination li                    		{float:left; margin:0 1px; padding:0; list-style:none;}
 .banner	#slides .pagination a                   		{display:block; width:12px; height:0; padding-top:12px; background-image:url('../images/pagination.png'); background-position:0 0; float:left; overflow:hidden;}
 .banner	#slides .pagination .current a         			{background-position:0 -12px;}
+.surland												{margin:0; padding:0; width:400px; height:267px; display:block;}
+
+.top 													{float:left; width: 460px;}
+.top h1													{margin:0; padding:0 0 20px 40px; color:#A62500; font-size:25px; font-weight:normal; font-family:Georgia, serif;}
+.top p 													{padding:0 0 0 40px; color:#ededed;}
+.top a 													{color:#c2edee;}
+.top a:hover 											{color: #c2edee;}
+.top .left-side											{margin:0; padding:0 0 20px; width:50%; float:left;}
+.top .right-side										{margin:0; padding:0 0 20px; width:50%; float:right;}
+.top h2													{margin:0 0 0 40px; padding:0 0 10px; color:#8e9ca4; font-size: 14px !important; text-transform: uppercase; font-family:Georgia, serif;}
+.top .button											{margin:0 0 0 40px; padding:8px 30px 9px; color:#ffffff !important; background:#224a64; text-decoration:none; border:none; -moz-border-radius:5px; border-radius:5px;}
+.top .button:hover										{background:#1d3849;}
+.top .button.link										{margin:0; padding:0; color:#BF4B30; text-decoration:underline; background:transparent; -moz-border-radius:0px; border-radius:0px;}
+.top .button.link:hover									{text-decoration:none;}
 
 .USER 													{clear:both; padding:20px; background:url('../images/box-tail.gif') repeat; -moz-border-radius:15px; border-radius:15px;}
 .USER.home 												{-moz-border-radius:0 0 15px 15px; border-radius:0 0 15px 15px;}
