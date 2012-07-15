@@ -506,7 +506,7 @@ h1#site-name {
 }
 #main-menu-links a:hover,
 #main-menu-links a:focus {
-  background-color:#235372;
+  background-color:#275C7F;
   color:#ffffff;
 }
 #main-menu-links a:active {
@@ -527,7 +527,7 @@ h1#site-name {
 }
 <!--[if gte IE 9]>
   <style type="text/css">
-    .gradient {
+    #main-menu-links li a.active {
        filter: none;
     }
   </style>
