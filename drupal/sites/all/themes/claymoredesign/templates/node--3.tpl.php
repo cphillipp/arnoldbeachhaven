@@ -1,7 +1,7 @@
 <div id="house" class="right-box">
 	<a href="sites/all/themes/claymoredesign/images/surland.png" title="Surland View" class="surland"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Surland View" /><span>Surland View - click to enlarge</span></a>
 </div>
-<div class="top push">
+<div class="top">
 	<h1>Planning A Vacation?</h1>
 	<p class="extra">See our booking info here:</p>
 	<a class="button" href="?q=node/4" class="link">booking info!</a>

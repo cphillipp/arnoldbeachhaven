@@ -1,4 +1,4 @@
-<div class="left-box push">
+<div class="left-box">
 	<h1>Things to do</h1>
 	<ul>
 		<li><span></span>Sea Lion Caves: 19 miles south</li>
