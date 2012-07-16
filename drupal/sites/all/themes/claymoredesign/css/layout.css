@@ -77,7 +77,7 @@ body,
   overflow: hidden;
 }
 #breadcrumb {
-  margin: 0 15px;
+  margin: 0 30px -30px;
 }
 .region-triptych-first,
 .region-triptych-middle,

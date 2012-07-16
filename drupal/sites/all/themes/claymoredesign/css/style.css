@@ -1173,6 +1173,11 @@ div.messages {
 
 .breadcrumb {
   font-size: 0.929em;
+  margin:0;
+}
+
+.breadcrumb a {
+  color:#AFEEEE;
 }
 
 /* -------------- User Profile   -------------- */

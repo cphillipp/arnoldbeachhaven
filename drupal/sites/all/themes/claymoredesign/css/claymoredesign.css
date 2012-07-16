@@ -1,7 +1,7 @@
 /* GENERAL */
-::selection             								{background-color:#050c11; color:#FFFFFF;}
-::moz-selection         								{background-color:#050c11; color:#FFFFFF;}
-::webkit-selection      								{background-color:#050c11; color:#FFFFFF;}
+::selection             								{background-color:#AFEEEE; color:#000000;}
+::moz-selection         								{background-color:#AFEEEE; color:#000000;}
+::webkit-selection      								{background-color:#AFEEEE; color:#000000;}
 .bold 													{font-weight: bold}
 .underline												{text-decoration:underline;}
 .italic													{font-style:italic;}
