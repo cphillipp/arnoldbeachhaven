@@ -25,7 +25,7 @@ body,
   position: relative;
 }
 .region-header {
-  float: right; /* LTR */
+  /*float: right;*/ /* LTR */
   margin: 0 0 0 14px;
 }
 .with-secondary-menu .region-header {
@@ -34,7 +34,6 @@ body,
 .without-secondary-menu .region-header {
   /*margin-top: 15px;*/
   clear:both;
-  width:100%;
 }
 #secondary-menu {
   position: absolute;
