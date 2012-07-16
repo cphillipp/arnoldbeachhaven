@@ -4,7 +4,7 @@
 <div class="top push">
 	<h1>Planning A Vacation?</h1>
 	<p class="extra">See our booking info here:</p>
-	<a class="button" href="?q=node/4" class="link">booking info!</a>
+	<a class="button" href="rates" class="link">booking info!</a>
 </div>
 
 <div class="USER three">
