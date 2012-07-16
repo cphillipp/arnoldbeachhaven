@@ -1,6 +1,6 @@
 <div class="left-box">
 	<h1>Sandy Shores</h1>
-	<a class="house1" title="Sandy Shores Frontal View" href="?q=node/5" ><img src="sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div><span>click for more info</span></a> 
+	<a class="house1" title="Sandy Shores Frontal View" href="?q=node/5" ><img src="/sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div><span>click for more info</span></a> 
 </div>
 <div class="right-box">
 	<h1>Barefoot Sands</h1>
