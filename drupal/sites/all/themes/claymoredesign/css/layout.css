@@ -30,6 +30,7 @@ body,
 }
 .with-secondary-menu .region-header {
   margin-top: 3em;
+  clear:both;
 }
 .without-secondary-menu .region-header {
   /*margin-top: 15px;*/
