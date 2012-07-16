@@ -76,14 +76,14 @@
 </div>
 <div id="house2" class="bottom">
 	<h2 class="center">More Photos of Sandy Shores</h2>
-	<a class="small-box" title="Barefoot Sands Frontal View" href="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt=""></a> 
-	<a class="small-box" title="Barefoot Sands Back View" href="sites/all/themes/claymoredesign/images/house2/house2-back.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-back.jpg" alt=""></a> 
-	<a class="small-box" title="Barefoot Sands Fireplace View" href="sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" alt=""></a> 
-	<a class="small-box" title="Barefoot Sands Kitchen View" href="sites/all/themes/claymoredesign/images/house2/house2-kitchen.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-kitchen.jpg" alt=""></a> 
-	<a class="small-box" title="Barefoot Sands Master Bed View" href="sites/all/themes/claymoredesign/images/house2/house2-master-bed.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-master-bed.jpg" alt=""></a> 
-	<a class="small-box" title="Barefoot Sands View of the Beach" href="sites/all/themes/claymoredesign/images/house2/house2-view.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-view.jpg" alt=""></a> 
-	<a class="small-box" title="Barefoot Sands View of the Beach" href="sites/all/themes/claymoredesign/images/house2/house2-beach.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-beach.jpg" alt=""></a> 
-	<a class="small-box" title="Barefoot Sands Sunset View" href="sites/all/themes/claymoredesign/images/house2/house2-sunset.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-sunset.jpg" alt=""></a>
+	<a class="small-box" title="Barefoot Sands Frontal View" href="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt=""><div class="plus"></div></a> 
+	<a class="small-box" title="Barefoot Sands Back View" href="sites/all/themes/claymoredesign/images/house2/house2-back.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-back.jpg" alt=""><div class="plus"></div></a> 
+	<a class="small-box" title="Barefoot Sands Fireplace View" href="sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" alt=""><div class="plus"></div></a> 
+	<a class="small-box" title="Barefoot Sands Kitchen View" href="sites/all/themes/claymoredesign/images/house2/house2-kitchen.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-kitchen.jpg" alt=""><div class="plus"></div></a> 
+	<a class="small-box" title="Barefoot Sands Master Bed View" href="sites/all/themes/claymoredesign/images/house2/house2-master-bed.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-master-bed.jpg" alt=""><div class="plus"></div></a> 
+	<a class="small-box" title="Barefoot Sands View of the Beach" href="sites/all/themes/claymoredesign/images/house2/house2-view.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-view.jpg" alt=""><div class="plus"></div></a> 
+	<a class="small-box" title="Barefoot Sands View of the Beach" href="sites/all/themes/claymoredesign/images/house2/house2-beach.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-beach.jpg" alt=""><div class="plus"></div></a> 
+	<a class="small-box" title="Barefoot Sands Sunset View" href="sites/all/themes/claymoredesign/images/house2/house2-sunset.jpg" ><img src="sites/all/themes/claymoredesign/images/house2/house2-sunset.jpg" alt=""><div class="plus"></div></a>
 </div>
 <div class="calendar">
 	<div class="back"></div>
