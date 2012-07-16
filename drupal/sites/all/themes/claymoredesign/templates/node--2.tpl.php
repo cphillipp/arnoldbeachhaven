@@ -4,7 +4,7 @@
 </div>
 <div class="right-box">
 	<h1>Barefoot Sands</h1>
-	<a class="house2" title="Barefoot Sands Frontal View" href="?q=node/6" ><img src="sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt="Barefoot Sands Frontal View"><div class="plus"></div><span>click for more info</span></a> 
+	<a class="house2" title="Barefoot Sands Frontal View" href="?q=node/6" ><img src="/sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt="Barefoot Sands Frontal View"><div class="plus"></div><span>click for more info</span></a> 
 </div>
 
 <div class="USER one">
