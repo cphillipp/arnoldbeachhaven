@@ -589,14 +589,15 @@ h1#site-name {
 }
 .menu-block-wrapper .menu li a.active {
   border-bottom: none;
-  background: #fff;
-  background: -moz-linear-gradient(top,  rgba(255,255,255,1) 70%, rgba(13,31,43,1) 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(70%,rgba(255,255,255,1)), color-stop(100%,rgba(13,31,43,1))); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 70%,rgba(13,31,43,1) 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top,  rgba(255,255,255,1) 70%,rgba(13,31,43,1) 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top,  rgba(255,255,255,1) 70%,rgba(13,31,43,1) 100%); /* IE10+ */
-  background: linear-gradient(to bottom,  rgba(255,255,255,1) 70%,rgba(13,31,43,1) 100%); /* W3C */
-  color:#0d1f2b;
+  background: #2C5F7F;
+  background: #285672; /* Old browsers */
+  background: -moz-linear-gradient(top,  #285672 0%, #0d1f2b 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#285672), color-stop(100%,#0d1f2b)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #285672 0%,#0d1f2b 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #285672 0%,#0d1f2b 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #285672 0%,#0d1f2b 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  #285672 0%,#0d1f2b 100%); /* W3C */
+  color:#FFFFFF;
 }
 
 .featured .menu-block-wrapper .menu li a:active,
@@ -612,13 +613,13 @@ h1#site-name {
 .menu-block-wrapper .menu li.expanded ul              {margin:0; padding:0; width:217px; display:none; position:absolute; top:33px; left:0px;}
 .menu-block-wrapper .menu li.expanded ul li           {margin:0; padding:0; background:#172E3C;}
 .menu-block-wrapper .menu li.expanded ul li.first     {border-bottom:2px dashed #000000;}
-.menu-block-wrapper .menu li.expanded ul li a         {margin:0; padding:0; height:40px; line-height:40px; font-family:Georgia, serif; letter-spacing:0px; -moz-border-radius:0; border-radius:0;
+.menu-block-wrapper .menu li.expanded ul li a         {margin:0; padding:0; height:30px; line-height:30px; font-family:Georgia, serif; letter-spacing:0px; -moz-border-radius:0; border-radius:0;
 }
 .menu-block-wrapper .menu li.expanded ul li a:hover   {
   background:#1d3849;
 }
 .menu-block-wrapper .menu li.expanded ul li a.active  {
-  background: #fff;
+  background: #285672;
 }
 
 /* ------------ END MODULE MENU BLOCK -------- */
