@@ -613,7 +613,7 @@ h1#site-name {
 .menu-block-wrapper .menu li.expanded ul              {margin:0; padding:0; width:217px; display:none; position:absolute; top:33px; left:0px;}
 .menu-block-wrapper .menu li.expanded ul li           {margin:0; padding:0; background:#172E3C;}
 .menu-block-wrapper .menu li.expanded ul li.first     {border-bottom:2px dashed #000000;}
-.menu-block-wrapper .menu li.expanded ul li a         {margin:0; padding:0; height:30px; line-height:30px; font-family:Georgia, serif; letter-spacing:0px; -moz-border-radius:0; border-radius:0;
+.menu-block-wrapper .menu li.expanded ul li a         {margin:0; padding:0; height:30px; color:#aebcbf; line-height:30px; font-family:Georgia, serif; letter-spacing:0px; -moz-border-radius:0; border-radius:0;
 }
 .menu-block-wrapper .menu li.expanded ul li a:hover   {
   background:#1d3849;
