@@ -67,6 +67,8 @@ ATTENTION: The trailing slash is required.
 */
 $baseDir = resolveUrl($baseUrl);
 
+require_once '../../../../includes/filemanager.config.php';
+
 /*
  * ### Advanced Settings
  */
