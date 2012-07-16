@@ -88,7 +88,7 @@
 .bottom .small-box:hover .plus							{opacity:0.9; filter:alpha(opacity=90); -moz-opacity:0.9;}
 .bottom .small-box:hover img							{border-color:#838B8B;}
 
-.calendar												{margin:0; padding:20px; position:fixed; top:218px; right:0px; overflow:hidden;}
+.calendar												{margin:0; padding:20px; position:fixed; top:234px; right:0px; overflow:hidden;}
 .calendar .back 										{z-index:1; width:100%; height:100px; position:absolute; top: 0; left: 0; background:#000; opacity:0.6; filter:alpha(opacity=60); -moz-opacity:0.6;}
 .calendar h2 											{z-index:2; position:relative;}
 .calendar a 											{z-index:2; position:relative;}
