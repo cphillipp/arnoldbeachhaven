@@ -323,7 +323,7 @@ h1#site-name {
 .region-header .block {
   /*font-size: 0.857em;*/
   float: left; /* LTR */
-  margin: 0 10px;
+  margin: 0;
   padding: 0;
 }
 .region-header .block .content {
