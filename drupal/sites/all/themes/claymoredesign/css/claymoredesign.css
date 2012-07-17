@@ -41,20 +41,6 @@
 .house2													{margin:0; padding:0; width:400px; height:270px; display:block;}
 .house2 img												{width:400px; height:270px;}
 .hide													{display:none;}
-		
-.banner                     							{clear:both; padding:20px 20px 0; background:url('../images/box-tail.gif') repeat; -moz-border-radius:15px 15px 0 0; border-radius:15px 15px 0 0;}
-.banner	#slides                   						{width:100%; height:412px; position:relative;}
-.banner	#slides .slides_container       				{width:830px; height:412px; overflow:hidden; position:relative; display:none;}
-.banner	#slides .slides_container .slide        		{width:830px; height:412px; display:block;}
-.banner	#slides .slides_container .slide .caption    	{z-index:500; position:absolute; bottom:-35px; left:0; height:30px; padding:5px 20px 0 20px; background:#000; background:rgba(0,0,0,.5); width:100%; font-size:1.3em; line-height:1.33; color:#fff; border-top:1px solid #000; text-shadow:none;}
-.banner	#slides .next, .prev            				{position:absolute; top:107px; left:-39px; width:24px; height:43px; display:block; z-index:101;}
-.banner	#slides .next                   				{left:585px;}
-.banner	#slides .pagination             				{margin:0; padding:0; width:100px; position:absolute; top:15px; left:20px; z-index:500;}
-.banner	#slides .pagination li                    		{float:left; margin:0 1px; padding:0; list-style:none;}
-.banner	#slides .pagination a                   		{display:block; width:12px; height:0; padding-top:12px; background-image:url('../images/pagination.png'); background-position:0 0; float:left; overflow:hidden;}
-.banner	#slides .pagination .current a         			{background-position:0 -12px;}
-.surland												{margin:0; padding:0; width:400px; height:267px; display:block;}
-
 .top 													{float:left; width: 460px;}
 .top h1													{margin:0; padding:0 0 40px 0px; color:#fff; font-size: 1.429em; line-height: 1.4; font-weight:normal; font-family:Georgia, serif; text-transform: uppercase;}
 .top p 													{padding:0 0 0 0px; color:#ededed; font-size: 16px; font-family: 'Abel', arial, sans;}
@@ -66,7 +52,6 @@
 .top h2													{margin:0; padding:0 0 10px; color:#ffffff; font-size: 16px !important;}
 .top h2 span 											{display:inline-block; width:70px; color:#8EE5EE; font-size:16px; text-transform: uppercase; font-family:Georgia, serif;}
 .top.push 												{margin-left: 20px; width:440px;}
-
 .USER 													{clear:both; padding:20px; background:url('../images/box-tail.gif') repeat; -moz-border-radius:15px; border-radius:15px; position:relative;}
 .USER.home 												{-moz-border-radius:0 0 15px 15px; border-radius:0 0 15px 15px;}
 .USER h1												{margin:0; padding:0 0px 20px; color:#A62500; font-size:25px; font-weight:normal; font-family:Georgia, serif;}
@@ -80,19 +65,45 @@
 .USER ul												{margin:0; padding:0; list-style-type:none;}
 .USER ul li												{margin:0; padding:0 0 5px 0px; color:#000;}
 .USER ul li span										{margin:0 5px 0 0; padding:0; width:20px; height:12px; display:block; float:left; background:url('../images/fish-bullet.png') no-repeat 0 0; position:relative; top:2px;}
-
+.USER form 												{display:none;}
 .bottom h2												{margin:0; padding:30px 0 20px 0px; color:#fff; font-size: 1.429em; line-height: 1.4; font-weight:normal; font-family:Georgia, serif; text-transform: uppercase;}
 .bottom .small-box										{margin:0 45px 40px; padding:0; width:200px; height:133px; float:left; position: relative;}
 .bottom .small-box img									{width:200px; height:133px; border:5px solid #dfdfdf; -moz-transition-property:border-color; -moz-transition-duration:400ms; -webkit-transition-property:border-color; -webkit-transition-duration:400ms; -o-transition-property:border-color; -o-transition-duration:400ms; transition-property:border-color; transition-duration:400ms;}
 .bottom .small-box .plus 								{margin:-20px 0 0 -20px; padding:0; width:40px; height:80px; background:url('../images/plus-small.png') no-repeat; position:absolute; top:50%; left:50%; opacity:0.5; filter:alpha(opacity=50); -moz-opacity:0.5; -moz-transition-property:opacity; -moz-transition-duration:400ms; -webkit-transition-property:opacity; -webkit-transition-duration:400ms; -o-transition-property:opacity; -o-transition-duration:400ms; transition-property:opacity; transition-duration:400ms;}
 .bottom .small-box:hover .plus							{opacity:0.9; filter:alpha(opacity=90); -moz-opacity:0.9;}
 .bottom .small-box:hover img							{border-color:#838B8B;}
-
 .calendar												{margin:0; padding:20px; position:fixed; top:234px; right:0px; overflow:hidden;}
 .calendar .back 										{z-index:1; width:100%; height:100px; position:absolute; top: 0; left: 0; background:#000; opacity:0.6; filter:alpha(opacity=60); -moz-opacity:0.6;}
 .calendar h2 											{z-index:2; position:relative;}
 .calendar a 											{z-index:2; position:relative;}
 
+/* BANNER */
+.banner                     							{clear:both; padding:20px 20px 0; background:url('../images/box-tail.gif') repeat; -moz-border-radius:15px 15px 0 0; border-radius:15px 15px 0 0;}
+.banner	#slides                   						{width:100%; height:412px; position:relative;}
+.banner	#slides .slides_container       				{width:830px; height:412px; overflow:hidden; position:relative; display:none;}
+.banner	#slides .slides_container .slide        		{width:830px; height:412px; display:block;}
+.banner	#slides .slides_container .slide .caption    	{z-index:500; position:absolute; bottom:-35px; left:0; height:30px; padding:5px 20px 0 20px; background:#000; background:rgba(0,0,0,.5); width:100%; font-size:1.3em; line-height:1.33; color:#fff; border-top:1px solid #000; text-shadow:none;}
+.banner	#slides .next, .prev            				{position:absolute; top:107px; left:-39px; width:24px; height:43px; display:block; z-index:101;}
+.banner	#slides .next                   				{left:585px;}
+.banner	#slides .pagination             				{margin:0; padding:0; width:100px; position:absolute; top:15px; left:20px; z-index:500;}
+.banner	#slides .pagination li                    		{float:left; margin:0 1px; padding:0; list-style:none;}
+.banner	#slides .pagination a                   		{display:block; width:12px; height:0; padding-top:12px; background-image:url('../images/pagination.png'); background-position:0 0; float:left; overflow:hidden;}
+.banner	#slides .pagination .current a         			{background-position:0 -12px;}
+.surland												{margin:0; padding:0; width:400px; height:267px; display:block;}
+
+/* FORMS */
+.block-webform											{margin:0; float:left; width:420px;}
+.block-webform h2 										{margin:0 0 0 100px; padding:0 0 0px 0px; color:#fff; font-size: 1.429em; line-height: 1.4; font-weight:normal; font-family:Georgia, serif; text-transform: uppercase;}
+.block-webform label 									{margin:0; padding:0 20px 0 0; color:#8e9ca4; display:inline; float:left; width:80px; text-align:right; text-transform:uppercase;}
+.block-webform input 									{width:250px; background:#ededed; border:1px solid #1a3a4f;}
+.block-webform .form-textarea-wrapper 					{width:260px; display:inline;}
+.block-webform textarea									{width:260px; background:#ededed; border:1px solid #1a3a4f; resize:none;}
+.block-webform .form-actions 							{margin:0; padding:0;}
+.block-webform .form-actions input 						{margin:0 0 20px 100px; width:100px; background:#ffffff;}
+.block-webform .form-actions input:hover 				{background:#8e9ca4; border:1px solid #fff; color:#ffffff;}
+.block-webform .marker, .form-required 					{color:#A62500;}
+
+/* FOOTER */
 .footer .left-side										{margin:0; padding:0 0 0 40px; float:left;}
 .footer .left-side a									{margin:0; padding:0; color:#fff; font-size:11px; text-decoration:none;}
 .footer .left-side a:hover								{color:#c2edee;}
@@ -102,4 +113,3 @@
 .footer .right-side a									{color:#fff; font-size:11px;}
 .footer .right-side a:hover								{text-decoration:none;}
 .footer .right-side span								{margin:0; padding:0; color:#292929; font-size:11px;}
-

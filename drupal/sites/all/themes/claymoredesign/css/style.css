@@ -1159,7 +1159,7 @@ ul.action-links li a {
 /* ---------------- Messages  ----------------- */
 
 #messages {
-  padding: 20px 0 5px;
+  padding: 0;
   margin: 0 auto;
 }
 .featured #messages {
@@ -1167,7 +1167,7 @@ ul.action-links li a {
   background: rgba(30, 50, 10, 0.08);
 }
 div.messages {
-  margin: 8px 15px;
+  margin: 0px 15px;
 }
 
 /* -------------- Breadcrumbs   -------------- */
@@ -1240,6 +1240,8 @@ a.button:active {
   text-decoration: none;
   color: #5a5a5a;
 }
+
+a.button:hover{background:#8e9ca4; color:#FFF;}
 
 /* -------------- Form Elements   ------------- */
 
