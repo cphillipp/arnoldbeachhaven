@@ -18,7 +18,7 @@
 </div>
 <div class="right-box border">
 	<h1>Barefoot Sands</h1>
-	<img src="/sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt="Our beach front rental Barefoot Sands location.">
+	<span class="house2"><img src="/sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt="Our beach front rental Barefoot Sands location."><span>see more images down below</span></span>
 </div>
 
 <div class="USER one">

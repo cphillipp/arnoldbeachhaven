@@ -1,5 +1,5 @@
 <div id="house" class="right-box border">
-	<img src="/sites/all/themes/claymoredesign/images/banner04.png" alt="Oregon coast boating image." />
+	<span class="house2"><img src="/sites/all/themes/claymoredesign/images/banner04.jpg" alt="Oregon coast boating image." /><span>one of a kind marine experience - oregon bay front</span></span>
 </div>
 
 <div class="USER four">

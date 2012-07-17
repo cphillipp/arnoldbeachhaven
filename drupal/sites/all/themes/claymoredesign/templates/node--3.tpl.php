@@ -1,5 +1,5 @@
 <div class="right-box border">
-	<img src="sites/all/themes/claymoredesign/images/surland.png" alt="Picture of Oregon coast beach from our beach house rental." /></a>
+	<span class="house2"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Picture of Oregon coast beach from our beach house rental." /></a><span>enjoy beatuful beaches - oregon coast</span></span>
 </div>
 <div class="top push">
 	<h1>Planning A Vacation?</h1>
