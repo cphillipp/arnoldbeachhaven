@@ -1,12 +1,8 @@
-<div class="left-box push">
-	<h1>Things we do</h1>
-	<ul>
-		<li><span></span>Take our kids to the Oregon Coast Aquarium</li>
-		<li><span></span>Crabbing in the bay</li>
-		<li><span></span>Deep Sea Fishing on the ocean</li>
-		<li><span></span>Camp fires on the beach</li>
-		<li><span></span>Shopping at the local shops</li>
-	</ul>
+<div class="top push">
+	<h1>Arnold Beach Haven</h1>
+	<p>Ready to book your vacation, or have questions?</p>
+	<h2><span>Phone:</span> Sharon Arnold - 541-867-7116</h2>
+	<h2><span>Email:</span> <a href="mailto:sharon@arnoldbeachhaven.com">sharon@arnoldbeachhaven.com</a></h2>
 </div>
 <div class="right-box border">
 	<span class="house2"><img src="/sites/all/themes/claymoredesign/images/arnolds.png" alt="Image of the Arnold family."><span>Steve and Sharon Arnold - Arnold Beach Haven</span></span>
