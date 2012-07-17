@@ -3,7 +3,7 @@
 		<div class="slides_container">
 			<div class="slide">
 				<img src="/sites/all/themes/claymoredesign/images/banner01.jpg" alt="Image of a lighthouse on the Oregon Coast while staying at our Beach house rentals.">
-				<div class="caption" style="bottom: 0;"><p>Enjoy Beatuful Landmarks - Oregon Light house</p></div>
+				<div class="caption" style="bottom: 0;"><p>Enjoy Beatuful Landmarks - Oregon Coast Light House</p></div>
 			</div>
 		</div>
 	</div>
