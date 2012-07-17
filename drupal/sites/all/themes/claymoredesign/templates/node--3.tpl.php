@@ -1,10 +1,15 @@
-<div id="house" class="right-box">
-	<a href="/sites/all/themes/claymoredesign/images/surland.png" title="Surland View" class="surland"><img src="sites/all/themes/claymoredesign/images/surland.png" alt="Surland View" /><span>Surland View - click to enlarge</span></a>
+<div class="right-box border">
+	<img src="sites/all/themes/claymoredesign/images/surland.png" alt="Picture of Oregon coast beach from our beach house rental." /></a>
 </div>
 <div class="top push">
 	<h1>Planning A Vacation?</h1>
 	<p class="extra">See our booking info here:</p>
 	<a class="button" href="contact" class="link">booking info!</a>
+	<div class="clear"></div>
+	<p class="extra">Check availability here:</p>
+	<a class="button" href="sandy-shores" class="link">Sandy Shores</a>
+	<span>AND</span>
+	<a class="button" href="barefoot-sands" class="link">Barefoot Sands</a>
 </div>
 
 <div class="USER three">

@@ -1,8 +1,19 @@
-<div id="house" class="right-box border">
-	<img src="/sites/all/themes/claymoredesign/images/banner04.png" alt="Oregon coast boating image." />
+<div class="left-box push">
+	<h1>Things we do</h1>
+	<ul>
+		<li><span></span>Take our kids to the Oregon Coast Aquarium</li>
+		<li><span></span>Crabbing in the bay</li>
+		<li><span></span>Deep Sea Fishing on the ocean</li>
+		<li><span></span>Camp fires on the beach</li>
+		<li><span></span>Shopping at the local shops</li>
+	</ul>
+</div>
+<div class="right-box border">
+	<h1>Barefoot Sands</h1>
+	<img src="/sites/all/themes/claymoredesign/images/house2/banner03.jpg" alt="Image of the ocean and beach from our beach front rental.">
 </div>
 
-<div class="USER four">
+<div class="USER one">
 	<div id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>
 
 	  <?php print render($title_prefix); ?>
