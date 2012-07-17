@@ -94,7 +94,7 @@
 /* FORMS */
 .block-webform											{margin:0; float:left; width:420px;}
 .block-webform h2 										{margin:0 0 0 100px; padding:0 0 0px 0px; color:#fff; font-size: 1.429em; line-height: 1.4; font-weight:normal; font-family:Georgia, serif; text-transform: uppercase;}
-.block-webform label 									{margin:0; padding:0 20px 0 0; color:#8e9ca4; display:inline; float:left; width:80px; text-align:right; text-transform:uppercase;}
+.block-webform label 									{margin:0; padding:0 12px 0 0; color:#8e9ca4; display:inline; float:left; width:88px; text-align:right; text-transform:uppercase;}
 .block-webform input 									{width:250px; background:#ededed; border:1px solid #1a3a4f;}
 .block-webform .form-textarea-wrapper 					{width:260px; display:inline;}
 .block-webform textarea									{width:260px; background:#ededed; border:1px solid #1a3a4f; resize:none;}
