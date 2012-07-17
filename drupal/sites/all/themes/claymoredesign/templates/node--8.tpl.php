@@ -9,7 +9,7 @@
 	</ul>
 </div>
 <div class="right-box border">
-	<span class="house2"><img src="/sites/all/themes/claymoredesign/images/banner03.jpg" alt="Image of the ocean and beach from our beach front rental."><span>enjoy beatuful beaches - oregon coast</span></span>
+	<span class="house2"><img src="/sites/all/themes/claymoredesign/images/arnolds.png" alt="Image of the Arnold family."><span>Steve and Sharon Arnold - Arnold Beach Haven</span></span>
 </div>
 
 <div class="USER one">
