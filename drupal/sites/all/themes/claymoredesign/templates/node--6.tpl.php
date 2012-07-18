@@ -68,7 +68,7 @@
 	</div>
 </div>
 <div id="house2" class="bottom">
-	<h2 class="center">More Photos of Sandy Shores</h2>
+	<h2 class="center">More Photos of Barefoot Sands</h2>
 	<a class="small-box" title="Barefoot Sands Frontal View" href="/sites/all/themes/claymoredesign/images/house2/house2-front.jpg" ><img src="/sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt=""><div class="plus"></div></a> 
 	<a class="small-box" title="Barefoot Sands Back View" href="/sites/all/themes/claymoredesign/images/house2/house2-back.jpg" ><img src="/sites/all/themes/claymoredesign/images/house2/house2-back.jpg" alt=""><div class="plus"></div></a> 
 	<a class="small-box" title="Barefoot Sands Fireplace View" href="/sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" ><img src="/sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" alt=""><div class="plus"></div></a> 
