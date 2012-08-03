@@ -13,7 +13,7 @@
 	<link rel="stylesheet" type="text/css" href="css/layout.css" media="all" />
 	<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
 
-	<title>Arnold Beach Haven | Oregon Coast Beach Front Rental's</title>
+	<title>Arnold Beach Haven | Oregon Coast Beach Front Rental's.</title>
 </head>
 
 <body>
