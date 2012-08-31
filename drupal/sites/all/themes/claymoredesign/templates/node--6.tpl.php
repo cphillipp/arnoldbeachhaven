@@ -70,7 +70,6 @@
 <div id="house2" class="bottom">
 	<h2 class="center">More Photos of Barefoot Sands</h2>
 	<a class="small-box" title="Barefoot Sands Frontal View" href="/sites/all/themes/claymoredesign/images/house2/house2-front.jpg" ><img src="/sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt=""><div class="plus"></div></a> 
-	<a class="small-box" title="Barefoot Sands Back View" href="/sites/all/themes/claymoredesign/images/house2/bs-back-view01.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-back-view01.JPG" alt=""><div class="plus"></div></a>
 	<a class="small-box" title="Barefoot Sands Back View" href="/sites/all/themes/claymoredesign/images/house2/bs-back-view02.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-back-view02.JPG" alt=""><div class="plus"></div></a>
 	<a class="small-box" title="Barefoot Sands Deck View" href="/sites/all/themes/claymoredesign/images/house2/bs-deck01.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-deck01.JPG" alt=""><div class="plus"></div></a>	
 	<a class="small-box" title="Barefoot Sands Entryway View" href="/sites/all/themes/claymoredesign/images/house2/bs-entryway01.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-entryway01.JPG" alt=""><div class="plus"></div></a>
@@ -85,7 +84,6 @@
 	<a class="small-box" title="Barefoot Sands Living Room View" href="/sites/all/themes/claymoredesign/images/house2/bs-living04.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-living04.JPG" alt=""><div class="plus"></div></a>
 	<a class="small-box" title="Barefoot Sands Living Room View" href="/sites/all/themes/claymoredesign/images/house2/bs-living05.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-living05.JPG" alt=""><div class="plus"></div></a>
 	<a class="small-box" title="Barefoot Sands Fireplace View" href="/sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" ><img src="/sites/all/themes/claymoredesign/images/house2/house2-fireplace.jpg" alt=""><div class="plus"></div></a> 
-	<a class="small-box" title="Barefoot Sands Master Bed View" href="/sites/all/themes/claymoredesign/images/house2/house2-master-bed.jpg" ><img src="/sites/all/themes/claymoredesign/images/house2/house2-master-bed.jpg" alt=""><div class="plus"></div></a> 
 	<a class="small-box" title="Barefoot Sands Bathroom View" href="/sites/all/themes/claymoredesign/images/house2/bs-bathroom01.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-bathroom01.JPG" alt=""><div class="plus"></div></a>
 	<a class="small-box" title="Barefoot Sands Bathroom View" href="/sites/all/themes/claymoredesign/images/house2/bs-bathroom02.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-bathroom02.JPG" alt=""><div class="plus"></div></a>
 	<a class="small-box" title="Barefoot Sands Bathroom View" href="/sites/all/themes/claymoredesign/images/house2/bs-bathroom03.JPG" ><img src="/sites/all/themes/claymoredesign/images/house2/bs-bathroom03.JPG" alt=""><div class="plus"></div></a>
