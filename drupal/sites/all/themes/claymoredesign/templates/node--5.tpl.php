@@ -80,7 +80,7 @@
 	<a class="small-box" title="Sandy Shores Deck View" href="sites/all/themes/claymoredesign/images/house1-deck.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-deck.jpg" alt="Sandy Shores Deck View"><div class="plus"></div></a> 
 	<a class="small-box" title="Sandy Shores Beach View" href="sites/all/themes/claymoredesign/images/house1-beach.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-beach.jpg" alt="Sandy Shores Beach View"><div class="plus"></div></a> 
 	<a class="small-box" title="Sandy Shores Sunset View" href="sites/all/themes/claymoredesign/images/house1-sunset.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-sunset.jpg" alt="Sandy Shores Sunset View"><div class="plus"></div></a>
-	<a class="small-box" title="Sandy Shores Back View" href="sites/all/themes/claymoredesign/images/ss-back-view.jpg" ><img src="sites/all/themes/claymoredesign/images/ss-back-view.jpg" alt="Sandy Shores Back View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores Back View" href="sites/all/themes/claymoredesign/images/ss-back-view.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-back-view.JPG" alt="Sandy Shores Back View"><div class="plus"></div></a>
 </div>
 <div class="calendar">
 	<div class="back"></div>
