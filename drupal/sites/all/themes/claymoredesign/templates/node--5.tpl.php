@@ -68,7 +68,7 @@
 	</div>
 </div>
 <div id="house2" class="bottom">
-	<h2 class="center">More Photos of Sandy Shores.</h2>
+	<h2 class="center">More Photos of Sandy Shores</h2>
 	<a class="small-box" title="Sandy Shores Frontal View" href="sites/all/themes/claymoredesign/images/house1-front.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div></a> 
 	<a class="small-box" title="Sandy Shores Master Bedroom" href="sites/all/themes/claymoredesign/images/house1-masterbed.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-masterbed.jpg" alt="Sandy Shores Master Bedroom"><div class="plus"></div></a> 
 	<a class="small-box" title="Sandy Shores Master Bedroom" href="sites/all/themes/claymoredesign/images/house1-masterbed2.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-masterbed2.jpg" alt="Sandy Shores Master Bedroom"><div class="plus"></div></a> 
