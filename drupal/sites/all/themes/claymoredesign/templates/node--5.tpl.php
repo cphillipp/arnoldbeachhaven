@@ -1,6 +1,6 @@
 <div id="house" class="left-box border">
 	<h1>Sandy Shores</h1>
-	<span class="house1"><img src="/sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Our beach front rental Sandy Shores location."><span>see more images down below</span></span>
+	<span class="house1"><img src="/sites/all/themes/claymoredesign/images/ss-front-view.jpg" alt="Our beach front rental Sandy Shores location."><span>see more images down below</span></span>
 </div>
 <div id="house" class="right-box">
 	<h1>THINGS TO DO</h1>
