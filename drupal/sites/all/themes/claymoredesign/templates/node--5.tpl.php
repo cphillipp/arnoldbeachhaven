@@ -1,6 +1,6 @@
 <div id="house" class="left-box border">
 	<h1>Sandy Shores</h1>
-	<span class="house1"><img src="/sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Our beach front rental Sandy Shores location."><span>see more images down below</span></span>
+	<span class="house1"><img src="/sites/all/themes/claymoredesign/images/ss-front-view.jpg" alt="Our beach front rental Sandy Shores location."><span>see more images down below</span></span>
 </div>
 <div id="house" class="right-box">
 	<h1>THINGS TO DO</h1>
@@ -69,18 +69,28 @@
 </div>
 <div id="house2" class="bottom">
 	<h2 class="center">More Photos of Sandy Shores</h2>
-	<a class="small-box" title="Sandy Shores Frontal View" href="sites/all/themes/claymoredesign/images/house1-front.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-front.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div></a> 
-	<a class="small-box" title="Sandy Shores Master Bedroom" href="sites/all/themes/claymoredesign/images/house1-masterbed.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-masterbed.jpg" alt="Sandy Shores Master Bedroom"><div class="plus"></div></a> 
-	<a class="small-box" title="Sandy Shores Master Bedroom" href="sites/all/themes/claymoredesign/images/house1-masterbed2.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-masterbed2.jpg" alt="Sandy Shores Master Bedroom"><div class="plus"></div></a> 
-	<a class="small-box" title="Sandy Shores Kitchen" href="sites/all/themes/claymoredesign/images/house1-kitchen.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-kitchen.jpg" alt="Sandy Shores kitchen"><div class="plus"></div></a> 
-	<a class="small-box" title="Sandy Shores Downstairs Bedroom" href="sites/all/themes/claymoredesign/images/house1-downstairsbed.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-downstairsbed.jpg" alt="Sandy Shores Downstairs Bedroom"><div class="plus"></div></a> 
-	<a class="small-box" title="Sandy Shores Living Room" href="sites/all/themes/claymoredesign/images/house1-livingroom.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-livingroom.jpg" alt="Sandy Shores Living Room"><div class="plus"></div></a> 
+	<a class="small-box" title="Sandy Shores Frontal View" href="sites/all/themes/claymoredesign/images/ss-front-view.jpg" ><img src="sites/all/themes/claymoredesign/images/ss-front-view.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div></a> 
 	<a class="small-box" title="Sandy Shores Back View" href="sites/all/themes/claymoredesign/images/house1-back.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-back.jpg" alt="Sandy Shores Back View"><div class="plus"></div></a> 
 	<a class="small-box" title="Sandy Shores Back View" href="sites/all/themes/claymoredesign/images/house1-back2.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-back2.jpg" alt="Sandy Shores Back View"><div class="plus"></div></a> 
 	<a class="small-box" title="Sandy Shores Deck View" href="sites/all/themes/claymoredesign/images/house1-deck.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-deck.jpg" alt="Sandy Shores Deck View"><div class="plus"></div></a> 
+	<a class="small-box" title="Sandy Shores entryway View" href="sites/all/themes/claymoredesign/images/ss-entryway.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-entryway.JPG" alt="Sandy Shores entryway View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores kitchen View" href="sites/all/themes/claymoredesign/images/ss-kitchen01.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-kitchen01.JPG" alt="Sandy Shores kitchen View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores kitchen View" href="sites/all/themes/claymoredesign/images/ss-kitchen02.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-kitchen02.JPG" alt="Sandy Shores kitchen View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores kitchen View" href="sites/all/themes/claymoredesign/images/ss-kitchen03.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-kitchen03.JPG" alt="Sandy Shores kitchen View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores dining View" href="sites/all/themes/claymoredesign/images/ss-dining-room.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-dining-room.JPG" alt="Sandy Shores dining View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores Living Room View" href="sites/all/themes/claymoredesign/images/ss-living-room01.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-living-room01.JPG" alt="Sandy Shores Living Room View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores Living Room View" href="sites/all/themes/claymoredesign/images/ss-living-room02.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-living-room02.JPG" alt="Sandy Shores Living Room View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores Living Room View" href="sites/all/themes/claymoredesign/images/ss-living-room03.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-living-room03.JPG" alt="Sandy Shores Living Room View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores Living Room View" href="sites/all/themes/claymoredesign/images/ss-living-room04.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-living-room04.JPG" alt="Sandy Shores Living Room View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores bedroom View" href="sites/all/themes/claymoredesign/images/ss-bedroom01.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-bedroom01.JPG" alt="Sandy Shores bedroom View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores bedroom View" href="sites/all/themes/claymoredesign/images/ss-bedroom02.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-bedroom02.JPG" alt="Sandy Shores bedroom View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores bedroom View" href="sites/all/themes/claymoredesign/images/ss-bedroom03.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-bedroom03.JPG" alt="Sandy Shores bedroom View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores bedroom View" href="sites/all/themes/claymoredesign/images/ss-bedroom04.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-bedroom04.JPG" alt="Sandy Shores bedroom View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores bathroom View" href="sites/all/themes/claymoredesign/images/ss-bathroom01.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-bathroom01.JPG" alt="Sandy Shores bathroom View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores bathroom View" href="sites/all/themes/claymoredesign/images/ss-bathroom02.JPG" ><img src="sites/all/themes/claymoredesign/images/ss-bathroom02.JPG" alt="Sandy Shores bathroom View"><div class="plus"></div></a>
 	<a class="small-box" title="Sandy Shores Beach View" href="sites/all/themes/claymoredesign/images/house1-beach.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-beach.jpg" alt="Sandy Shores Beach View"><div class="plus"></div></a> 
 	<a class="small-box" title="Sandy Shores Sunset View" href="sites/all/themes/claymoredesign/images/house1-sunset.jpg" ><img src="sites/all/themes/claymoredesign/images/house1-sunset.jpg" alt="Sandy Shores Sunset View"><div class="plus"></div></a>
-	<a class="small-box" title="Sandy Shores Back View" href="sites/all/themes/claymoredesign/images/ss-back-view.jpg" ><img src="sites/all/themes/claymoredesign/images/ss-back-view.jpg" alt="Sandy Shores Back View"><div class="plus"></div></a>
+	<a class="small-box" title="Sandy Shores Sunset View" href="sites/all/themes/claymoredesign/images/ss-sunset01.jpg" ><img src="sites/all/themes/claymoredesign/images/ss-sunset01.jpg" alt="Sandy Shores Sunset View"><div class="plus"></div></a>
 </div>
 <div class="calendar">
 	<div class="back"></div>
