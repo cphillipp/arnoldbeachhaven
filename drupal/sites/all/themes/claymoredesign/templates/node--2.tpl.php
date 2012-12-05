@@ -9,7 +9,7 @@
 
 <div class="left-box">
 	<h1>Newport Haven</h1>
-	<a class="house1" title="Sandy Shores Frontal View" href="?q=node/5" ><img src="/sites/all/themes/claymoredesign/images/ss-front-view.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div><span>click for more info</span></a> 
+	<a class="house1" title="Sandy Shores Frontal View" href="?q=node/5" ><img src="/sites/all/themes/claymoredesign/images/house2/newport-house-front.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div><span>click for more info</span></a> 
 </div>
 <div class="right-box">
 	<h1></h1>
