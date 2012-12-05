@@ -12,8 +12,8 @@
 	<a class="house1" title="Sandy Shores Frontal View" href="?q=node/9" ><img src="/sites/all/themes/claymoredesign/images/house2/newport-house-front.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div><span>click for more info</span></a> 
 </div>
 <div class="right-box">
-	<h1></h1>
-	<p style="color:#FFFFFF;">We have decided to move back to our Barefoot Home. It will no longer be available after January 1st. We will replacing Barefoot with our beautiful Newport home. It will be available starting with the 2nd weekend in January. It is much larger,and just south of Newport. You will have easy access to all that Newport has to offer. Check out the pictures and info. The living room furniture will be different. The pictures are from5 years ago. We are excited about this change and think you will be too!</p>
+	<h1>Property Updates</h1>
+	<p style="color:#FFFFFF; font-size:12px;">We have decided to move back to our Barefoot Home. It will no longer be available after January 1st. We will replacing Barefoot with our beautiful Newport home. It will be available starting with the 2nd weekend in January. It is much larger,and just south of Newport. You will have easy access to all that Newport has to offer. Check out the pictures and info. The living room furniture will be different. The pictures are from5 years ago. We are excited about this change and think you will be too!</p>
 </div>
 
 <div class="USER one">
