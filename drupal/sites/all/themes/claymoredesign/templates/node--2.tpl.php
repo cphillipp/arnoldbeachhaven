@@ -7,6 +7,15 @@
 	<a class="house2" title="Barefoot Sands Frontal View" href="?q=node/6" ><img src="/sites/all/themes/claymoredesign/images/house2/house2-front.jpg" alt="Barefoot Sands Frontal View"><div class="plus"></div><span>click for more info</span></a> 
 </div>
 
+<div class="left-box">
+	<h1>Newport Haven</h1>
+	<a class="house1" title="Sandy Shores Frontal View" href="?q=node/5" ><img src="/sites/all/themes/claymoredesign/images/ss-front-view.jpg" alt="Sandy Shores Frontal View"><div class="plus"></div><span>click for more info</span></a> 
+</div>
+<div class="right-box">
+	<h1></h1>
+	
+</div>
+
 <div class="USER one">
 	<div id="node-<?php print $node->nid; ?>" class="<?php print $classes; ?> clearfix"<?php print $attributes; ?>>
 
