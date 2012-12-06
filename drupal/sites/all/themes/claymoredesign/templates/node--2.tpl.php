@@ -13,7 +13,7 @@
 </div>
 <div class="right-box">
 	<h1>Property Updates</h1>
-	<p style="color:#FFFFFF; font-size:12px;">We have decided to move back to our Barefoot Home. It will no longer be available after January 1st. We will replacing Barefoot with our beautiful Newport home. It will be available starting with the 2nd weekend in January. It is much larger,and just south of Newport. You will have easy access to all that Newport has to offer. Check out the pictures and info. The living room furniture will be different. The pictures are from5 years ago. We are excited about this change and think you will be too!</p>
+	<p style="color:#FFFFFF; font-size:12px;">We have decided to move back to our Barefoot Home. It will no longer be available after January 1st. We will be replacing Barefoot with our beautiful Newport home. It will be available starting with the 2nd weekend in January. It is much larger,and just south of Newport. You will have easy access to all that Newport has to offer. Check out the pictures and info. The living room furniture will be different. The pictures are from5 years ago. We are excited about this change and think you will be too!</p>
 </div>
 
 <div class="USER one">
