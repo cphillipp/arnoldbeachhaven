@@ -1,7 +1,7 @@
 <div class="top push">
 	<h1>Our Information</h1>
 	<p>Ready to book your vacation, or have questions?</p>
-	<h2><span>Phone:</span> Sharon Arnold - 541-867-7116</h2>
+	<h2><span>Phone:</span> Sharon Arnold - 541-547-5296</h2>
 	<h2><span>Email:</span> <a href="mailto:sharon@arnoldbeachhaven.com">sharon@arnoldbeachhaven.com</a></h2>
 </div>
 <div class="right-box border">
