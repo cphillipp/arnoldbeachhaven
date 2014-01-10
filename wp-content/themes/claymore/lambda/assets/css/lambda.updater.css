@@ -1,0 +1,10 @@
+/*==============================================*/
+/*					Themeupdater				*/
+/*==============================================*/
+.sc-lister {
+	position:relative;
+	background: #FFF;
+	border: 1px solid #CCC;
+	margin-bottom: 10px;
+	padding: 10px;
+}

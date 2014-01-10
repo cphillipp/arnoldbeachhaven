@@ -1,0 +1,14 @@
+
+
+.thumb img {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"
+}
+
+.thumb img:hover {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"
+}
+
+ul.social-icons li {
+	width:24px;
+	height:24px;
+}

@@ -1,0 +1,447 @@
+Version 1.7.3
+- fixed an issue with woocommerce category listing
+- update to tgm activation
+
+
+Version 1.7.2
+-- fixed an issue with multiple galleries in blog
+-- update to revolution slider
+
+-- changed files:
+-- footer.php
+-- post-formats/gallery.php
+
+Version 1.7.1
+-- fixed an issue with shortcode generator
+
+Version 1.7
+-- added tablemanager compatibility on multisite installations
+-- added slidermanager compatibility on multisite installations
+-- added TGM Plugin Activation
+-- added new twitter widget plugin via TGM
+-- fixed an issue with camera slider manager and WP3.6
+-- fixed an issue with QTranslate on contact page
+-- fixed an issue with woocommerce sidebar settings
+-- fixed an issue with woocommerce order template
+-- fixed an issue with service template
+-- fixed an issue with revolution slider caption
+-- fixed an issue with prettyphoto lightbox on page creator pages
+-- fixed an issue with tag archive displaying
+-- fixed an issue with search archive displaying
+-- fixed an issie with navigation in chrome
+-- removed theme auto updater due to WP3.6 issues
+-- moved rev slider from theme directory to plugin directory ( TGM Activation )
+-- improved performance
+-- update to Revolution Slider 3.0.8
+-- update to child theme
+
+-- changes files
+-- complete claymore theme folder
+
+-- new files
+-- functions/theme-sanitze.php
+-- functions/plugin-activation.php
+-- functions/plugin-update.php
+
+Version 1.6.4
+-- update to Revolution Slider 3.0.5
+-- removed old twitter widget
+-- added new twitter widget
+
+Version 1.6.3
+-- update to revolution slider
+-- fixed an issue with login widget and woo commerce 2.0.4
+-- fixed an issue with portfolio password protection
+
+-- changed files
+-- functions.php
+-- archive-portfolio.php
+-- loop-portfolio.php
+
+-- removed files
+-- woocommerce/widgets/lambda_woo_login.php
+
+Version 1.6.2
+-- fixed an issue with portfolio management
+-- fixed an issue rev slider css
+
+-- changed files
+-- lambda/assets/js/lambda/meta.js
+-- functions/theme-custom-css.php
+
+Version 1.6.1
+-- fixed an issue with pagination on front pages
+-- fixed an issue with removed breaks in pagecreator text editors
+-- fixed an issue with embedded videos inside service template
+-- fixed an issue with default avatar
+-- fixed an issue with supersized slider
+-- fixed an issue with product tabs and variable products
+
+-- updated aquaresizer
+-- added woo commerce files for Version 2.0 to theme core
+
+-- changed files
+-- functions/pagecreator-functions.php
+-- functions/theme-custom-css.php
+-- style.css
+-- responsive.css
+-- template-service.php
+-- functions.php
+
+-- new files
+-- images/103.gif
+
+Version 1.6
+-- update to woocommerce theme
+-- updated XML File
+-- update to Revolution Slider 2.2.4
+-- added woocommerce 2.0 prepared files
+-- fixed an issue with slahes inside custom css code
+-- fixed an issue with featured header images and responsive
+-- fixed an issue with IE site displaying
+-- fixed an issue with responsive widget
+-- fixed an issue with some QTranslate elements
+-- improved performance
+
+-- changed files
+-- archive-portfolio.php
+-- loop.php
+-- style.css
+-- functions/theme-woocommerce-support.php
+-- functions/pagecreator-functions.php
+-- functions/theme-layout-functions.php
+-- functions/theme-functions.php
+-- functions/theme-shortcodes.php
+-- functions/theme-slider-shortcodes.php
+-- functions/theme-portfolio-init.php
+-- functions/theme-java-functions.php
+-- javascripts/like.js.php
+-- woocommerce/content-product.php
+-- header.php
+-- functions.php
+-- loop-contactform.php
+-- loop-pagecreator.php
+-- loop-portfolio.php
+-- template-home.php
+-- template-team.php
+-- template-part-slider.php
+-- complete lambda folder
+-- complete css/colors folder
+-- css/woocommerce.css
+-- revslider folder
+
+-- removed files
+-- style.php
+-- custom.font.php
+-- css/colors/custom.css.php
+
+-- new files
+-- functions/theme-custom-css.php
+
+
+Version 1.5.4
+-- update to revolution slider 2.2.2
+-- fixed an issue with standard wp gallery
+
+-- changes files:
+-- functions/theme-shortcodes.php
+-- post-formats/gallery.php
+
+Version 1.5.3
+
+-- fixed an issue with camera slider loading issue
+-- fixed an issue with revolution slider on multisite installations
+
+-- changed files
+-- javascripts/slider.init.php
+-- functions/theme-activation-hook.php
+-- functions/theme-layout-functions.php
+
+Version 1.5.2
+
+-- updated revolution slider 2.1.7
+-- added new responsive switch widget
+-- added URL support for service template
+-- added URL support for toggles
+-- added custom textarea for pricing tables ( for PayPal buttons etc. )
+-- added transition to service template
+
+-- fixed an issue with woo commerce shop sidebar displaying
+-- fixed an issue with social media widget and accessibility mode
+-- fixed navigation first child css issue
+-- fixed an issue with password protection
+-- fixed an issue with logo displaying on chrome browser
+-- fixed an issue with "jumping" navigation in chrome
+-- fixed an issue with portfolio error
+-- fixed an issue with post excerpt and Cyrillic characters
+-- fixed an issue with portfolio widget ( display issue )
+-- fixed an issue where remote articles couldn't be loaded into the page creator
+
+-- changed files
+-- archive-portfolio.php
+-- functions.php
+-- lambda/widgets/lambda_social.php
+-- functions/theme-functions.php
+-- lambda/widgets/lambda_portfolio.php
+-- js/superfish.js
+-- style.css
+-- style.php
+-- css/colors/blue.css
+-- css/colors/coffee.css
+-- css/colors/custom.css.php
+-- css/colors/greenapple.css
+-- css/colors/orange.css
+-- css/colors/pink.css
+-- css/colors/purple.css
+-- css/colors/red.css
+-- javascripts/app.js
+-- template-clients.php
+-- template-faq.php
+-- template-home.php
+-- template-pagecreator.php
+-- template-part-slider.php
+-- template-part-teaser.php
+-- template-team.php
+-- template-testimonials.php
+ 
+-- new files
+-- lambda/widgets/lambda_responsive.php
+
+Version 1.5.1
+-- fixed an Issue with Page Creator at WP3.5
+-- update to revolution slider
+
+Version 1.5
+-- added woocommerce support
+-- added custom font manager
+-- update to revolution slider 2.0.5
+-- fixed an issue with CTA Custom Color
+-- fixed an issue with author bio and qtranslate
+-- fixed an issue with slider and tablemanager with Windows IIS
+
+-- changed files
+-- functions.php
+-- header.php
+-- template-home.php
+-- template-part-slider.php
+-- template-part-teaser.php
+-- loop-pagecreator.php
+-- loop-single.php
+-- pagecreator-functions.php
+-- archive-portfolio.php
+-- css/colors/custom.css.php
+-- template-part-teaser.php
+-- lambda/index.php
+-- lambda/lambda.admin.functions.php
+-- lambda/classes/class.admin.php
+-- lambda/functions/functions.load.php
+-- lambda/functions/functions.php
+-- lambda/functions/admin/fontmanager.php
+-- lambda/functions/admin/upload.php
+-- functions/theme-shortcodes.php
+
+-- new files
+-- custom.font.php
+
+Version 1.4.2
+-- update to child theme
+-- update to revolution slider
+-- added alt tags to service icons
+-- added aditional image cropping for blog posts
+-- added auto play for testimonials
+-- added pagination to blog box page creator
+-- added portfolio widget
+-- fixed an issue with theme updater
+-- fixed an issue with special character inside form creator
+-- fixed an issue with testimonial carousel
+-- fixed an issue with defaukt sidebar management
+-- fixed an issue with portfolio filter
+-- fixed an issue with QTranslate on Home Template
+
+-- changed files
+-- archive-portfolio.php
+-- header.php
+-- loop.php
+-- template-home.php
+-- style.css
+-- style.php
+-- sidebar.php
+-- sidebar-page.php
+-- sidebar-second.php
+-- post-formats/standard.php
+-- post-formats/gallery.php
+-- functions/pagecreator-functions.php
+-- functions/theme-form-functions.ph
+-- lambda/metaboxes/lambda.metapanel.php
+-- lambda/metaboxes/lambda.meta.spec.php
+-- lambda/assets/optionsdata/theme-options.xml
+-- lambda/assets/css/lambda.ui.css
+
+folders to update
+-- lambda/tinymce/
+-- lambda/themeupdater/
+
+-- new files 
+-- functions/theme-woocommerce-support.php
+-- lambda/widgets/lambda_portfolio.php
+
+24.10.2012
+Version 1.4.1
+
+-- fixed an issue with multisite installations
+-- fixed an issue with blog meta data displaying
+-- fixed an issue with theme updater
+
+-- changed files
+-- header.php
+-- lambda/tinymce/lambda.table.popup.php
+-- lambda/tinymce/lambda.slider.popup.php
+-- lambda/slidermanager/index.php
+-- lambda/tablemanager/index.php
+-- lambda/metaboxes/lambda.metapanel.php
+-- lambda/metaboxes/lambda.slider.php
+-- lambda/functions/admin/select-backgroundslider.php
+-- javascripts/slider.init.php
+-- functions/theme-slider-shortcodes.php
+-- functions/theme-shortcodes.php
+-- functions/theme-functions.php
+-- functions/ajax-request.php
+-- functions/theme-activation-hook.php
+-- template-part-slider.php
+
+
+23.10.2012
+Version 1.4
+
+-- update to revolution slider
+-- added WPML Support with official certification from WPML.org
+-- added portfolio filter in backend
+
+-- fixed an issue with full width carousel
+-- fixed an issue with CTA Button Generator
+-- fixed an issue with QTranslate in service toggles
+-- fixed an issue with footer headline box displaying
+-- fixed an issue with sidebar displaying in categories
+-- fixed an issue with menu coloring
+-- removed captcha code from email
+
+-- changed files
+-- template-home.php
+-- lambda/tinymce/lambda.cta.popup.php
+-- lambda/lambda.metabox.php
+-- functions/theme-layout-functions.php
+-- functions/theme-mailer.php
+-- functions/theme-portfolio-init.php
+-- functions.php
+-- styles.css
+-- complete revslider folder
+
+-- new files
+-- wpml-config.xml
+
+14.10.2012
+Version 1.3
+
+-- added prettyphoto lightbox to standard WP Gallery
+-- added additional sidebar management to Page Creator, from now you are able to widgetize pages
+-- added Theme Auto Updater
+-- added responsive options to page creator - hide and show boxes on special resolutions
+-- added Client Box to Page Creator
+-- minor css changes
+-- fixed footer styling option
+-- update to child theme
+
+-- changed files
+-- loop-contactform.php
+-- style.css
+-- layout.css
+-- style.php
+-- responsive.css
+-- functions.php
+-- header.php
+-- archive-portfolio.php
+-- loop-contactform.php
+-- functions/theme-functions.php
+-- functions/theme-layout-functions.php
+-- functions/pagecreator-functions.php
+-- functions/theme-activation-hook.php
+-- loop-pagecreator.php
+-- lambda/themeupdater/index.php
+-- lambda/metaboxes/lambda.slider.php
+-- lambda/metaboxes/lambda.metapanel.php
+-- lambda/assets/css/bootstrap.css
+-- lambda/assets/css/lambda.ui.css
+
+-- new files
+--- lambda/themeupdater/class-envato-api.php
+--- lambda/themeupdater/class-envato-backup.php
+--- lambda/themeupdater/class-wp-upgrader.php
+--- lambda/themeupdater/envato.php
+--- lambda/assets/images/responsive.png
+--- lambda/functions/admin/footer_background_pattern.php
+--- lambda/functions/admin/footer_background_texture.php
+
+-- new folders
+--- images/footer
+
+-- removed files
+-- functions/theme-update.php
+
+03.10.2012
+Version 1.2.1
+- updated child theme
+- fixed an issue with menu custom colors
+
+-- changed files
+-- lambda/assets/optionsdata/theme-options.xml
+-- css/colors/custom.css.php
+
+-- Please reload the XML File after updating the Theme!
+-- Go to Theme Options -> Manage Presets (upper right corner) and hit "Reload XML"
+
+
+02.10.2012
+Version 1.2
+- fixed an issue where pagecreator was adding empty boxes after each save
+- minor CSS changes
+- added qtranslate Support
+- client logos at startpage are now randomized
+- updated documentation
+
+- changed files:
+-- style.css
+-- template-home.php
+-- functions.php
+-- template-faq.php
+-- template-service.php
+-- template-team.php
+--- functions/theme-form-functions.php
+--- functions/pagecreator-functions.php
+--- lambda/metaboxes/lambda.metapanel.php
+--- lambda/metaboxes/lambda.slider.php
+--- lambda/widgets/lambda_recent_post.php
+--- lambda/assets/js/lambda.pttiny.js
+--- lambda/assets/js/lambda.meta.js
+--- lambda/assets/css/lambda.ui.css
+--- lambda/assets/css/bootstrap.css
+--- lambda/lambda.admin.functions.php
+
+- new files:
+--- lambda.qtranslate.php
+--- lambda.parsecontent.php
+--- languages/en_US.mo
+--- languages/en_US.po
+--- languages/xx_XX.pot
+
+28.09.2012
+Version 1.1
+- added "CTA" Shortcode
+- added "hide page" function for supersized Slider
+- added sample "Child Theme"
+- added new button colors
+- fixed an issue with headline displaying
+- fixed a minor Issue in our Slidermanager
+
+25.09.2012
+
+- initial Version 1.0

@@ -1,0 +1,3617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: claymore v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-01 14:27:50+0000\n"
+"Last-Translator: admin <demo@unitedthemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:21
+#@ claymore
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Apologies, but the page you requested could not be found. Perhaps searching will help."
+
+#: comments.php:12
+#@ claymore
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+#: comments.php:25
+#, php-format
+#@ claymore
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "One Response to %2$s"
+msgstr[1] "%1$s Responses to %2$s"
+
+#: comments.php:52
+#@ claymore
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: comments.php:59
+#@ claymore
+msgid "You must be logged in to post a comment."
+msgstr "You must be logged in to post a comment."
+
+#: comments.php:66
+#@ claymore
+msgid "Logged in as:"
+msgstr "Logged in as:"
+
+#: comments.php:66
+#@ claymore
+msgid "Log out"
+msgstr "Log out"
+
+#: comments.php:71
+#@ claymore
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:71
+#@ claymore
+msgid "required"
+msgstr "required"
+
+#: comments.php:76
+#: lambda/widgets/lambda_contact.php:28
+#@ claymore
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:76
+#@ claymore
+msgid " (will not be published) "
+msgstr " (will not be published) "
+
+#: comments.php:76
+#@ claymore
+msgid "(required)"
+msgstr "(required)"
+
+#: comments.php:81
+#@ claymore
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:91
+#@ claymore
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: functions/ajax-request.php:27
+#@ claymore
+msgid "You need to be logged in to vote!"
+msgstr "You need to be logged in to vote!"
+
+#: functions/ajax-request.php:57
+#@ claymore
+msgid "Thanks for voting!"
+msgstr "Thanks for voting!"
+
+#: functions/ajax-request.php:62
+#@ claymore
+msgid "Sorry, a technical error has occured. Please try again later"
+msgstr "Sorry, a technical error has occured. Please try again later"
+
+#: functions/default-menu.php:2
+#@ claymore
+msgid "Set Up Your Menu"
+msgstr "Set Up Your Menu"
+
+#: functions/pagecreator-functions.php:615
+#: functions/pagetool-functions.php:571
+#: functions/theme-post-formats.php:105
+#: loop.php:90
+#: loop.php:199
+#: loop.php:312
+#: loop.php:423
+#: loop.php:501
+#: loop.php:597
+#: post-formats/link.php:16
+#, php-format
+#@ claymore
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: functions/pagecreator-functions.php:625
+#: functions/pagetool-functions.php:581
+#: loop-single.php:38
+#: loop.php:108
+#: loop.php:217
+#: loop.php:330
+#: loop.php:441
+#: loop.php:519
+#: loop.php:615
+#@ claymore
+msgid "0 Comments"
+msgstr "0 Comments"
+
+#: functions/pagecreator-functions.php:625
+#: functions/pagetool-functions.php:581
+#: loop-single.php:38
+#: loop.php:108
+#: loop.php:217
+#: loop.php:330
+#: loop.php:441
+#: loop.php:519
+#: loop.php:615
+#@ claymore
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: functions/pagecreator-functions.php:625
+#: functions/pagetool-functions.php:581
+#: loop-single.php:38
+#: loop.php:108
+#: loop.php:217
+#: loop.php:330
+#: loop.php:441
+#: loop.php:519
+#: loop.php:615
+#@ claymore
+msgid "% Comments"
+msgstr "% Comments"
+
+#: functions/pagecreator-functions.php:681
+#: functions/pagetool-functions.php:629
+#: functions/theme-functions.php:123
+#@ claymore
+msgid "Read more <span class=\"meta-nav\"></span>"
+msgstr "Read more <span class=\"meta-nav\"></span>"
+
+#: functions/theme-form-functions.php:55
+#@ claymore
+msgid "Your input must consist of at least "
+msgstr "Your input must consist of at least "
+
+#: functions/theme-form-functions.php:55
+#@ claymore
+msgid " characters"
+msgstr " characters"
+
+#: functions/theme-form-functions.php:248
+#@ claymore
+msgid "Send email"
+msgstr "Send email"
+
+#: functions/theme-functions.php:8
+#@ claymore
+msgid "Primary Navigation"
+msgstr "Primary Navigation"
+
+#: functions/theme-functions.php:82
+#@ claymore
+msgid "Read More"
+msgstr "Read More"
+
+#: functions/theme-layout-functions.php:190
+#@ claymore
+msgid "Comment is awaiting moderation"
+msgstr "Comment is awaiting moderation"
+
+#: functions/theme-layout-functions.php:196
+#@ claymore
+msgid "Reply"
+msgstr "Reply"
+
+#: functions/theme-layout-functions.php:202
+#@ claymore
+msgid "Edit Comment"
+msgstr "Edit Comment"
+
+#: functions/theme-layout-functions.php:431
+#@ claymore
+msgid "Like"
+msgstr "Like"
+
+#: functions/theme-mailer.php:58
+#@ claymore
+msgid " From "
+msgstr " From "
+
+#: functions/theme-portfolio-init.php:11
+#: lambda/metaboxes/lambda.metapanel.php:175
+#@ claymore
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: functions/theme-portfolio-init.php:12
+#@ claymore
+msgid "Project"
+msgstr "Project"
+
+#: functions/theme-portfolio-init.php:32
+#@ claymore
+msgid "Project Categories"
+msgstr "Project Categories"
+
+#: functions/theme-portfolio-init.php:33
+#@ claymore
+msgid "Project Category"
+msgstr "Project Category"
+
+#: functions.php:309
+#: lambda/lambda.admin.functions.php:95
+#@ claymore
+msgid "Default Sidebar"
+msgstr "Default Sidebar"
+
+#: functions.php:311
+#@ claymore
+msgid "The Default Sidebar"
+msgstr "The Default Sidebar"
+
+#: functions.php:340
+#@ claymore
+msgid "First Footer Widget Area"
+msgstr "First Footer Widget Area"
+
+#: functions.php:342
+#@ claymore
+msgid "The first footer widget area"
+msgstr "The first footer widget area"
+
+#: functions.php:351
+#@ claymore
+msgid "Second Footer Widget Area"
+msgstr "Second Footer Widget Area"
+
+#: functions.php:353
+#@ claymore
+msgid "The second footer widget area"
+msgstr "The second footer widget area"
+
+#: functions.php:362
+#@ claymore
+msgid "Third Footer Widget Area"
+msgstr "Third Footer Widget Area"
+
+#: functions.php:364
+#@ claymore
+msgid "The third footer widget area"
+msgstr "The third footer widget area"
+
+#: functions.php:373
+#@ claymore
+msgid "Fourth Footer Widget Area"
+msgstr "Fourth Footer Widget Area"
+
+#: functions.php:375
+#@ claymore
+msgid "The fourth footer widget area"
+msgstr "The fourth footer widget area"
+
+#: functions.php:384
+#@ claymore
+msgid "Header Widget Area"
+msgstr "Header Widget Area"
+
+#: functions.php:386
+#@ claymore
+msgid "The header widget area. Only for Lambda Social Media Widget"
+msgstr "The header widget area. Only for Lambda Social Media Widget"
+
+#: functions.php:405
+#, php-format
+#@ claymore
+msgid "%2$s"
+msgstr "%2$s"
+
+#: functions.php:414
+#, php-format
+#@ claymore
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: functions.php:432
+#, php-format
+#@ claymore
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: functions.php:434
+#, php-format
+#@ claymore
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: functions.php:436
+#, php-format
+#@ claymore
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: header.php:50
+#, php-format
+#@ claymore
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:200
+#@ claymore
+msgid "Option Tree Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"
+msgstr "Option Tree Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"
+
+#: header.php:203
+#@ claymore
+msgid "Soundcloud Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"
+msgstr "Soundcloud Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"
+
+#: lambda/classes/class.admin.php:1555
+#@ claymore
+msgid "Options"
+msgstr "Options"
+
+#: lambda/classes/class.admin.php:1633
+#@ claymore
+msgid "Somebody"
+msgstr "Somebody"
+
+#: lambda/classes/class.admin.php:1634
+#@ claymore
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: lambda/classes/class.admin.php:1634
+#@ claymore
+msgid "Settings"
+msgstr "Settings"
+
+#: lambda/classes/class.admin.php:1636
+#, php-format
+#@ claymore
+msgid "Warning: %s is currently editing the %s."
+msgstr "Warning: %s is currently editing the %s."
+
+#: lambda/classes/class.admin.php:1736
+#@ option-tree
+msgid "Show Settings &amp; Docs"
+msgstr ""
+
+#: lambda/classes/class.admin.php:1739
+#@ option-tree
+msgid "Yes"
+msgstr ""
+
+#: lambda/front-end/docs.php:9
+#@ claymore
+msgid "Option Usage (for Developers)"
+msgstr "Option Usage (for Developers)"
+
+#: lambda/front-end/options.php:15
+#@ claymore
+msgid "Manage Preset"
+msgstr "Manage Preset"
+
+#: lambda/front-end/options.php:16
+#: lambda/front-end/options.php:240
+#@ claymore
+msgid "Save All Changes"
+msgstr "Save All Changes"
+
+#: lambda/front-end/options.php:27
+#@ claymore
+msgid "Manage Layouts"
+msgstr "Manage Layouts"
+
+#: lambda/front-end/options.php:34
+#@ claymore
+msgid "New Layout"
+msgstr "New Layout"
+
+#: lambda/front-end/options.php:62
+#@ claymore
+msgid "Activate Layout"
+msgstr "Activate Layout"
+
+#: lambda/front-end/options.php:65
+#@ claymore
+msgid "Reload XML"
+msgstr "Reload XML"
+
+#: lambda/front-end/options.php:80
+#@ claymore
+msgid " Theme Options"
+msgstr " Theme Options"
+
+#: lambda/front-end/options.php:241
+#@ claymore
+msgid "Reset Options"
+msgstr "Reset Options"
+
+#: lambda/front-end/settings.php:21
+#@ claymore
+msgid " Theme Settings"
+msgstr " Theme Settings"
+
+#: lambda/front-end/settings.php:246
+#@ claymore
+msgid "Import XML"
+msgstr "Import XML"
+
+#: lambda/front-end/settings.php:272
+#@ claymore
+msgid "Import Data"
+msgstr "Import Data"
+
+#: lambda/front-end/settings.php:298
+#@ claymore
+msgid "Import Layouts"
+msgstr "Import Layouts"
+
+#: lambda/functions/admin/background.php:46
+#: lambda/metaboxes/lambda.slider.php:499
+#@ claymore
+msgid "Background-Color"
+msgstr "Background-Color"
+
+#: lambda/functions/admin/background.php:54
+#: lambda/metaboxes/lambda.slider.php:507
+#@ claymore
+msgid "Background-Repeat"
+msgstr "Background-Repeat"
+
+#: lambda/functions/admin/background.php:66
+#: lambda/metaboxes/lambda.slider.php:520
+#@ claymore
+msgid "Background-Attachment"
+msgstr "Background-Attachment"
+
+#: lambda/functions/admin/background.php:78
+#: lambda/metaboxes/lambda.slider.php:533
+#@ claymore
+msgid "Background-Position"
+msgstr "Background-Position"
+
+#: lambda/functions/admin/background.php:88
+#@ claymore
+msgid "Background-Image"
+msgstr "Background-Image"
+
+#: lambda/functions/admin/checkbox.php:45
+#@ claymore
+msgid "Inactive"
+msgstr "Inactive"
+
+#: lambda/functions/admin/checkbox.php:49
+#@ claymore
+msgid "Active"
+msgstr "Active"
+
+#: lambda/functions/admin/easing.php:32
+#@ claymore
+msgid "-- Choose Easing Effect --"
+msgstr "-- Choose Easing Effect --"
+
+#: lambda/functions/admin/image_effect.php:33
+#@ claymore
+msgid "-- Choose Image Start Effect --"
+msgstr "-- Choose Image Start Effect --"
+
+#: lambda/functions/admin/image_hover.php:33
+#@ claymore
+msgid "-- Choose Image Hover Effect --"
+msgstr "-- Choose Image Hover Effect --"
+
+#: lambda/functions/admin/typography.php:45
+#: lambda/functions/admin/typography_menu.php:50
+#@ claymore
+msgid "Font Color"
+msgstr "Font Color"
+
+#: lambda/functions/admin/typography.php:56
+#: lambda/functions/admin/typography_headlines.php:31
+#: lambda/functions/admin/typography_menu.php:61
+#@ claymore
+msgid "Font Family"
+msgstr "Font Family"
+
+#: lambda/functions/admin/typography.php:70
+#: lambda/functions/admin/typography_headlines.php:45
+#: lambda/functions/admin/typography_menu.php:76
+#@ claymore
+msgid "Font Style"
+msgstr "Font Style"
+
+#: lambda/functions/admin/typography.php:84
+#: lambda/functions/admin/typography_headlines.php:59
+#: lambda/functions/admin/typography_menu.php:106
+#@ claymore
+msgid "Font Weight"
+msgstr "Font Weight"
+
+#: lambda/functions/admin/typography.php:98
+#: lambda/functions/admin/typography_menu.php:120
+#@ claymore
+msgid "Font Size"
+msgstr "Font Size"
+
+#: lambda/functions/admin/typography_menu.php:91
+#@ claymore
+msgid "Font Transform"
+msgstr "Font Transform"
+
+#: lambda/functions/admin/upload.php:26
+#@ claymore
+msgid "Upload"
+msgstr "Upload"
+
+#: lambda/lambda.admin.functions.php:95
+#@ claymore
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: lambda/metaboxes/lambda.meta.spec.php:19
+#@ claymore
+msgid "Featured Header Settings"
+msgstr "Featured Header Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:28
+#@ claymore
+msgid "Save"
+msgstr "Save"
+
+#: lambda/metaboxes/lambda.metapanel.php:32
+#@ claymore
+msgid "Editor"
+msgstr "Editor"
+
+#: lambda/metaboxes/lambda.metapanel.php:35
+#: lambda/metaboxes/lambda.metapanel.php:1300
+#@ claymore
+msgid "Post Format Settings"
+msgstr "Post Format Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:39
+#@ claymore
+msgid "Page Creator"
+msgstr "Page Creator"
+
+#: lambda/metaboxes/lambda.metapanel.php:42
+#: lambda/metaboxes/lambda.slider.php:21
+#@ claymore
+msgid "Featured Header"
+msgstr "Featured Header"
+
+#: lambda/metaboxes/lambda.metapanel.php:43
+#: lambda/metaboxes/lambda.metapanel.php:829
+#@ claymore
+msgid "Page Settings"
+msgstr "Page Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:44
+#: lambda/metaboxes/lambda.metapanel.php:945
+#@ claymore
+msgid "Style Settings"
+msgstr "Style Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:47
+#@ claymore
+msgid "Portfolio Overview Settings"
+msgstr "Portfolio Overview Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:51
+#: lambda/metaboxes/lambda.metapanel.php:2187
+#: lambda/metaboxes/lambda.metapanel.php:2484
+#@ claymore
+msgid "Portfolio Items"
+msgstr "Portfolio Items"
+
+#: lambda/metaboxes/lambda.metapanel.php:56
+#: lambda/metaboxes/lambda.metapanel.php:1833
+#: lambda/metaboxes/lambda.metapanel.php:1847
+#@ claymore
+msgid "Contact Form Builder"
+msgstr "Contact Form Builder"
+
+#: lambda/metaboxes/lambda.metapanel.php:57
+#@ claymore
+msgid "Home Settings"
+msgstr "Home Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:58
+#@ claymore
+msgid "Team Settings"
+msgstr "Team Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:59
+#@ claymore
+msgid "FAQ Settings"
+msgstr "FAQ Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:60
+#@ claymore
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: lambda/metaboxes/lambda.metapanel.php:61
+#@ claymore
+msgid "Service"
+msgstr "Service"
+
+#: lambda/metaboxes/lambda.metapanel.php:62
+#: lambda/metaboxes/lambda.metapanel.php:2190
+#@ claymore
+msgid "Clients"
+msgstr "Clients"
+
+#: lambda/metaboxes/lambda.metapanel.php:98
+#@ claymore
+msgid "Expand Page Creator"
+msgstr "Expand Page Creator"
+
+#: lambda/metaboxes/lambda.metapanel.php:99
+#@ claymore
+msgid "Shrink Page Creator"
+msgstr "Shrink Page Creator"
+
+#: lambda/metaboxes/lambda.metapanel.php:103
+#@ claymore
+msgid "Add New Box"
+msgstr "Add New Box"
+
+#: lambda/metaboxes/lambda.metapanel.php:115
+#@ claymore
+msgid "New box"
+msgstr "New box"
+
+#: lambda/metaboxes/lambda.metapanel.php:132
+#@ claymore
+msgid "edit"
+msgstr "edit"
+
+#: lambda/metaboxes/lambda.metapanel.php:153
+#@ claymore
+msgid "Enter Boxname"
+msgstr "Enter Boxname"
+
+#: lambda/metaboxes/lambda.metapanel.php:156
+#@ claymore
+msgid "only for internal use"
+msgstr "only for internal use"
+
+#: lambda/metaboxes/lambda.metapanel.php:161
+#@ claymore
+msgid "Choose Boxtype"
+msgstr "Choose Boxtype"
+
+#: lambda/metaboxes/lambda.metapanel.php:163
+#@ claymore
+msgid "Choose Box Type"
+msgstr "Choose Box Type"
+
+#: lambda/metaboxes/lambda.metapanel.php:164
+#@ claymore
+msgid "Textbox (with Editor)"
+msgstr "Textbox (with Editor)"
+
+#: lambda/metaboxes/lambda.metapanel.php:165
+#: lambda/metaboxes/lambda.metapanel.php:1337
+#@ claymore
+msgid "Quote"
+msgstr "Quote"
+
+#: lambda/metaboxes/lambda.metapanel.php:166
+#: revslider/inc_php/revslider_widget.class.php:9
+#@ claymore
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: lambda/metaboxes/lambda.metapanel.php:167
+#@ claymore
+msgid "Standard Slider"
+msgstr "Standard Slider"
+
+#: lambda/metaboxes/lambda.metapanel.php:168
+#@ claymore
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: lambda/metaboxes/lambda.metapanel.php:169
+#@ claymore
+msgid "Horizontal Row"
+msgstr "Horizontal Row"
+
+#: lambda/metaboxes/lambda.metapanel.php:170
+#: lambda/metaboxes/lambda.metapanel.php:1524
+#@ claymore
+msgid "Video"
+msgstr "Video"
+
+#: lambda/metaboxes/lambda.metapanel.php:171
+#@ claymore
+msgid "Service Column"
+msgstr "Service Column"
+
+#: lambda/metaboxes/lambda.metapanel.php:172
+#@ claymore
+msgid "Single Testimonial"
+msgstr "Single Testimonial"
+
+#: lambda/metaboxes/lambda.metapanel.php:173
+#@ claymore
+msgid "Testimonial Carousel"
+msgstr "Testimonial Carousel"
+
+#: lambda/metaboxes/lambda.metapanel.php:174
+#@ claymore
+msgid "Pricing Table"
+msgstr "Pricing Table"
+
+#: lambda/metaboxes/lambda.metapanel.php:176
+#@ claymore
+msgid "Blog"
+msgstr "Blog"
+
+#: lambda/metaboxes/lambda.metapanel.php:177
+#@ claymore
+msgid "Google Map"
+msgstr "Google Map"
+
+#: lambda/metaboxes/lambda.metapanel.php:178
+#: lambda/metaboxes/lambda.metapanel.php:2191
+#@ claymore
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: lambda/metaboxes/lambda.metapanel.php:183
+#: lambda/widgets/lambda_contact.php:23
+#: lambda/widgets/lambda_like.php:58
+#: lambda/widgets/lambda_video.php:23
+#@ claymore
+msgid "Title"
+msgstr "Title"
+
+#: lambda/metaboxes/lambda.metapanel.php:186
+#@ claymore
+msgid "this will create a designed headline above the box, leave empty to hide"
+msgstr "this will create a designed headline above the box, leave empty to hide"
+
+#: lambda/metaboxes/lambda.metapanel.php:223
+#@ claymore
+msgid "Quote!"
+msgstr "Quote!"
+
+#: lambda/metaboxes/lambda.metapanel.php:228
+#: lambda/metaboxes/lambda.metapanel.php:2917
+#@ claymore
+msgid "Authorname"
+msgstr "Authorname"
+
+#: lambda/metaboxes/lambda.metapanel.php:244
+#@ claymore
+msgid "Choose Revolution Slider"
+msgstr "Choose Revolution Slider"
+
+#: lambda/metaboxes/lambda.metapanel.php:247
+#: lambda/metaboxes/lambda.metapanel.php:275
+#: lambda/metaboxes/lambda.metapanel.php:278
+#: lambda/metaboxes/lambda.slider.php:215
+#@ claymore
+msgid "Choose Slider"
+msgstr "Choose Slider"
+
+#: lambda/metaboxes/lambda.metapanel.php:306
+#: lambda/metaboxes/lambda.metapanel.php:1419
+#: lambda/metaboxes/lambda.metapanel.php:1546
+#@ claymore
+msgid "Soundcloud URL"
+msgstr "Soundcloud URL"
+
+#: lambda/metaboxes/lambda.metapanel.php:323
+#: lambda/metaboxes/lambda.metapanel.php:1366
+#: lambda/metaboxes/lambda.metapanel.php:1585
+#: lambda/metaboxes/lambda.slider.php:148
+#: lambda/metaboxes/lambda.slider.php:361
+#@ claymore
+msgid "Upload Video"
+msgstr "Upload Video"
+
+#: lambda/metaboxes/lambda.metapanel.php:325
+#: lambda/metaboxes/lambda.metapanel.php:335
+#: lambda/metaboxes/lambda.metapanel.php:1368
+#: lambda/metaboxes/lambda.metapanel.php:1378
+#: lambda/metaboxes/lambda.metapanel.php:1587
+#: lambda/metaboxes/lambda.metapanel.php:1597
+#: lambda/metaboxes/lambda.slider.php:150
+#: lambda/metaboxes/lambda.slider.php:160
+#: lambda/metaboxes/lambda.slider.php:363
+#: lambda/metaboxes/lambda.slider.php:373
+#@ claymore
+msgid "can be .mov, .flv"
+msgstr "can be .mov, .flv"
+
+#: lambda/metaboxes/lambda.metapanel.php:333
+#: lambda/metaboxes/lambda.metapanel.php:1376
+#: lambda/metaboxes/lambda.metapanel.php:1595
+#: lambda/metaboxes/lambda.slider.php:158
+#: lambda/metaboxes/lambda.slider.php:371
+#@ claymore
+msgid "Upload HD Video"
+msgstr "Upload HD Video"
+
+#: lambda/metaboxes/lambda.metapanel.php:343
+#: lambda/metaboxes/lambda.metapanel.php:1605
+#: lambda/metaboxes/lambda.slider.php:168
+#: lambda/metaboxes/lambda.slider.php:381
+#@ claymore
+msgid "Poster Image"
+msgstr "Poster Image"
+
+#: lambda/metaboxes/lambda.metapanel.php:345
+#: lambda/metaboxes/lambda.metapanel.php:1607
+#: lambda/metaboxes/lambda.slider.php:170
+#: lambda/metaboxes/lambda.slider.php:383
+#@ claymore
+msgid "should be same size as Video"
+msgstr "should be same size as Video"
+
+#: lambda/metaboxes/lambda.metapanel.php:353
+#: lambda/metaboxes/lambda.metapanel.php:1386
+#: lambda/metaboxes/lambda.metapanel.php:1615
+#: lambda/metaboxes/lambda.slider.php:178
+#: lambda/metaboxes/lambda.slider.php:391
+#@ claymore
+msgid "MP4 File URL"
+msgstr "MP4 File URL"
+
+#: lambda/metaboxes/lambda.metapanel.php:355
+#: lambda/metaboxes/lambda.metapanel.php:1388
+#: lambda/metaboxes/lambda.metapanel.php:1617
+#: lambda/metaboxes/lambda.slider.php:180
+#: lambda/metaboxes/lambda.slider.php:393
+#@ claymore
+msgid "The URL to .mp4 video file for Ipad"
+msgstr "The URL to .mp4 video file for Ipad"
+
+#: lambda/metaboxes/lambda.metapanel.php:362
+#: lambda/metaboxes/lambda.metapanel.php:365
+#: lambda/metaboxes/lambda.metapanel.php:1395
+#: lambda/metaboxes/lambda.metapanel.php:1398
+#: lambda/metaboxes/lambda.metapanel.php:1624
+#: lambda/metaboxes/lambda.metapanel.php:1627
+#: lambda/metaboxes/lambda.slider.php:186
+#: lambda/metaboxes/lambda.slider.php:189
+#: lambda/metaboxes/lambda.slider.php:399
+#: lambda/metaboxes/lambda.slider.php:402
+#@ claymore
+msgid "Embedded Code"
+msgstr "Embedded Code"
+
+#: lambda/metaboxes/lambda.metapanel.php:380
+#@ claymore
+msgid "This is only a horizontal divider!"
+msgstr "This is only a horizontal divider!"
+
+#: lambda/metaboxes/lambda.metapanel.php:400
+#: lambda/metaboxes/lambda.metapanel.php:2265
+#: lambda/metaboxes/lambda.metapanel.php:2323
+#: lambda/metaboxes/lambda.metapanel.php:2381
+#: lambda/metaboxes/lambda.metapanel.php:2439
+#@ claymore
+msgid "Icon URL"
+msgstr "Icon URL"
+
+#: lambda/metaboxes/lambda.metapanel.php:402
+#: lambda/metaboxes/lambda.metapanel.php:2267
+#: lambda/metaboxes/lambda.metapanel.php:2325
+#: lambda/metaboxes/lambda.metapanel.php:2383
+#: lambda/metaboxes/lambda.metapanel.php:2441
+#@ claymore
+msgid "Icon size should be 32x32"
+msgstr "Icon size should be 32x32"
+
+#: lambda/metaboxes/lambda.metapanel.php:407
+#: lambda/metaboxes/lambda.metapanel.php:555
+#: lambda/metaboxes/lambda.metapanel.php:2272
+#: lambda/metaboxes/lambda.metapanel.php:2330
+#: lambda/metaboxes/lambda.metapanel.php:2388
+#: lambda/metaboxes/lambda.metapanel.php:2446
+#: lambda/metaboxes/lambda.metapanel.php:2515
+#: lambda/metaboxes/lambda.metapanel.php:2599
+#: lambda/metaboxes/lambda.slider.php:264
+#@ claymore
+msgid "Headline"
+msgstr "Headline"
+
+#: lambda/metaboxes/lambda.metapanel.php:410
+#: lambda/metaboxes/lambda.metapanel.php:792
+#: lambda/metaboxes/lambda.metapanel.php:2275
+#: lambda/metaboxes/lambda.metapanel.php:2333
+#: lambda/metaboxes/lambda.metapanel.php:2391
+#: lambda/metaboxes/lambda.metapanel.php:2449
+#: lambda/metaboxes/lambda.metapanel.php:3157
+#@ claymore
+msgid "Content"
+msgstr "Content"
+
+#: lambda/metaboxes/lambda.metapanel.php:413
+#: lambda/metaboxes/lambda.metapanel.php:453
+#: lambda/metaboxes/lambda.metapanel.php:2278
+#: lambda/metaboxes/lambda.metapanel.php:2336
+#: lambda/metaboxes/lambda.metapanel.php:2394
+#: lambda/metaboxes/lambda.metapanel.php:2452
+#: lambda/metaboxes/lambda.metapanel.php:3284
+#@ claymore
+msgid "This field accepts shortcodes"
+msgstr "This field accepts shortcodes"
+
+#: lambda/metaboxes/lambda.metapanel.php:416
+#: lambda/metaboxes/lambda.metapanel.php:1316
+#: lambda/metaboxes/lambda.metapanel.php:2281
+#: lambda/metaboxes/lambda.metapanel.php:2339
+#: lambda/metaboxes/lambda.metapanel.php:2397
+#: lambda/metaboxes/lambda.metapanel.php:2455
+#: lambda/widgets/lambda_social.php:147
+#: lambda/widgets/lambda_social.php:229
+#: lambda/widgets/lambda_social.php:252
+#@ claymore
+msgid "Link"
+msgstr "Link"
+
+#: lambda/metaboxes/lambda.metapanel.php:420
+#: lambda/metaboxes/lambda.metapanel.php:782
+#: lambda/metaboxes/lambda.metapanel.php:2285
+#: lambda/metaboxes/lambda.metapanel.php:2343
+#: lambda/metaboxes/lambda.metapanel.php:2401
+#: lambda/metaboxes/lambda.metapanel.php:2459
+#: lambda/metaboxes/lambda.metapanel.php:3147
+#: lambda/metaboxes/lambda.slider.php:346
+#: lambda/slidermanager/index.php:622
+#: lambda/slidermanager/lambda.ajax.class.php:103
+#: lambda/slidermanager/lambda.slider.init.php:153
+#: lambda/tablemanager/index.php:379
+#@ claymore
+msgid "Buttontext"
+msgstr "Buttontext"
+
+#: lambda/metaboxes/lambda.metapanel.php:440
+#: lambda/metaboxes/lambda.metapanel.php:2925
+#: lambda/metaboxes/lambda.metapanel.php:3271
+#@ claymore
+msgid "Author Image"
+msgstr "Author Image"
+
+#: lambda/metaboxes/lambda.metapanel.php:442
+#@ claymore
+msgid "Image size should be 200x200"
+msgstr "Image size should be 200x200"
+
+#: lambda/metaboxes/lambda.metapanel.php:447
+#@ claymore
+msgid "Author Name"
+msgstr "Author Name"
+
+#: lambda/metaboxes/lambda.metapanel.php:450
+#@ claymore
+msgid "Comment"
+msgstr "Comment"
+
+#: lambda/metaboxes/lambda.metapanel.php:456
+#: lambda/metaboxes/lambda.metapanel.php:2936
+#: lambda/metaboxes/lambda.metapanel.php:3287
+#@ claymore
+msgid "Testimonial Authors Company"
+msgstr "Testimonial Authors Company"
+
+#: lambda/metaboxes/lambda.metapanel.php:471
+#: lambda/metaboxes/lambda.metapanel.php:2855
+#@ claymore
+msgid "Testimonial Color"
+msgstr "Testimonial Color"
+
+#: lambda/metaboxes/lambda.metapanel.php:473
+#: lambda/metaboxes/lambda.metapanel.php:2857
+#@ claymore
+msgid "Select color ..."
+msgstr "Select color ..."
+
+#: lambda/metaboxes/lambda.metapanel.php:474
+#: lambda/metaboxes/lambda.metapanel.php:2858
+#@ claymore
+msgid "white"
+msgstr "white"
+
+#: lambda/metaboxes/lambda.metapanel.php:475
+#: lambda/metaboxes/lambda.metapanel.php:2859
+#@ claymore
+msgid "darken"
+msgstr "darken"
+
+#: lambda/metaboxes/lambda.metapanel.php:476
+#: lambda/metaboxes/lambda.metapanel.php:2860
+#@ claymore
+msgid "alternating colors"
+msgstr "alternating colors"
+
+#: lambda/metaboxes/lambda.metapanel.php:480
+#@ claymore
+msgid "Choose Testimonials Page"
+msgstr "Choose Testimonials Page"
+
+#: lambda/metaboxes/lambda.metapanel.php:503
+#: lambda/metaboxes/lambda.metapanel.php:707
+#: lambda/metaboxes/lambda.metapanel.php:2683
+#@ claymore
+msgid "No Pages Available"
+msgstr "No Pages Available"
+
+#: lambda/metaboxes/lambda.metapanel.php:508
+#@ claymore
+msgid "Choose Testimonials from an existing <br /> Testimonials Template Page"
+msgstr "Choose Testimonials from an existing <br /> Testimonials Template Page"
+
+#: lambda/metaboxes/lambda.metapanel.php:522
+#: lambda/metaboxes/lambda.metapanel.php:526
+#@ claymore
+msgid "Choose Pricing Table"
+msgstr "Choose Pricing Table"
+
+#: lambda/metaboxes/lambda.metapanel.php:559
+#: lambda/metaboxes/lambda.metapanel.php:2519
+#@ claymore
+msgid "Load the last x items out of the portfolio"
+msgstr "Load the last x items out of the portfolio"
+
+#: lambda/metaboxes/lambda.metapanel.php:563
+#: lambda/metaboxes/lambda.metapanel.php:1187
+#: lambda/metaboxes/lambda.metapanel.php:2523
+#@ claymore
+msgid "Portfolio Column Layout"
+msgstr "Portfolio Column Layout"
+
+#: lambda/metaboxes/lambda.metapanel.php:566
+#: lambda/metaboxes/lambda.metapanel.php:670
+#: lambda/metaboxes/lambda.metapanel.php:2526
+#@ claymore
+msgid "Select Column Layout ..."
+msgstr "Select Column Layout ..."
+
+#: lambda/metaboxes/lambda.metapanel.php:567
+#: lambda/metaboxes/lambda.metapanel.php:672
+#: lambda/metaboxes/lambda.metapanel.php:2527
+#@ claymore
+msgid "2 Columns"
+msgstr "2 Columns"
+
+#: lambda/metaboxes/lambda.metapanel.php:568
+#: lambda/metaboxes/lambda.metapanel.php:673
+#: lambda/metaboxes/lambda.metapanel.php:2528
+#@ claymore
+msgid "3 Columns"
+msgstr "3 Columns"
+
+#: lambda/metaboxes/lambda.metapanel.php:569
+#: lambda/metaboxes/lambda.metapanel.php:674
+#: lambda/metaboxes/lambda.metapanel.php:2529
+#@ claymore
+msgid "4 Columns"
+msgstr "4 Columns"
+
+#: lambda/metaboxes/lambda.metapanel.php:573
+#: lambda/metaboxes/lambda.metapanel.php:2533
+#@ claymore
+msgid "Display items out of the following category"
+msgstr "Display items out of the following category"
+
+#: lambda/metaboxes/lambda.metapanel.php:587
+#: lambda/metaboxes/lambda.metapanel.php:1178
+#: lambda/metaboxes/lambda.metapanel.php:2544
+#@ claymore
+msgid "No Portfolio Categories created yet!"
+msgstr "No Portfolio Categories created yet!"
+
+#: lambda/metaboxes/lambda.metapanel.php:592
+#: lambda/metaboxes/lambda.metapanel.php:1262
+#: lambda/metaboxes/lambda.metapanel.php:2548
+#@ claymore
+msgid "Show Portfolio Item Title"
+msgstr "Show Portfolio Item Title"
+
+#: lambda/metaboxes/lambda.metapanel.php:598
+#: lambda/metaboxes/lambda.metapanel.php:640
+#: lambda/metaboxes/lambda.metapanel.php:657
+#: lambda/metaboxes/lambda.metapanel.php:2554
+#: lambda/metaboxes/lambda.metapanel.php:2629
+#: lambda/metaboxes/lambda.metapanel.php:2646
+#: lambda/tablemanager/index.php:303
+#@ claymore
+msgid "on"
+msgstr "on"
+
+#: lambda/metaboxes/lambda.metapanel.php:600
+#: lambda/metaboxes/lambda.metapanel.php:642
+#: lambda/metaboxes/lambda.metapanel.php:659
+#: lambda/metaboxes/lambda.metapanel.php:2556
+#: lambda/metaboxes/lambda.metapanel.php:2631
+#: lambda/metaboxes/lambda.metapanel.php:2648
+#: lambda/tablemanager/index.php:304
+#@ claymore
+msgid "off"
+msgstr "off"
+
+#: lambda/metaboxes/lambda.metapanel.php:617
+#: lambda/metaboxes/lambda.metapanel.php:2606
+#@ claymore
+msgid "Activate featured Images?"
+msgstr "Activate featured Images?"
+
+#: lambda/metaboxes/lambda.metapanel.php:623
+#: lambda/metaboxes/lambda.metapanel.php:917
+#: lambda/metaboxes/lambda.metapanel.php:1226
+#: lambda/metaboxes/lambda.metapanel.php:1268
+#: lambda/metaboxes/lambda.metapanel.php:2225
+#: lambda/metaboxes/lambda.metapanel.php:2250
+#: lambda/metaboxes/lambda.metapanel.php:2308
+#: lambda/metaboxes/lambda.metapanel.php:2366
+#: lambda/metaboxes/lambda.metapanel.php:2424
+#: lambda/metaboxes/lambda.metapanel.php:2497
+#: lambda/metaboxes/lambda.metapanel.php:2589
+#: lambda/metaboxes/lambda.metapanel.php:2612
+#: lambda/metaboxes/lambda.metapanel.php:2744
+#: lambda/metaboxes/lambda.metapanel.php:2980
+#: lambda/metaboxes/lambda.metapanel.php:3133
+#: lambda/metaboxes/lambda.slider.php:434
+#@ claymore
+msgid "show"
+msgstr "show"
+
+#: lambda/metaboxes/lambda.metapanel.php:625
+#: lambda/metaboxes/lambda.metapanel.php:919
+#: lambda/metaboxes/lambda.metapanel.php:1228
+#: lambda/metaboxes/lambda.metapanel.php:1270
+#: lambda/metaboxes/lambda.metapanel.php:2227
+#: lambda/metaboxes/lambda.metapanel.php:2252
+#: lambda/metaboxes/lambda.metapanel.php:2310
+#: lambda/metaboxes/lambda.metapanel.php:2368
+#: lambda/metaboxes/lambda.metapanel.php:2426
+#: lambda/metaboxes/lambda.metapanel.php:2499
+#: lambda/metaboxes/lambda.metapanel.php:2591
+#: lambda/metaboxes/lambda.metapanel.php:2614
+#: lambda/metaboxes/lambda.metapanel.php:2746
+#: lambda/metaboxes/lambda.metapanel.php:2982
+#: lambda/metaboxes/lambda.metapanel.php:3135
+#: lambda/metaboxes/lambda.slider.php:436
+#@ claymore
+msgid "hide"
+msgstr "hide"
+
+#: lambda/metaboxes/lambda.metapanel.php:634
+#: lambda/metaboxes/lambda.metapanel.php:2623
+#@ claymore
+msgid "Activate Blog Excerpt"
+msgstr "Activate Blog Excerpt"
+
+#: lambda/metaboxes/lambda.metapanel.php:651
+#: lambda/metaboxes/lambda.metapanel.php:2640
+#@ claymore
+msgid "Activate \"Like Voting\""
+msgstr "Activate \"Like Voting\""
+
+#: lambda/metaboxes/lambda.metapanel.php:667
+#@ claymore
+msgid "Blog Column Layout"
+msgstr "Blog Column Layout"
+
+#: lambda/metaboxes/lambda.metapanel.php:671
+#@ claymore
+msgid "Full Width"
+msgstr "Full Width"
+
+#: lambda/metaboxes/lambda.metapanel.php:679
+#: lambda/metaboxes/lambda.metapanel.php:2656
+#@ claymore
+msgid "Excerpt length"
+msgstr "Excerpt length"
+
+#: lambda/metaboxes/lambda.metapanel.php:681
+#: lambda/metaboxes/lambda.metapanel.php:2658
+#@ claymore
+msgid "for example: 55"
+msgstr "for example: 55"
+
+#: lambda/metaboxes/lambda.metapanel.php:684
+#: lambda/metaboxes/lambda.metapanel.php:2661
+#@ claymore
+msgid "Blog length"
+msgstr "Blog length"
+
+#: lambda/metaboxes/lambda.metapanel.php:686
+#: lambda/metaboxes/lambda.metapanel.php:2663
+#@ claymore
+msgid "how many items to display? for example: 6"
+msgstr "how many items to display? for example: 6"
+
+#: lambda/metaboxes/lambda.metapanel.php:691
+#: lambda/metaboxes/lambda.metapanel.php:2666
+#@ claymore
+msgid "Exclude Post (optional)"
+msgstr "Exclude Post (optional)"
+
+#: lambda/metaboxes/lambda.metapanel.php:698
+#: lambda/metaboxes/lambda.metapanel.php:2674
+#@ claymore
+msgid "Choose posts to exclude"
+msgstr "Choose posts to exclude"
+
+#: lambda/metaboxes/lambda.metapanel.php:714
+#: lambda/metaboxes/lambda.metapanel.php:739
+#: lambda/metaboxes/lambda.metapanel.php:2687
+#: lambda/metaboxes/lambda.metapanel.php:2713
+#@ claymore
+msgid "use shift or control to select multiple items"
+msgstr "use shift or control to select multiple items"
+
+#: lambda/metaboxes/lambda.metapanel.php:719
+#: lambda/metaboxes/lambda.metapanel.php:2692
+#@ claymore
+msgid "Show only Posts of this category (optional)"
+msgstr "Show only Posts of this category (optional)"
+
+#: lambda/metaboxes/lambda.metapanel.php:726
+#: lambda/metaboxes/lambda.metapanel.php:2700
+#@ claymore
+msgid "Choose"
+msgstr "Choose"
+
+#: lambda/metaboxes/lambda.metapanel.php:735
+#: lambda/metaboxes/lambda.metapanel.php:2709
+#@ claymore
+msgid "No Categories Available"
+msgstr "No Categories Available"
+
+#: lambda/metaboxes/lambda.metapanel.php:752
+#: lambda/metaboxes/lambda.metapanel.php:1786
+#@ claymore
+msgid "Address to display"
+msgstr "Address to display"
+
+#: lambda/metaboxes/lambda.metapanel.php:754
+#: lambda/metaboxes/lambda.metapanel.php:1788
+#@ claymore
+msgid "for example: 100 Biscayne Blvd. Florida 33148"
+msgstr "for example: 100 Biscayne Blvd. Florida 33148"
+
+#: lambda/metaboxes/lambda.metapanel.php:757
+#: lambda/metaboxes/lambda.metapanel.php:1791
+#@ claymore
+msgid "Zoom"
+msgstr "Zoom"
+
+#: lambda/metaboxes/lambda.metapanel.php:759
+#: lambda/metaboxes/lambda.metapanel.php:1793
+#@ claymore
+msgid "for example: 14"
+msgstr "for example: 14"
+
+#: lambda/metaboxes/lambda.metapanel.php:762
+#: lambda/metaboxes/lambda.metapanel.php:1796
+#@ claymore
+msgid "Map height"
+msgstr "Map height"
+
+#: lambda/metaboxes/lambda.metapanel.php:764
+#: lambda/metaboxes/lambda.metapanel.php:1798
+#@ claymore
+msgid "for example: 300"
+msgstr "for example: 300"
+
+#: lambda/metaboxes/lambda.metapanel.php:777
+#: lambda/metaboxes/lambda.metapanel.php:3142
+#@ claymore
+msgid "CTA Headline"
+msgstr "CTA Headline"
+
+#: lambda/metaboxes/lambda.metapanel.php:779
+#: lambda/metaboxes/lambda.metapanel.php:3144
+#@ claymore
+msgid "Headline for CTA Field"
+msgstr "Headline for CTA Field"
+
+#: lambda/metaboxes/lambda.metapanel.php:784
+#: lambda/metaboxes/lambda.metapanel.php:789
+#: lambda/metaboxes/lambda.metapanel.php:1668
+#: lambda/metaboxes/lambda.metapanel.php:3092
+#: lambda/metaboxes/lambda.metapanel.php:3096
+#: lambda/metaboxes/lambda.metapanel.php:3149
+#: lambda/metaboxes/lambda.metapanel.php:3154
+#: lambda/metaboxes/lambda.metapanel.php:3492
+#: lambda/metaboxes/lambda.metapanel.php:3496
+#@ claymore
+msgid "optional"
+msgstr "optional"
+
+#: lambda/metaboxes/lambda.metapanel.php:787
+#: lambda/metaboxes/lambda.metapanel.php:3152
+#: lambda/metaboxes/lambda.slider.php:350
+#: lambda/slidermanager/index.php:610
+#: lambda/slidermanager/lambda.ajax.class.php:92
+#: lambda/slidermanager/lambda.slider.init.php:142
+#@ claymore
+msgid "Buttonlink"
+msgstr "Buttonlink"
+
+#: lambda/metaboxes/lambda.metapanel.php:840
+#@ claymore
+msgid "Sidebar Settings"
+msgstr "Sidebar Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:845
+#@ claymore
+msgid "Choose Main Sidebar"
+msgstr "Choose Main Sidebar"
+
+#: lambda/metaboxes/lambda.metapanel.php:861
+#@ claymore
+msgid "overwrites the default sidebar"
+msgstr "overwrites the default sidebar"
+
+#: lambda/metaboxes/lambda.metapanel.php:865
+#@ claymore
+msgid "Choose Second Sidebar"
+msgstr "Choose Second Sidebar"
+
+#: lambda/metaboxes/lambda.metapanel.php:881
+#@ claymore
+msgid "only available when you choose <br /> Sidebar Alignement both"
+msgstr "only available when you choose <br /> Sidebar Alignement both"
+
+#: lambda/metaboxes/lambda.metapanel.php:885
+#@ claymore
+msgid "Sidebar Alignement"
+msgstr "Sidebar Alignement"
+
+#: lambda/metaboxes/lambda.metapanel.php:889
+#@ claymore
+msgid "right"
+msgstr "right"
+
+#: lambda/metaboxes/lambda.metapanel.php:890
+#@ claymore
+msgid "left"
+msgstr "left"
+
+#: lambda/metaboxes/lambda.metapanel.php:891
+#@ claymore
+msgid "both"
+msgstr "both"
+
+#: lambda/metaboxes/lambda.metapanel.php:893
+#@ claymore
+msgid "optional - not available in all templates!"
+msgstr "optional - not available in all templates!"
+
+#: lambda/metaboxes/lambda.metapanel.php:905
+#@ claymore
+msgid "Show Hide Author Box"
+msgstr "Show Hide Author Box"
+
+#: lambda/metaboxes/lambda.metapanel.php:954
+#@ claymore
+msgid "Main Background Settings"
+msgstr "Main Background Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:955
+#@ claymore
+msgid "Please note: This option will only take effect on the boxed layout"
+msgstr "Please note: This option will only take effect on the boxed layout"
+
+#: lambda/metaboxes/lambda.metapanel.php:964
+#: lambda/metaboxes/lambda.slider.php:458
+#@ claymore
+msgid "Choose Background Type"
+msgstr "Choose Background Type"
+
+#: lambda/metaboxes/lambda.metapanel.php:965
+#@ claymore
+msgid "Solid Color"
+msgstr "Solid Color"
+
+#: lambda/metaboxes/lambda.metapanel.php:966
+#: lambda/metaboxes/lambda.slider.php:460
+#@ claymore
+msgid "Background Pattern"
+msgstr "Background Pattern"
+
+#: lambda/metaboxes/lambda.metapanel.php:967
+#@ claymore
+msgid "FullSize Image (upload)"
+msgstr "FullSize Image (upload)"
+
+#: lambda/metaboxes/lambda.metapanel.php:968
+#: lambda/metaboxes/lambda.slider.php:461
+#@ claymore
+msgid "Background Texture"
+msgstr "Background Texture"
+
+#: lambda/metaboxes/lambda.metapanel.php:969
+#@ claymore
+msgid "Background Slider"
+msgstr "Background Slider"
+
+#: lambda/metaboxes/lambda.metapanel.php:1008
+#@ claymore
+msgid "a solid backgroundcolor"
+msgstr "a solid backgroundcolor"
+
+#: lambda/metaboxes/lambda.metapanel.php:1052
+#@ claymore
+msgid "Image Size should be 1600x900"
+msgstr "Image Size should be 1600x900"
+
+#: lambda/metaboxes/lambda.metapanel.php:1054
+#: lambda/metaboxes/lambda.metapanel.php:1662
+#: lambda/metaboxes/lambda.metapanel.php:1987
+#: lambda/metaboxes/lambda.metapanel.php:3086
+#: lambda/metaboxes/lambda.metapanel.php:3486
+#: lambda/metaboxes/lambda.slider.php:550
+#@ claymore
+msgid "Image URL"
+msgstr "Image URL"
+
+#: lambda/metaboxes/lambda.metapanel.php:1098
+#@ claymore
+msgid "Choose Backgroundslider"
+msgstr "Choose Backgroundslider"
+
+#: lambda/metaboxes/lambda.metapanel.php:1150
+#: lambda/metaboxes/lambda.metapanel.php:2509
+#@ claymore
+msgid "Portfolio Settings"
+msgstr "Portfolio Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:1160
+#@ claymore
+msgid "Choose Project Types"
+msgstr "Choose Project Types"
+
+#: lambda/metaboxes/lambda.metapanel.php:1181
+#@ claymore
+msgid "show only projects of the checked type in this portfolio page"
+msgstr "show only projects of the checked type in this portfolio page"
+
+#: lambda/metaboxes/lambda.metapanel.php:1192
+#@ claymore
+msgid "Portfolio 2 Column"
+msgstr "Portfolio 2 Column"
+
+#: lambda/metaboxes/lambda.metapanel.php:1195
+#@ claymore
+msgid "Portfolio 3 Column"
+msgstr "Portfolio 3 Column"
+
+#: lambda/metaboxes/lambda.metapanel.php:1198
+#@ claymore
+msgid "Portfolio 4 Column"
+msgstr "Portfolio 4 Column"
+
+#: lambda/metaboxes/lambda.metapanel.php:1220
+#@ claymore
+msgid "Show / Hide Filter"
+msgstr "Show / Hide Filter"
+
+#: lambda/metaboxes/lambda.metapanel.php:1233
+#@ claymore
+msgid "Portfolio Items per Page"
+msgstr "Portfolio Items per Page"
+
+#: lambda/metaboxes/lambda.metapanel.php:1236
+#@ claymore
+msgid "default: 9"
+msgstr "default: 9"
+
+#: lambda/metaboxes/lambda.metapanel.php:1239
+#@ claymore
+msgid "Pagination: previous text"
+msgstr "Pagination: previous text"
+
+#: lambda/metaboxes/lambda.metapanel.php:1242
+#@ claymore
+msgid "Text for \"prev works\" link."
+msgstr "Text for \"prev works\" link."
+
+#: lambda/metaboxes/lambda.metapanel.php:1245
+#@ claymore
+msgid "Pagination: next text"
+msgstr "Pagination: next text"
+
+#: lambda/metaboxes/lambda.metapanel.php:1248
+#@ claymore
+msgid "Text for \"next works\" link."
+msgstr "Text for \"next works\" link."
+
+#: lambda/metaboxes/lambda.metapanel.php:1254
+#@ claymore
+msgid "Portfolio Item Title"
+msgstr "Portfolio Item Title"
+
+#: lambda/metaboxes/lambda.metapanel.php:1321
+#@ claymore
+msgid "Share a link!"
+msgstr "Share a link!"
+
+#: lambda/metaboxes/lambda.metapanel.php:1342
+#@ claymore
+msgid "Share a Quote!"
+msgstr "Share a Quote!"
+
+#: lambda/metaboxes/lambda.metapanel.php:1358
+#@ claymore
+msgid "Video Details"
+msgstr "Video Details"
+
+#: lambda/metaboxes/lambda.metapanel.php:1414
+#: lambda/metaboxes/lambda.metapanel.php:1541
+#@ claymore
+msgid "Audio Details"
+msgstr "Audio Details"
+
+#: lambda/metaboxes/lambda.metapanel.php:1422
+#: lambda/metaboxes/lambda.metapanel.php:1549
+#@ claymore
+msgid "The URL to Soundcloud"
+msgstr "The URL to Soundcloud"
+
+#: lambda/metaboxes/lambda.metapanel.php:1424
+#: lambda/metaboxes/lambda.metapanel.php:1551
+#@ claymore
+msgid "or"
+msgstr "or"
+
+#: lambda/metaboxes/lambda.metapanel.php:1426
+#: lambda/metaboxes/lambda.metapanel.php:1553
+#@ claymore
+msgid "MP3 URL"
+msgstr "MP3 URL"
+
+#: lambda/metaboxes/lambda.metapanel.php:1429
+#: lambda/metaboxes/lambda.metapanel.php:1556
+#@ claymore
+msgid "URL to MP3 file"
+msgstr "URL to MP3 file"
+
+#: lambda/metaboxes/lambda.metapanel.php:1431
+#: lambda/metaboxes/lambda.metapanel.php:1558
+#@ claymore
+msgid "OGG URL"
+msgstr "OGG URL"
+
+#: lambda/metaboxes/lambda.metapanel.php:1434
+#: lambda/metaboxes/lambda.metapanel.php:1561
+#@ claymore
+msgid "URL to OGG file"
+msgstr "URL to OGG file"
+
+#: lambda/metaboxes/lambda.metapanel.php:1446
+#: lambda/metaboxes/lambda.metapanel.php:1453
+#: lambda/metaboxes/lambda.metapanel.php:1460
+#: lambda/metaboxes/lambda.metapanel.php:1467
+#@ claymore
+msgid "No Post Settings available for this Format!"
+msgstr "No Post Settings available for this Format!"
+
+#: lambda/metaboxes/lambda.metapanel.php:1497
+#@ claymore
+msgid "Project Items"
+msgstr "Project Items"
+
+#: lambda/metaboxes/lambda.metapanel.php:1507
+#@ claymore
+msgid "Project Type"
+msgstr "Project Type"
+
+#: lambda/metaboxes/lambda.metapanel.php:1513
+#@ claymore
+msgid "Portfolio Description Title"
+msgstr "Portfolio Description Title"
+
+#: lambda/metaboxes/lambda.metapanel.php:1516
+#@ claymore
+msgid "displayed above the portfolio description"
+msgstr "displayed above the portfolio description"
+
+#: lambda/metaboxes/lambda.metapanel.php:1522
+#@ claymore
+msgid "Choose Portfolio Type"
+msgstr "Choose Portfolio Type"
+
+#: lambda/metaboxes/lambda.metapanel.php:1523
+#@ claymore
+msgid "Audio"
+msgstr "Audio"
+
+#: lambda/metaboxes/lambda.metapanel.php:1525
+#: lambda/metaboxes/lambda.slider.php:46
+#@ claymore
+msgid "Slider"
+msgstr "Slider"
+
+#: lambda/metaboxes/lambda.metapanel.php:1526
+#@ claymore
+msgid "Single Image"
+msgstr "Single Image"
+
+#: lambda/metaboxes/lambda.metapanel.php:1575
+#@ claymore
+msgid "Manage your Video"
+msgstr "Manage your Video"
+
+#: lambda/metaboxes/lambda.metapanel.php:1576
+#@ claymore
+msgid "to build up a video on the project page!"
+msgstr "to build up a video on the project page!"
+
+#: lambda/metaboxes/lambda.metapanel.php:1641
+#@ claymore
+msgid "Manage your Project Items"
+msgstr "Manage your Project Items"
+
+#: lambda/metaboxes/lambda.metapanel.php:1642
+#@ claymore
+msgid "to build up a gallery /slider on the project page!"
+msgstr "to build up a gallery /slider on the project page!"
+
+#: lambda/metaboxes/lambda.metapanel.php:1654
+#@ claymore
+msgid "new slide"
+msgstr "new slide"
+
+#: lambda/metaboxes/lambda.metapanel.php:1665
+#: lambda/metaboxes/lambda.metapanel.php:1725
+#: lambda/metaboxes/lambda.metapanel.php:3089
+#: lambda/metaboxes/lambda.metapanel.php:3290
+#: lambda/metaboxes/lambda.metapanel.php:3489
+#@ claymore
+msgid "Remove"
+msgstr "Remove"
+
+#: lambda/metaboxes/lambda.metapanel.php:1668
+#: lambda/metaboxes/lambda.metapanel.php:3096
+#: lambda/metaboxes/lambda.metapanel.php:3496
+#@ claymore
+msgid "Set \"alt\" (for SEO)"
+msgstr "Set \"alt\" (for SEO)"
+
+#: lambda/metaboxes/lambda.metapanel.php:1679
+#@ claymore
+msgid "Add New Item"
+msgstr "Add New Item"
+
+#: lambda/metaboxes/lambda.metapanel.php:1682
+#@ claymore
+msgid "Remove All Items"
+msgstr "Remove All Items"
+
+#: lambda/metaboxes/lambda.metapanel.php:1693
+#@ claymore
+msgid "Work Description"
+msgstr "Work Description"
+
+#: lambda/metaboxes/lambda.metapanel.php:1698
+#@ claymore
+msgid "Work Description Title"
+msgstr "Work Description Title"
+
+#: lambda/metaboxes/lambda.metapanel.php:1701
+#@ claymore
+msgid "displayed above the work description"
+msgstr "displayed above the work description"
+
+#: lambda/metaboxes/lambda.metapanel.php:1704
+#@ claymore
+msgid "Add Work Description"
+msgstr "Add Work Description"
+
+#: lambda/metaboxes/lambda.metapanel.php:1711
+#@ claymore
+msgid "new work description"
+msgstr "new work description"
+
+#: lambda/metaboxes/lambda.metapanel.php:1717
+#@ claymore
+msgid "Title and Name / Description"
+msgstr "Title and Name / Description"
+
+#: lambda/metaboxes/lambda.metapanel.php:1724
+#@ claymore
+msgid "Description is a link"
+msgstr "Description is a link"
+
+#: lambda/metaboxes/lambda.metapanel.php:1733
+#@ claymore
+msgid "Add Description"
+msgstr "Add Description"
+
+#: lambda/metaboxes/lambda.metapanel.php:1759
+#@ claymore
+msgid "Contact Form Settings & Builder"
+msgstr "Contact Form Settings & Builder"
+
+#: lambda/metaboxes/lambda.metapanel.php:1768
+#@ claymore
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: lambda/metaboxes/lambda.metapanel.php:1775
+#@ claymore
+msgid "show google map above contact form"
+msgstr "show google map above contact form"
+
+#: lambda/metaboxes/lambda.metapanel.php:1780
+#@ claymore
+msgid "Map Title"
+msgstr "Map Title"
+
+#: lambda/metaboxes/lambda.metapanel.php:1782
+#@ claymore
+msgid "Insert title for Google Map"
+msgstr "Insert title for Google Map"
+
+#: lambda/metaboxes/lambda.metapanel.php:1803
+#@ claymore
+msgid "Email Settings"
+msgstr "Email Settings"
+
+#: lambda/metaboxes/lambda.metapanel.php:1810
+#@ claymore
+msgid "Email Recipient"
+msgstr "Email Recipient"
+
+#: lambda/metaboxes/lambda.metapanel.php:1812
+#@ claymore
+msgid "Send email to a specified email (leave empty to send an email to Admin)"
+msgstr "Send email to a specified email (leave empty to send an email to Admin)"
+
+#: lambda/metaboxes/lambda.metapanel.php:1818
+#@ claymore
+msgid "Email subject"
+msgstr "Email subject"
+
+#: lambda/metaboxes/lambda.metapanel.php:1825
+#@ claymore
+msgid "Text on submit button"
+msgstr "Text on submit button"
+
+#: lambda/metaboxes/lambda.metapanel.php:1834
+#@ claymore
+msgid "Drag and Drop Elements to change the order! Click on item to unroll"
+msgstr "Drag and Drop Elements to change the order! Click on item to unroll"
+
+#: lambda/metaboxes/lambda.metapanel.php:1841
+#@ claymore
+msgid "Contact Form Title"
+msgstr "Contact Form Title"
+
+#: lambda/metaboxes/lambda.metapanel.php:1854
+#@ claymore
+msgid "new field"
+msgstr "new field"
+
+#: lambda/metaboxes/lambda.metapanel.php:1859
+#@ claymore
+msgid "Field Name"
+msgstr "Field Name"
+
+#: lambda/metaboxes/lambda.metapanel.php:1861
+#@ claymore
+msgid "Choose a Fieldname, for example: Name, Website, Message etc."
+msgstr "Choose a Fieldname, for example: Name, Website, Message etc."
+
+#: lambda/metaboxes/lambda.metapanel.php:1867
+#@ claymore
+msgid "Field Type"
+msgstr "Field Type"
+
+#: lambda/metaboxes/lambda.metapanel.php:1880
+#@ claymore
+msgid "Enter Values"
+msgstr "Enter Values"
+
+#: lambda/metaboxes/lambda.metapanel.php:1882
+#@ claymore
+msgid "semicolon delimited for example: Yes;No or Los Angels;San Francisco"
+msgstr "semicolon delimited for example: Yes;No or Los Angels;San Francisco"
+
+#: lambda/metaboxes/lambda.metapanel.php:1889
+#@ claymore
+msgid "this field is required"
+msgstr "this field is required"
+
+#: lambda/metaboxes/lambda.metapanel.php:1894
+#@ claymore
+msgid "Error Message"
+msgstr "Error Message"
+
+#: lambda/metaboxes/lambda.metapanel.php:1897
+#@ claymore
+msgid "Enter custom error message"
+msgstr "Enter custom error message"
+
+#: lambda/metaboxes/lambda.metapanel.php:1901
+#@ claymore
+msgid "min length"
+msgstr "min length"
+
+#: lambda/metaboxes/lambda.metapanel.php:1904
+#@ claymore
+msgid "Min length of input (not available for radio / select or checkbox)"
+msgstr "Min length of input (not available for radio / select or checkbox)"
+
+#: lambda/metaboxes/lambda.metapanel.php:1908
+#@ claymore
+msgid "Delete Field"
+msgstr "Delete Field"
+
+#: lambda/metaboxes/lambda.metapanel.php:1917
+#@ claymore
+msgid "add new field"
+msgstr "add new field"
+
+#: lambda/metaboxes/lambda.metapanel.php:1945
+#@ claymore
+msgid "Manage Template"
+msgstr "Manage Template"
+
+#: lambda/metaboxes/lambda.metapanel.php:1956
+#@ claymore
+msgid "Add Team Member"
+msgstr "Add Team Member"
+
+#: lambda/metaboxes/lambda.metapanel.php:1966
+#@ claymore
+msgid "new member"
+msgstr "new member"
+
+#: lambda/metaboxes/lambda.metapanel.php:1971
+#@ claymore
+msgid "Member Name"
+msgstr "Member Name"
+
+#: lambda/metaboxes/lambda.metapanel.php:1975
+#@ claymore
+msgid "Member Title"
+msgstr "Member Title"
+
+#: lambda/metaboxes/lambda.metapanel.php:1985
+#@ claymore
+msgid "Image Size should be 140x140"
+msgstr "Image Size should be 140x140"
+
+#: lambda/metaboxes/lambda.metapanel.php:1994
+#@ claymore
+msgid "Member Email"
+msgstr "Member Email"
+
+#: lambda/metaboxes/lambda.metapanel.php:1998
+#@ claymore
+msgid "Member Website"
+msgstr "Member Website"
+
+#: lambda/metaboxes/lambda.metapanel.php:2002
+#@ claymore
+msgid "Member Twitter Account"
+msgstr "Member Twitter Account"
+
+#: lambda/metaboxes/lambda.metapanel.php:2006
+#@ claymore
+msgid "Member Facebook Profile"
+msgstr "Member Facebook Profile"
+
+#: lambda/metaboxes/lambda.metapanel.php:2010
+#@ claymore
+msgid "Member GogolePlus Account"
+msgstr "Member GogolePlus Account"
+
+#: lambda/metaboxes/lambda.metapanel.php:2026
+#@ claymore
+msgid "Delete Member"
+msgstr "Delete Member"
+
+#: lambda/metaboxes/lambda.metapanel.php:2033
+#@ claymore
+msgid "add new member"
+msgstr "add new member"
+
+#: lambda/metaboxes/lambda.metapanel.php:2060
+#@ claymore
+msgid "Manage FAQ"
+msgstr "Manage FAQ"
+
+#: lambda/metaboxes/lambda.metapanel.php:2070
+#@ claymore
+msgid "Add FAQ Item"
+msgstr "Add FAQ Item"
+
+#: lambda/metaboxes/lambda.metapanel.php:2080
+#@ claymore
+msgid "new question"
+msgstr "new question"
+
+#: lambda/metaboxes/lambda.metapanel.php:2085
+#@ claymore
+msgid "Question"
+msgstr "Question"
+
+#: lambda/metaboxes/lambda.metapanel.php:2095
+#@ claymore
+msgid "Delete FAQ"
+msgstr "Delete FAQ"
+
+#: lambda/metaboxes/lambda.metapanel.php:2104
+#@ claymore
+msgid "add new question"
+msgstr "add new question"
+
+#: lambda/metaboxes/lambda.metapanel.php:2110
+#@ claymore
+msgid "Additional Content to display beneath the FAQ"
+msgstr "Additional Content to display beneath the FAQ"
+
+#: lambda/metaboxes/lambda.metapanel.php:2155
+#@ claymore
+msgid "Manage Home Site"
+msgstr "Manage Home Site"
+
+#: lambda/metaboxes/lambda.metapanel.php:2186
+#: lambda/metaboxes/lambda.metapanel.php:2212
+#@ claymore
+msgid "Service Columns"
+msgstr "Service Columns"
+
+#: lambda/metaboxes/lambda.metapanel.php:2188
+#@ claymore
+msgid "Blog Excerpt"
+msgstr "Blog Excerpt"
+
+#: lambda/metaboxes/lambda.metapanel.php:2189
+#: lambda/metaboxes/lambda.metapanel.php:2730
+#@ claymore
+msgid "Toggles & Testimonials"
+msgstr "Toggles & Testimonials"
+
+#: lambda/metaboxes/lambda.metapanel.php:2192
+#@ claymore
+msgid "Element Order"
+msgstr "Element Order"
+
+#: lambda/metaboxes/lambda.metapanel.php:2219
+#@ claymore
+msgid "Activate Service Columns"
+msgstr "Activate Service Columns"
+
+#: lambda/metaboxes/lambda.metapanel.php:2244
+#@ claymore
+msgid "Activate Service Column 1"
+msgstr "Activate Service Column 1"
+
+#: lambda/metaboxes/lambda.metapanel.php:2302
+#@ claymore
+msgid "Activate Service Column 2"
+msgstr "Activate Service Column 2"
+
+#: lambda/metaboxes/lambda.metapanel.php:2360
+#@ claymore
+msgid "Activate Service Column 3"
+msgstr "Activate Service Column 3"
+
+#: lambda/metaboxes/lambda.metapanel.php:2418
+#@ claymore
+msgid "Activate Service Column 4"
+msgstr "Activate Service Column 4"
+
+#: lambda/metaboxes/lambda.metapanel.php:2491
+#@ claymore
+msgid "Activate Portfolio"
+msgstr "Activate Portfolio"
+
+#: lambda/metaboxes/lambda.metapanel.php:2576
+#@ claymore
+msgid "Blog Intro Box"
+msgstr "Blog Intro Box"
+
+#: lambda/metaboxes/lambda.metapanel.php:2583
+#@ claymore
+msgid "Activate latest Blog?"
+msgstr "Activate latest Blog?"
+
+#: lambda/metaboxes/lambda.metapanel.php:2737
+#@ claymore
+msgid "Activate Toggles & Testimonials"
+msgstr "Activate Toggles & Testimonials"
+
+#: lambda/metaboxes/lambda.metapanel.php:2754
+#@ claymore
+msgid "Service Headline"
+msgstr "Service Headline"
+
+#: lambda/metaboxes/lambda.metapanel.php:2756
+#@ claymore
+msgid "headline above service toggles"
+msgstr "headline above service toggles"
+
+#: lambda/metaboxes/lambda.metapanel.php:2761
+#@ claymore
+msgid "Toggle Content Type"
+msgstr "Toggle Content Type"
+
+#: lambda/metaboxes/lambda.metapanel.php:2763
+#: lambda/metaboxes/lambda.metapanel.php:3025
+#@ claymore
+msgid "Select content ..."
+msgstr "Select content ..."
+
+#: lambda/metaboxes/lambda.metapanel.php:2764
+#@ claymore
+msgid "from an existing page (Service Template)"
+msgstr "from an existing page (Service Template)"
+
+#: lambda/metaboxes/lambda.metapanel.php:2765
+#@ claymore
+msgid "create own toggles"
+msgstr "create own toggles"
+
+#: lambda/metaboxes/lambda.metapanel.php:2772
+#: lambda/metaboxes/lambda.metapanel.php:3035
+#@ claymore
+msgid "Load last X client logos"
+msgstr "Load last X client logos"
+
+#: lambda/metaboxes/lambda.metapanel.php:2777
+#@ claymore
+msgid "Choose Service Page"
+msgstr "Choose Service Page"
+
+#: lambda/metaboxes/lambda.metapanel.php:2805
+#: lambda/metaboxes/lambda.metapanel.php:3068
+#@ claymore
+msgid "Choose Services from an existing <br /> Service Template"
+msgstr "Choose Services from an existing <br /> Service Template"
+
+#: lambda/metaboxes/lambda.metapanel.php:2815
+#: lambda/metaboxes/lambda.metapanel.php:3368
+#@ claymore
+msgid "new tab"
+msgstr "new tab"
+
+#: lambda/metaboxes/lambda.metapanel.php:2820
+#: lambda/metaboxes/lambda.metapanel.php:3373
+#@ claymore
+msgid "Tab Name"
+msgstr "Tab Name"
+
+#: lambda/metaboxes/lambda.metapanel.php:2833
+#: lambda/metaboxes/lambda.metapanel.php:2939
+#: lambda/metaboxes/lambda.metapanel.php:3385
+#: lambda/slidermanager/index.php:133
+#: lambda/tablemanager/index.php:103
+#@ claymore
+msgid "Delete"
+msgstr "Delete"
+
+#: lambda/metaboxes/lambda.metapanel.php:2841
+#: lambda/metaboxes/lambda.metapanel.php:3107
+#@ claymore
+msgid "add new tab"
+msgstr "add new tab"
+
+#: lambda/metaboxes/lambda.metapanel.php:2848
+#@ claymore
+msgid "Testimonial Headline"
+msgstr "Testimonial Headline"
+
+#: lambda/metaboxes/lambda.metapanel.php:2850
+#@ claymore
+msgid "headline above testimonials"
+msgstr "headline above testimonials"
+
+#: lambda/metaboxes/lambda.metapanel.php:2866
+#@ claymore
+msgid "Testimonial Type"
+msgstr "Testimonial Type"
+
+#: lambda/metaboxes/lambda.metapanel.php:2868
+#@ claymore
+msgid "Select testimonial type ..."
+msgstr "Select testimonial type ..."
+
+#: lambda/metaboxes/lambda.metapanel.php:2869
+#@ claymore
+msgid "from an existing page"
+msgstr "from an existing page"
+
+#: lambda/metaboxes/lambda.metapanel.php:2870
+#@ claymore
+msgid "create own testimonials"
+msgstr "create own testimonials"
+
+#: lambda/metaboxes/lambda.metapanel.php:2875
+#@ claymore
+msgid "Choose Testimonial Page"
+msgstr "Choose Testimonial Page"
+
+#: lambda/metaboxes/lambda.metapanel.php:2903
+#@ claymore
+msgid "Choose Testimonials from an existing Testimonial Template"
+msgstr "Choose Testimonials from an existing Testimonial Template"
+
+#: lambda/metaboxes/lambda.metapanel.php:2913
+#: lambda/metaboxes/lambda.metapanel.php:3263
+#@ claymore
+msgid "new testimonial"
+msgstr "new testimonial"
+
+#: lambda/metaboxes/lambda.metapanel.php:2927
+#: lambda/metaboxes/lambda.metapanel.php:3273
+#@ claymore
+msgid "Image size should be 50x50"
+msgstr "Image size should be 50x50"
+
+#: lambda/metaboxes/lambda.metapanel.php:2932
+#@ claymore
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: lambda/metaboxes/lambda.metapanel.php:2947
+#@ claymore
+msgid "Add new testimonial"
+msgstr "Add new testimonial"
+
+#: lambda/metaboxes/lambda.metapanel.php:2966
+#@ claymore
+msgid "Client Section"
+msgstr "Client Section"
+
+#: lambda/metaboxes/lambda.metapanel.php:2973
+#@ claymore
+msgid "Activate Clients"
+msgstr "Activate Clients"
+
+#: lambda/metaboxes/lambda.metapanel.php:2990
+#@ claymore
+msgid "Client Headline"
+msgstr "Client Headline"
+
+#: lambda/metaboxes/lambda.metapanel.php:2992
+#@ claymore
+msgid "headline above client section"
+msgstr "headline above client section"
+
+#: lambda/metaboxes/lambda.metapanel.php:2997
+#: lambda/metaboxes/lambda.metapanel.php:3435
+#@ claymore
+msgid "Client - 4 Column"
+msgstr "Client - 4 Column"
+
+#: lambda/metaboxes/lambda.metapanel.php:3000
+#: lambda/metaboxes/lambda.metapanel.php:3438
+#@ claymore
+msgid "Client - 5 Column"
+msgstr "Client - 5 Column"
+
+#: lambda/metaboxes/lambda.metapanel.php:3007
+#@ claymore
+msgid "Client Column Layout"
+msgstr "Client Column Layout"
+
+#: lambda/metaboxes/lambda.metapanel.php:3023
+#@ claymore
+msgid "Client Content Type"
+msgstr "Client Content Type"
+
+#: lambda/metaboxes/lambda.metapanel.php:3026
+#@ claymore
+msgid "from an existing page (Client Template)"
+msgstr "from an existing page (Client Template)"
+
+#: lambda/metaboxes/lambda.metapanel.php:3027
+#@ claymore
+msgid "create own client list"
+msgstr "create own client list"
+
+#: lambda/metaboxes/lambda.metapanel.php:3040
+#@ claymore
+msgid "Choose Client Page"
+msgstr "Choose Client Page"
+
+#: lambda/metaboxes/lambda.metapanel.php:3092
+#: lambda/metaboxes/lambda.metapanel.php:3492
+#@ claymore
+msgid "Client URL"
+msgstr "Client URL"
+
+#: lambda/metaboxes/lambda.metapanel.php:3126
+#@ claymore
+msgid "Activate Call to Action Box"
+msgstr "Activate Call to Action Box"
+
+#: lambda/metaboxes/lambda.metapanel.php:3174
+#@ claymore
+msgid "Order the Start Elements"
+msgstr "Order the Start Elements"
+
+#: lambda/metaboxes/lambda.metapanel.php:3243
+#@ claymore
+msgid "Manage Testimonial Template"
+msgstr "Manage Testimonial Template"
+
+#: lambda/metaboxes/lambda.metapanel.php:3253
+#@ claymore
+msgid "Manage Testimonial"
+msgstr "Manage Testimonial"
+
+#: lambda/metaboxes/lambda.metapanel.php:3278
+#@ claymore
+msgid "Testimonial Author Name"
+msgstr "Testimonial Author Name"
+
+#: lambda/metaboxes/lambda.metapanel.php:3281
+#@ claymore
+msgid "Testimonial Comment"
+msgstr "Testimonial Comment"
+
+#: lambda/metaboxes/lambda.metapanel.php:3298
+#@ claymore
+msgid "add new testimonial"
+msgstr "add new testimonial"
+
+#: lambda/metaboxes/lambda.metapanel.php:3304
+#@ claymore
+msgid "Additional Content to display beneath the Testimonials"
+msgstr "Additional Content to display beneath the Testimonials"
+
+#: lambda/metaboxes/lambda.metapanel.php:3347
+#@ claymore
+msgid "Manage Service Template"
+msgstr "Manage Service Template"
+
+#: lambda/metaboxes/lambda.metapanel.php:3358
+#@ claymore
+msgid "Manage Tabs"
+msgstr "Manage Tabs"
+
+#: lambda/metaboxes/lambda.metapanel.php:3393
+#@ claymore
+msgid "add new service tab"
+msgstr "add new service tab"
+
+#: lambda/metaboxes/lambda.metapanel.php:3418
+#@ claymore
+msgid "Manage Client Template"
+msgstr "Manage Client Template"
+
+#: lambda/metaboxes/lambda.metapanel.php:3428
+#@ claymore
+msgid "Manage Layout"
+msgstr "Manage Layout"
+
+#: lambda/metaboxes/lambda.metapanel.php:3464
+#@ claymore
+msgid "Manage Clients"
+msgstr "Manage Clients"
+
+#: lambda/metaboxes/lambda.metapanel.php:3469
+#@ claymore
+msgid "We recommend to use identical logo sizes for each client"
+msgstr "We recommend to use identical logo sizes for each client"
+
+#: lambda/metaboxes/lambda.metapanel.php:3508
+#@ claymore
+msgid "Add New Client"
+msgstr "Add New Client"
+
+#: lambda/metaboxes/lambda.metapanel.php:3511
+#@ claymore
+msgid "Remove All Clients"
+msgstr "Remove All Clients"
+
+#: lambda/metaboxes/lambda.slider.php:31
+#: lambda/metaboxes/lambda.slider.php:43
+#@ claymore
+msgid "Choose Header Type"
+msgstr "Choose Header Type"
+
+#: lambda/metaboxes/lambda.slider.php:44
+#: lambda/metaboxes/lambda.slider.php:81
+#: lambda/metaboxes/lambda.slider.php:87
+#@ claymore
+msgid "Static Image"
+msgstr "Static Image"
+
+#: lambda/metaboxes/lambda.slider.php:45
+#: lambda/metaboxes/lambda.slider.php:139
+#@ claymore
+msgid "Static Video"
+msgstr "Static Video"
+
+#: lambda/metaboxes/lambda.slider.php:47
+#@ claymore
+msgid "Static Video + Text"
+msgstr "Static Video + Text"
+
+#: lambda/metaboxes/lambda.slider.php:87
+#@ claymore
+msgid "This Image should be at least 980px wide"
+msgstr "This Image should be at least 980px wide"
+
+#: lambda/metaboxes/lambda.slider.php:99
+#@ claymore
+msgid "URL (optional)"
+msgstr "URL (optional)"
+
+#: lambda/metaboxes/lambda.slider.php:105
+#@ claymore
+msgid "Caption (optional)"
+msgstr "Caption (optional)"
+
+#: lambda/metaboxes/lambda.slider.php:113
+#@ claymore
+msgid "Image width"
+msgstr "Image width"
+
+#: lambda/metaboxes/lambda.slider.php:119
+#@ claymore
+msgid "centered"
+msgstr "centered"
+
+#: lambda/metaboxes/lambda.slider.php:121
+#@ claymore
+msgid "fullwidth"
+msgstr "fullwidth"
+
+#: lambda/metaboxes/lambda.slider.php:123
+#@ claymore
+msgid "only takes effect on full width layouts!"
+msgstr "only takes effect on full width layouts!"
+
+#: lambda/metaboxes/lambda.slider.php:206
+#@ claymore
+msgid "Static Slider"
+msgstr "Static Slider"
+
+#: lambda/metaboxes/lambda.slider.php:257
+#@ claymore
+msgid "Static Video & Text"
+msgstr "Static Video & Text"
+
+#: lambda/metaboxes/lambda.slider.php:300
+#@ claymore
+msgid "Headline Color"
+msgstr "Headline Color"
+
+#: lambda/metaboxes/lambda.slider.php:305
+#: lambda/widgets/lambda_video.php:24
+#@ claymore
+msgid "Text"
+msgstr "Text"
+
+#: lambda/metaboxes/lambda.slider.php:341
+#@ claymore
+msgid "Textcolor"
+msgstr "Textcolor"
+
+#: lambda/metaboxes/lambda.slider.php:421
+#@ claymore
+msgid "Hide Teaser?"
+msgstr "Hide Teaser?"
+
+#: lambda/metaboxes/lambda.slider.php:449
+#@ claymore
+msgid "Background Settings"
+msgstr "Background Settings"
+
+#: lambda/metaboxes/lambda.slider.php:459
+#@ claymore
+msgid "Image or Color"
+msgstr "Image or Color"
+
+#: lambda/metaboxes/lambda.taxonomy.php:2
+#@ claymore
+msgid "SortID"
+msgstr "SortID"
+
+#: lambda/slidermanager/index.php:113
+#@ claymore
+msgid "Manage your Sliders"
+msgstr "Manage your Sliders"
+
+#: lambda/slidermanager/index.php:123
+#@ claymore
+msgid "List of created sliders"
+msgstr "List of created sliders"
+
+#: lambda/slidermanager/index.php:128
+#: lambda/tablemanager/index.php:99
+#@ claymore
+msgid "ID"
+msgstr "ID"
+
+#: lambda/slidermanager/index.php:129
+#: lambda/slidermanager/index.php:203
+#@ claymore
+msgid "Slider Name"
+msgstr "Slider Name"
+
+#: lambda/slidermanager/index.php:130
+#@ claymore
+msgid "Slider Type"
+msgstr "Slider Type"
+
+#: lambda/slidermanager/index.php:131
+#: lambda/tablemanager/index.php:101
+#: lambda/tinymce/lambda.sc.generator.php:345
+#@ claymore
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: lambda/slidermanager/index.php:132
+#: lambda/tablemanager/index.php:102
+#: loop-page.php:38
+#: loop-pagebuilder.php:110
+#: loop-pagecreator.php:120
+#: loop-portfolio.php:134
+#: loop-single.php:87
+#: loop-sliderpage.php:23
+#: loop.php:159
+#: loop.php:272
+#: loop.php:398
+#: loop.php:478
+#: loop.php:574
+#: loop.php:677
+#@ claymore
+msgid "Edit"
+msgstr "Edit"
+
+#: lambda/slidermanager/index.php:200
+#@ claymore
+msgid "Enter Slider Name"
+msgstr "Enter Slider Name"
+
+#: lambda/slidermanager/index.php:206
+#@ claymore
+msgid "Choose Slider Type"
+msgstr "Choose Slider Type"
+
+#: lambda/slidermanager/index.php:211
+#@ claymore
+msgid "Select Slidertype"
+msgstr "Select Slidertype"
+
+#: lambda/slidermanager/index.php:212
+#@ claymore
+msgid "Camera Slider"
+msgstr "Camera Slider"
+
+#: lambda/slidermanager/index.php:213
+#@ claymore
+msgid "superSized Slider"
+msgstr "superSized Slider"
+
+#: lambda/slidermanager/index.php:221
+#: lambda/tablemanager/index.php:174
+#@ claymore
+msgid "* Do not use spaces or special characters in the name. This Name is only for internal use!"
+msgstr "* Do not use spaces or special characters in the name. This Name is only for internal use!"
+
+#: lambda/slidermanager/index.php:301
+#@ claymore
+msgid "Slider deleted"
+msgstr "Slider deleted"
+
+#: lambda/slidermanager/index.php:316
+#@ claymore
+msgid "Slider deactivated"
+msgstr "Slider deactivated"
+
+#: lambda/slidermanager/index.php:331
+#@ claymore
+msgid "Slider activated"
+msgstr "Slider activated"
+
+#: lambda/slidermanager/index.php:377
+#@ claymore
+msgid "Slider Manager"
+msgstr "Slider Manager"
+
+#: lambda/slidermanager/index.php:378
+#: lambda/slidermanager/index.php:655
+#: lambda/tablemanager/index.php:282
+#@ claymore
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: lambda/slidermanager/index.php:388
+#@ claymore
+msgid "General Slider Settings"
+msgstr "General Slider Settings"
+
+#: lambda/slidermanager/index.php:392
+#@ claymore
+msgid "Add Slider Items"
+msgstr "Add Slider Items"
+
+#: lambda/slidermanager/index.php:480
+#@ claymore
+msgid "Choose Category"
+msgstr "Choose Category"
+
+#: lambda/slidermanager/index.php:487
+#@ claymore
+msgid "All Categories"
+msgstr "All Categories"
+
+#: lambda/slidermanager/index.php:500
+#@ claymore
+msgid "Add Slide"
+msgstr "Add Slide"
+
+#: lambda/slidermanager/index.php:524
+#: lambda/slidermanager/lambda.ajax.class.php:22
+#: lambda/slidermanager/lambda.slider.init.php:85
+#@ claymore
+msgid "Choose an Image"
+msgstr "Choose an Image"
+
+#: lambda/slidermanager/index.php:542
+#: lambda/slidermanager/lambda.ajax.class.php:34
+#: lambda/slidermanager/lambda.slider.init.php:97
+#@ claymore
+msgid "or place an embedded video code"
+msgstr "or place an embedded video code"
+
+#: lambda/slidermanager/index.php:547
+#: lambda/slidermanager/lambda.ajax.class.php:38
+#: lambda/slidermanager/lambda.slider.init.php:101
+#@ claymore
+msgid "You can also insert an image if using a video, this will be used as a poster!"
+msgstr "You can also insert an image if using a video, this will be used as a poster!"
+
+#: lambda/slidermanager/index.php:557
+#: lambda/slidermanager/lambda.ajax.class.php:48
+#: lambda/slidermanager/lambda.slider.init.php:111
+#@ claymore
+msgid "Caption Headline"
+msgstr "Caption Headline"
+
+#: lambda/slidermanager/index.php:572
+#: lambda/slidermanager/lambda.ajax.class.php:60
+#: lambda/slidermanager/lambda.slider.init.php:122
+#@ claymore
+msgid "Caption Text"
+msgstr "Caption Text"
+
+#: lambda/slidermanager/lambda.ajax.class.php:27
+#: lambda/slidermanager/lambda.slider.init.php:90
+#@ claymore
+msgid "upload"
+msgstr "upload"
+
+#: lambda/slidermanager/lambda.slider.init.php:78
+#@ claymore
+msgid "New Slide"
+msgstr "New Slide"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:69
+#@ claymore
+msgid "Transition Effect"
+msgstr "Transition Effect"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:70
+#@ claymore
+msgid "Select your transition effect type"
+msgstr "Select your transition effect type"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:77
+#@ claymore
+msgid "Easing Effect"
+msgstr "Easing Effect"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:78
+#@ claymore
+msgid "Select your easing effect type"
+msgstr "Select your easing effect type"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:84
+#@ claymore
+msgid "Slide Show Height"
+msgstr "Slide Show Height"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:85
+#@ claymore
+msgid "here you can type pixels (for instance 300px), a percentage (relative to the width of the slideshow, for instance 50%)"
+msgstr "here you can type pixels (for instance 300px), a percentage (relative to the width of the slideshow, for instance 50%)"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:91
+#@ claymore
+msgid "Slide Show Speed"
+msgstr "Slide Show Speed"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:92
+#@ claymore
+msgid "milliseconds between the end of the sliding effect and the start of the nex one"
+msgstr "milliseconds between the end of the sliding effect and the start of the nex one"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:97
+#@ claymore
+msgid "Animation Speed"
+msgstr "Animation Speed"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:98
+#@ claymore
+msgid "length of the sliding effect in milliseconds"
+msgstr "length of the sliding effect in milliseconds"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:105
+#@ claymore
+msgid "Loader Style"
+msgstr "Loader Style"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:106
+#@ claymore
+msgid "even if you choose \"pie\", old browsers like IE8- can't display it... they will display always a loading bar"
+msgstr "even if you choose \"pie\", old browsers like IE8- can't display it... they will display always a loading bar"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:113
+#@ claymore
+msgid "Loader Position"
+msgstr "Loader Position"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:114
+#@ claymore
+msgid "choose one of the 4 Positions"
+msgstr "choose one of the 4 Positions"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:121
+#@ claymore
+msgid "Loader Opacity"
+msgstr "Loader Opacity"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:122
+#@ claymore
+msgid "Change the loader opacity"
+msgstr "Change the loader opacity"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:129
+#@ claymore
+msgid "Display Controls on hover?"
+msgstr "Display Controls on hover?"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:130
+#@ claymore
+msgid "if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always"
+msgstr "if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:137
+#@ claymore
+msgid "Display Bullets?"
+msgstr "Display Bullets?"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:138
+#@ claymore
+msgid "If true each slide will create a bullet instead of a thumbnail"
+msgstr "If true each slide will create a bullet instead of a thumbnail"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:145
+#@ claymore
+msgid "Display Thumbnails?"
+msgstr "Display Thumbnails?"
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:146
+#@ claymore
+msgid "If true the user will see thumbnails as an additional menu when hovering the bullets"
+msgstr "If true the user will see thumbnails as an additional menu when hovering the bullets"
+
+#: lambda/tablemanager/index.php:84
+#@ claymore
+msgid "Manage your Tables"
+msgstr "Manage your Tables"
+
+#: lambda/tablemanager/index.php:94
+#@ claymore
+msgid "List of created Tables"
+msgstr "List of created Tables"
+
+#: lambda/tablemanager/index.php:100
+#: lambda/tablemanager/index.php:167
+#@ claymore
+msgid "Table Name"
+msgstr "Table Name"
+
+#: lambda/tablemanager/index.php:164
+#@ claymore
+msgid "Enter Table Name"
+msgstr "Enter Table Name"
+
+#: lambda/tablemanager/index.php:170
+#@ claymore
+msgid "Add new Table"
+msgstr "Add new Table"
+
+#: lambda/tablemanager/index.php:259
+#@ claymore
+msgid "Table deleted"
+msgstr "Table deleted"
+
+#: lambda/tablemanager/index.php:279
+#@ claymore
+msgid "Table Manager"
+msgstr "Table Manager"
+
+#: lambda/tablemanager/index.php:297
+#@ claymore
+msgid "Activate Column?"
+msgstr "Activate Column?"
+
+#: lambda/tablemanager/index.php:315
+#@ claymore
+msgid "Column is featured?"
+msgstr "Column is featured?"
+
+#: lambda/tablemanager/index.php:321
+#@ claymore
+msgid "yes"
+msgstr "yes"
+
+#: lambda/tablemanager/index.php:322
+#@ claymore
+msgid "no"
+msgstr "no"
+
+#: lambda/tablemanager/index.php:333
+#@ claymore
+msgid "Column Headline"
+msgstr "Column Headline"
+
+#: lambda/tablemanager/index.php:338
+#@ claymore
+msgid "Column Price"
+msgstr "Column Price"
+
+#: lambda/tablemanager/index.php:343
+#@ claymore
+msgid "Price Currency"
+msgstr "Price Currency"
+
+#: lambda/tablemanager/index.php:348
+#@ claymore
+msgid "Period"
+msgstr "Period"
+
+#: lambda/tablemanager/index.php:353
+#@ claymore
+msgid "Features"
+msgstr "Features"
+
+#: lambda/tablemanager/index.php:367
+#@ claymore
+msgid "Add Row"
+msgstr "Add Row"
+
+#: lambda/tablemanager/index.php:374
+#@ claymore
+msgid "Custom URL"
+msgstr "Custom URL"
+
+#: lambda/themeupdater/class-envato-protected-api.php:67
+#@ envato
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: lambda/themeupdater/class-envato-protected-api.php:71
+#@ envato
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: lambda/themeupdater/class-envato-protected-api.php:96
+#@ envato
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: lambda/themeupdater/class-envato-protected-api.php:167
+#@ envato
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: lambda/themeupdater/class-envato-wordpress-theme-upgrader.php:279
+#@ envato
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: lambda/themeupdater/class-envato-wordpress-theme-upgrader.php:290
+#@ envato
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: lambda/themeupdater/index.php:55
+#@ claymore
+msgid "There is a new Version available at Themeforest. We recommend to update the theme!"
+msgstr "There is a new Version available at Themeforest. We recommend to update the theme!"
+
+#: lambda/themeupdater/index.php:61
+#@ claymore
+msgid "Congratulations! You are running the newest theme version"
+msgstr "Congratulations! You are running the newest theme version"
+
+#: lambda/themeupdater/index.php:128
+#@ claymore
+msgid "Copyright"
+msgstr "Copyright"
+
+#: lambda/themeupdater/index.php:131
+#@ claymore
+msgid "Copyrightlink"
+msgstr "Copyrightlink"
+
+#: lambda/themeupdater/index.php:134
+#@ claymore
+msgid "change"
+msgstr "change"
+
+#: lambda/tinymce/lambda.button.popup.php:72
+#: lambda/tinymce/lambda.cta.popup.php:68
+#@ claymore
+msgid "Lambda Button Generator"
+msgstr "Lambda Button Generator"
+
+#: lambda/tinymce/lambda.google.popup.php:13
+#@ claymore
+msgid "Insert your individual Google Map"
+msgstr "Insert your individual Google Map"
+
+#: lambda/tinymce/lambda.google.popup.php:64
+#@ claymore
+msgid "Map information"
+msgstr "Map information"
+
+#: lambda/tinymce/lambda.sc.definitions.php:8
+#@ claymore
+msgid "One Third Column Shortcodes"
+msgstr "One Third Column Shortcodes"
+
+#: lambda/tinymce/lambda.sc.definitions.php:9
+#@ claymore
+msgid "One Third Column"
+msgstr "One Third Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:10
+#@ claymore
+msgid "Two Thirds Column"
+msgstr "Two Thirds Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:13
+#@ claymore
+msgid "One Half Column Shortcodes"
+msgstr "One Half Column Shortcodes"
+
+#: lambda/tinymce/lambda.sc.definitions.php:14
+#@ claymore
+msgid "One Half Column"
+msgstr "One Half Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:17
+#@ claymore
+msgid "One Fourth Column Shortcodes"
+msgstr "One Fourth Column Shortcodes"
+
+#: lambda/tinymce/lambda.sc.definitions.php:18
+#@ claymore
+msgid "One Fourth Column"
+msgstr "One Fourth Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:19
+#@ claymore
+msgid "Three Fourths Column"
+msgstr "Three Fourths Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:22
+#@ claymore
+msgid "One Fifth Column Shortcodes"
+msgstr "One Fifth Column Shortcodes"
+
+#: lambda/tinymce/lambda.sc.definitions.php:23
+#@ claymore
+msgid "One Fifth Column"
+msgstr "One Fifth Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:24
+#@ claymore
+msgid "Two Fifth Column"
+msgstr "Two Fifth Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:25
+#@ claymore
+msgid "Three Fifth Column"
+msgstr "Three Fifth Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:26
+#@ claymore
+msgid "Four Fifth Column"
+msgstr "Four Fifth Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:29
+#@ claymore
+msgid "One Sixth Column Shortcodes"
+msgstr "One Sixth Column Shortcodes"
+
+#: lambda/tinymce/lambda.sc.definitions.php:30
+#@ claymore
+msgid "One Sixth Column"
+msgstr "One Sixth Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:31
+#@ claymore
+msgid "Five Sixth Column"
+msgstr "Five Sixth Column"
+
+#: lambda/tinymce/lambda.sc.definitions.php:36
+#@ claymore
+msgid "Elements"
+msgstr "Elements"
+
+#: lambda/tinymce/lambda.sc.definitions.php:39
+#@ claymore
+msgid "Toggle Panel"
+msgstr "Toggle Panel"
+
+#: lambda/tinymce/lambda.sc.definitions.php:42
+#@ claymore
+msgid "Tabs"
+msgstr "Tabs"
+
+#: lambda/tinymce/lambda.sc.definitions.php:45
+#@ claymore
+msgid "Blockquote (left)"
+msgstr "Blockquote (left)"
+
+#: lambda/tinymce/lambda.sc.definitions.php:48
+#@ claymore
+msgid "Blockquote (right)"
+msgstr "Blockquote (right)"
+
+#: lambda/tinymce/lambda.sc.definitions.php:51
+#@ claymore
+msgid "Highlight (style one)"
+msgstr "Highlight (style one)"
+
+#: lambda/tinymce/lambda.sc.definitions.php:52
+#@ claymore
+msgid "Highlight (style two)"
+msgstr "Highlight (style two)"
+
+#: lambda/tinymce/lambda.sc.definitions.php:53
+#@ claymore
+msgid "Highlight (style three)"
+msgstr "Highlight (style three)"
+
+#: lambda/tinymce/lambda.sc.definitions.php:54
+#@ claymore
+msgid "Highlight (style four)"
+msgstr "Highlight (style four)"
+
+#: lambda/tinymce/lambda.sc.definitions.php:57
+#@ claymore
+msgid "Dropcap One"
+msgstr "Dropcap One"
+
+#: lambda/tinymce/lambda.sc.definitions.php:58
+#@ claymore
+msgid "Dropcap Two"
+msgstr "Dropcap Two"
+
+#: lambda/tinymce/lambda.sc.definitions.php:61
+#@ claymore
+msgid "Notification Box"
+msgstr "Notification Box"
+
+#: lambda/tinymce/lambda.sc.generator.php:48
+#@ claymore
+msgid "Manage Items"
+msgstr "Manage Items"
+
+#: lambda/tinymce/lambda.sc.generator.php:52
+#@ claymore
+msgid "Add Item"
+msgstr "Add Item"
+
+#: lambda/tinymce/lambda.sc.generator.php:92
+#@ claymore
+msgid "Lambda Shortcode Generator"
+msgstr "Lambda Shortcode Generator"
+
+#: lambda/tinymce/lambda.sc.generator.php:97
+#@ claymore
+msgid "Choose a Shortcode"
+msgstr "Choose a Shortcode"
+
+#: lambda/tinymce/lambda.sc.generator.php:125
+#@ claymore
+msgid "Shortcode Generator"
+msgstr "Shortcode Generator"
+
+#: lambda/tinymce/lambda.sc.generator.php:364
+#@ claymore
+msgid "Insert Shortcode"
+msgstr "Insert Shortcode"
+
+#: lambda/tinymce/lambda.slider.popup.php:13
+#@ claymore
+msgid "Insert your individual Slider"
+msgstr "Insert your individual Slider"
+
+#: lambda/tinymce/lambda.slider.popup.php:61
+#@ claymore
+msgid "available Sliders"
+msgstr "available Sliders"
+
+#: lambda/tinymce/lambda.soundcloud.popup.php:13
+#@ claymore
+msgid "Insert Soundcloud"
+msgstr "Insert Soundcloud"
+
+#: lambda/tinymce/lambda.soundcloud.popup.php:61
+#@ claymore
+msgid "Insert Soundcloud URL"
+msgstr "Insert Soundcloud URL"
+
+#: lambda/tinymce/lambda.table.popup.php:13
+#@ claymore
+msgid "Insert your individual Table"
+msgstr "Insert your individual Table"
+
+#: lambda/tinymce/lambda.table.popup.php:61
+#@ claymore
+msgid "available Tables"
+msgstr "available Tables"
+
+#: lambda/tinymce/lambda.vimeo.popup.php:13
+#@ claymore
+msgid "Insert Vimeo Video"
+msgstr "Insert Vimeo Video"
+
+#: lambda/tinymce/lambda.vimeo.popup.php:61
+#@ claymore
+msgid "Insert Vimeo ID"
+msgstr "Insert Vimeo ID"
+
+#: lambda/tinymce/lambda.youtube.popup.php:13
+#@ claymore
+msgid "Insert Youtube Video"
+msgstr "Insert Youtube Video"
+
+#: lambda/tinymce/lambda.youtube.popup.php:61
+#@ claymore
+msgid "Insert Youtube ID"
+msgstr "Insert Youtube ID"
+
+#: lambda/widgets/lambda_contact.php:14
+#@ claymore
+msgid "Insert your contact data in here!"
+msgstr "Insert your contact data in here!"
+
+#: lambda/widgets/lambda_contact.php:15
+#@ claymore
+msgid "Lambda - Contact"
+msgstr "Lambda - Contact"
+
+#: lambda/widgets/lambda_contact.php:25
+#@ claymore
+msgid "Address"
+msgstr "Address"
+
+#: lambda/widgets/lambda_contact.php:26
+#@ claymore
+msgid "Phone"
+msgstr "Phone"
+
+#: lambda/widgets/lambda_contact.php:27
+#@ claymore
+msgid "Fax"
+msgstr "Fax"
+
+#: lambda/widgets/lambda_contact.php:29
+#@ claymore
+msgid "Internet"
+msgstr "Internet"
+
+#: lambda/widgets/lambda_flickr.php:16
+#@ claymore
+msgid "Displays Flickr images by user or tags."
+msgstr "Displays Flickr images by user or tags."
+
+#: lambda/widgets/lambda_flickr.php:17
+#@ claymore
+msgid "Lambda - Flickrstream"
+msgstr "Lambda - Flickrstream"
+
+#: lambda/widgets/lambda_flickr.php:31
+#: lambda/widgets/lambda_recent_comment.php:99
+#: lambda/widgets/lambda_recent_post.php:110
+#: lambda/widgets/lambda_social.php:192
+#: lambda/widgets/lambda_twitter.php:54
+#@ claymore
+msgid "Title:"
+msgstr "Title:"
+
+#: lambda/widgets/lambda_flickr.php:36
+#@ claymore
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+#: lambda/widgets/lambda_flickr.php:40
+#@ claymore
+msgid "Limit:"
+msgstr "Limit:"
+
+#: lambda/widgets/lambda_like.php:14
+#@ claymore
+msgid "Widget to display most liked posts for a given time range."
+msgstr "Widget to display most liked posts for a given time range."
+
+#: lambda/widgets/lambda_like.php:15
+#@ claymore
+msgid "Lambda - Most Liked Posts"
+msgstr "Lambda - Most Liked Posts"
+
+#: lambda/widgets/lambda_like.php:27
+#@ claymore
+msgid "Most Liked Posts"
+msgstr "Most Liked Posts"
+
+#: lambda/widgets/lambda_like.php:41
+#@ claymore
+msgid "All time"
+msgstr "All time"
+
+#: lambda/widgets/lambda_like.php:42
+#@ claymore
+msgid "Last one day"
+msgstr "Last one day"
+
+#: lambda/widgets/lambda_like.php:43
+#@ claymore
+msgid "Last two days"
+msgstr "Last two days"
+
+#: lambda/widgets/lambda_like.php:44
+#@ claymore
+msgid "Last three days"
+msgstr "Last three days"
+
+#: lambda/widgets/lambda_like.php:45
+#@ claymore
+msgid "Last one week"
+msgstr "Last one week"
+
+#: lambda/widgets/lambda_like.php:46
+#@ claymore
+msgid "Last two weeks"
+msgstr "Last two weeks"
+
+#: lambda/widgets/lambda_like.php:47
+#@ claymore
+msgid "Last three weeks"
+msgstr "Last three weeks"
+
+#: lambda/widgets/lambda_like.php:48
+#@ claymore
+msgid "Last one month"
+msgstr "Last one month"
+
+#: lambda/widgets/lambda_like.php:49
+#@ claymore
+msgid "Last two months"
+msgstr "Last two months"
+
+#: lambda/widgets/lambda_like.php:50
+#@ claymore
+msgid "Last three months"
+msgstr "Last three months"
+
+#: lambda/widgets/lambda_like.php:51
+#@ claymore
+msgid "Last six months"
+msgstr "Last six months"
+
+#: lambda/widgets/lambda_like.php:52
+#@ claymore
+msgid "Last one year"
+msgstr "Last one year"
+
+#: lambda/widgets/lambda_like.php:55
+#@ claymore
+msgid "Most Liked"
+msgstr "Most Liked"
+
+#: lambda/widgets/lambda_like.php:55
+#@ claymore
+msgid "Recently Liked"
+msgstr "Recently Liked"
+
+#: lambda/widgets/lambda_like.php:62
+#@ claymore
+msgid "Number of posts to show"
+msgstr "Number of posts to show"
+
+#: lambda/widgets/lambda_like.php:66
+#@ claymore
+msgid "Time range"
+msgstr "Time range"
+
+#: lambda/widgets/lambda_like.php:77
+#@ claymore
+msgid "Show like count"
+msgstr "Show like count"
+
+#: lambda/widgets/lambda_like.php:134
+#@ claymore
+msgid "No posts liked yet."
+msgstr "No posts liked yet."
+
+#: lambda/widgets/lambda_recent_comment.php:14
+#@ claymore
+msgid "The most recent comments with Avatar"
+msgstr "The most recent comments with Avatar"
+
+#: lambda/widgets/lambda_recent_comment.php:15
+#@ claymore
+msgid "Lambda - Recent Comments"
+msgstr "Lambda - Recent Comments"
+
+#: lambda/widgets/lambda_recent_comment.php:56
+#@ claymore
+msgid "Recent Comments"
+msgstr "Recent Comments"
+
+#: lambda/widgets/lambda_recent_comment.php:71
+#, php-format
+#@ claymore
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: lambda/widgets/lambda_recent_comment.php:102
+#@ claymore
+msgid "Number of comments to show:"
+msgstr "Number of comments to show:"
+
+#: lambda/widgets/lambda_recent_post.php:14
+#@ claymore
+msgid "The most recent posts with on your site with postformats"
+msgstr "The most recent posts with on your site with postformats"
+
+#: lambda/widgets/lambda_recent_post.php:15
+#@ claymore
+msgid "Lambda - Recent Posts"
+msgstr "Lambda - Recent Posts"
+
+#: lambda/widgets/lambda_recent_post.php:40
+#@ claymore
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: lambda/widgets/lambda_recent_post.php:66
+#, php-format
+#@ claymore
+msgid "Permanent link to %s"
+msgstr "Permanent link to %s"
+
+#: lambda/widgets/lambda_recent_post.php:113
+#@ claymore
+msgid "Number of posts to show:"
+msgstr "Number of posts to show:"
+
+#: lambda/widgets/lambda_social.php:15
+#@ claymore
+msgid "Displays Social messages by User!"
+msgstr "Displays Social messages by User!"
+
+#: lambda/widgets/lambda_social.php:16
+#@ claymore
+msgid "Lambda - Social"
+msgstr "Lambda - Social"
+
+#: lambda/widgets/lambda_social.php:137
+#: lambda/widgets/lambda_social.php:217
+#: lambda/widgets/lambda_social.php:241
+#@ claymore
+msgid "Icon"
+msgstr "Icon"
+
+#: lambda/widgets/lambda_social.php:148
+#: lambda/widgets/lambda_social.php:231
+#: lambda/widgets/lambda_social.php:255
+#@ claymore
+msgid "remove"
+msgstr "remove"
+
+#: lambda/widgets/lambda_social.php:196
+#@ claymore
+msgid "Color:"
+msgstr "Color:"
+
+#: lambda/widgets/lambda_social.php:202
+#@ claymore
+msgid "Black Icons"
+msgstr "Black Icons"
+
+#: lambda/widgets/lambda_social.php:203
+#@ claymore
+msgid "White Icons"
+msgstr "White Icons"
+
+#: lambda/widgets/lambda_social.php:269
+#@ default
+msgid "Please \"save\" first <br /> to activate the Widget!"
+msgstr ""
+
+#: lambda/widgets/lambda_twitter.php:16
+#@ claymore
+msgid "Displays Twitter messages by User!"
+msgstr "Displays Twitter messages by User!"
+
+#: lambda/widgets/lambda_twitter.php:17
+#@ claymore
+msgid "Lambda - Twitter"
+msgstr "Lambda - Twitter"
+
+#: lambda/widgets/lambda_twitter.php:57
+#@ claymore
+msgid "The widgets title."
+msgstr "The widgets title."
+
+#: lambda/widgets/lambda_twitter.php:59
+#@ claymore
+msgid "Username(s):"
+msgstr "Username(s):"
+
+#: lambda/widgets/lambda_twitter.php:62
+#@ claymore
+msgid "Enter one or more usernames seperated by comma."
+msgstr "Enter one or more usernames seperated by comma."
+
+#: lambda/widgets/lambda_twitter.php:64
+#@ claymore
+msgid "Count:"
+msgstr "Count:"
+
+#: lambda/widgets/lambda_twitter.php:67
+#@ claymore
+msgid "How many tweets to display."
+msgstr "How many tweets to display."
+
+#: lambda/widgets/lambda_twitter.php:69
+#@ claymore
+msgid "Text loading:"
+msgstr "Text loading:"
+
+#: lambda/widgets/lambda_twitter.php:72
+#@ claymore
+msgid "Optional loading text, displayed while tweets load."
+msgstr "Optional loading text, displayed while tweets load."
+
+#: lambda/widgets/lambda_video.php:14
+#@ claymore
+msgid "Insert your embedded code in here!"
+msgstr "Insert your embedded code in here!"
+
+#: lambda/widgets/lambda_video.php:15
+#@ claymore
+msgid "Lambda - Embedded Video"
+msgstr "Lambda - Embedded Video"
+
+#: loop-contactform.php:63
+#@ claymore
+msgid "Message has been sent!"
+msgstr "Message has been sent!"
+
+#: loop-contactform.php:66
+#@ claymore
+msgid "Message has not been sent! Reason: Incorrect Caption!"
+msgstr "Message has not been sent! Reason: Incorrect Caption!"
+
+#: loop-contactform.php:124
+#@ claymore
+msgid "Submit"
+msgstr "Submit"
+
+#: loop-contactform.php:129
+#: loop-page.php:32
+#: loop-page.php:33
+#: loop-portfolio.php:102
+#: loop-single.php:62
+#: loop-sliderpage.php:19
+#: loop.php:673
+#@ claymore
+#@ woothemes
+msgid "Pages:"
+msgstr "Pages:"
+
+#: loop-portfolio.php:113
+#@ claymore
+msgid "Visit Site"
+msgstr "Visit Site"
+
+#: loop-single.php:27
+#: loop.php:96
+#: loop.php:206
+#: loop.php:319
+#: loop.php:430
+#: loop.php:508
+#: loop.php:604
+#@ claymore
+msgid "By "
+msgstr "By "
+
+#: loop-single.php:75
+#, php-format
+#@ claymore
+msgid "<span class=\"%1$s\"></span> %2$s"
+msgstr "<span class=\"%1$s\"></span> %2$s"
+
+#: loop-single.php:105
+#@ claymore
+msgid "About "
+msgstr "About "
+
+#: loop-single.php:176
+#@ claymore
+msgctxt "Previous post link"
+msgid "&#8656;"
+msgstr ""
+
+#: loop-single.php:177
+#@ claymore
+msgctxt "Next post link"
+msgid "&#8658;"
+msgstr ""
+
+#: loop.php:36
+#@ claymore
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:38
+#@ claymore
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+
+#: loop.php:67
+#@ claymore
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr ""
+
+#: loop.php:143
+#: loop.php:256
+#: loop.php:383
+#: loop.php:472
+#: loop.php:568
+#: loop.php:657
+#@ claymore
+msgid "Read more <span class=\"meta-nav\">&#043;</span>"
+msgstr ""
+
+#: loop.php:174
+#@ claymore
+msgctxt "video category slug"
+msgid "videos"
+msgstr ""
+
+#: loop.php:287
+#@ claymore
+msgctxt "audio category slug"
+msgid "audio"
+msgstr ""
+
+#: loop.php:411
+#@ claymore
+msgctxt "link category slug"
+msgid "links"
+msgstr ""
+
+#: loop.php:490
+#@ claymore
+msgctxt "quote category slug"
+msgid "quotes"
+msgstr ""
+
+#: loop.php:694
+#@ claymore
+msgid "<span class=\"meta-nav\">&#8656;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&#8656;</span> Older posts"
+
+#: loop.php:695
+#@ claymore
+msgid "Newer posts <span class=\"meta-nav\">&#8658;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&#8658;</span>"
+
+#: revslider/inc_php/revslider_widget.class.php:8
+#@ claymore
+msgid "Displays a revolution slider on the page"
+msgstr "Displays a revolution slider on the page"
+
+#: revslider/inc_php/revslider_widget.class.php:24
+#@ claymore
+msgid "No sliders found, Please create a slider"
+msgstr "No sliders found, Please create a slider"
+
+#: search.php:34
+#, php-format
+#@ claymore
+msgid "Search Results for:<span> %s </span>"
+msgstr "Search Results for:<span> %s </span>"
+
+#: search.php:44
+#@ claymore
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: search.php:46
+#@ claymore
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+#: tag.php:21
+#, php-format
+#@ claymore
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: template-archiv.php:48
+#@ claymore
+msgid "Last 30 Posts"
+msgstr "Last 30 Posts"
+
+#: template-archiv.php:70
+#@ claymore
+msgid "Top 10 Likes"
+msgstr "Top 10 Likes"
+
+#: template-archiv.php:86
+#@ claymore
+msgid "No posts voted yet."
+msgstr "No posts voted yet."
+
+#: template-archiv.php:102
+#@ claymore
+msgid "Archives by Subject:"
+msgstr "Archives by Subject:"
+
+#: template-archiv.php:116
+#@ claymore
+msgid "Archives by Month:"
+msgstr "Archives by Month:"
+
+#: template-part-teaser.php:41
+#@ claymore
+msgid "404 Error"
+msgstr "404 Error"
+
+#: template-part-teaser.php:47
+#: template-part-teaser.php:50
+#: template-part-teaser.php:53
+#: template-part-teaser.php:56
+#, php-format
+#@ claymore
+msgid "%s"
+msgstr "%s"
+
+#: template-part-teaser.php:60
+#@ claymore
+msgid "Blog Archives"
+msgstr "Blog Archives"
+

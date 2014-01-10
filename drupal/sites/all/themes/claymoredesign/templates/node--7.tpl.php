@@ -1,1 +1,0 @@
-<h1 style="font-size: 80px; margin: 0;">404</h1><p>Error, Invalid Page.</p>
